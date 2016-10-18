@@ -73,6 +73,9 @@ http://docs.oracle.com/javase/specs/
 http://www.runoob.com/java/  
 （我绝对不是打广告）
 
+###官方教程
+http://docs.oracle.com/javase/tutorial/
+
 ##Forge模组开发
 
 ###1.8.9Forge教程
@@ -136,9 +139,12 @@ https://hub.spigotmc.org/javadocs/spigot/
 很多问题都能在这里解决。    
 https://www.spigotmc.org/forums/spigot-plugin-development.52/
 
-###高级教程
+###其他插件开发高级教程
 - ProtocolLib教程
 http://www.mcbbs.net/thread-568714-1-1.html
+- Ebean数据库
+http://www.mcbbs.net/thread-628118-1-1.html    
+http://www.mcbbs.net/thread-636860-1-1.html
 
 ##其他
 
@@ -171,6 +177,10 @@ http://tool.oschina.net/apidocs/apidoc?api=jdk-zh
 ###MC开发中文百科
 https://www.mcdev-wiki.org/
 
+###Stack Overflow
+国外的一个关于开发的求助网站    
+http://stackoverflow.com/
+
 ##后记
-花了2天时间收集各种资料，写得不是很好的开发指南，希望大家能够多多支持。有什么建议可以通过Issue，电邮，站内信，在下方直接回复都可以哦。     
+花了2天时间收集各种资料，写得不是很好的开发指南，希望大家能够多多支持。有什么建议可以通过Issue，电邮，站内信，在下方直接回复都可以。     
 未经允许，禁止转载。
