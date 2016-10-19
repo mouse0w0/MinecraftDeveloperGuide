@@ -1,5 +1,4 @@
 #Java与Minecraft开发学习指南
-未经允许，禁止转载。
 
 ##前言
 有很多人问我怎么学Java，想成为Minecraft大神（大佬or大牛），所以就萌生了一个编写学习指南的想法，来引导想学习Java进行Minecraft相关开发的新人，经过一段时间的策划，本指南诞生了。  
@@ -26,15 +25,14 @@
 - 学习编程是看书好还是看视频好？  
 萝卜青菜，各有所爱，关键是看哪种方式能让你更好理解和学习。我个人是喜爱书本，可以随时查阅资料，非常方便。
 
-- 我学习了很久，但没有成效，我是不是没有天赋？    
-我个人觉得对于入门的学习来说，天赋对于学习的影响微乎其微，如果你的学习效率低下，考虑是不是以下原因：
+- 我学习了很久，但没有成效，我是不是没有天赋？    我个人觉得对于入门的学习来说，天赋对于学习的影响微乎其微，如果你的学习效率低下，考虑是不是以下原因：
   - 单纯的努力不足，三天打鱼两天晒网。如果不能改正，不如考虑干点别的。
   - 数学逻辑思维和解决问题的能力不足。这个可以学习一些简单易懂的教程，看看视频等，慢慢锻炼，没有任何捷径。
   - 学习方法不对，主要是练得少。只翻书和看视频是没有用的，必须配合大量的练习。个人推荐的方法是：
     - 看完书以后把书上给出的例题再敲一遍，不是照着书上写。
-    - 把课后习题都给做了。
-    - 做几个自己感兴趣的项目。
-    - 对于自己不懂的问题，先看看书，再百度谷歌，最后才询问他人。
+   - 把课后习题都给做了。
+   - 做几个自己感兴趣的项目。
+   - 对于自己不懂的问题，先看看书，再百度谷歌，最后才询问他人。
 
 ##提问的智慧
 必读，教你如何获得答案
@@ -80,7 +78,7 @@ http://docs.oracle.com/javase/tutorial/
 
 ###1.8.9Forge教程
 非常全面的Forge开发教程，强烈推荐。  
-地址：https://fmltutor.ustc-zzzz.net/
+https://fmltutor.ustc-zzzz.net/
 
 ###国内优秀Mod开发者博客
 一些比较高端的教程，建议有一定水平后阅读。  
@@ -89,7 +87,7 @@ http://docs.oracle.com/javase/tutorial/
 
 ###Forge中文文档
 详细介绍了Forge添加的非常有用的功能。  
-地址：http://mcforge-cn.readthedocs.io/zh/latest/
+http://mcforge-cn.readthedocs.io/zh/latest/
 
 ###国外模组开发教程
 由于没有详细的阅读过，不做评论，但大都全面，非常推荐英语水平好的同学前去阅读。    
@@ -103,11 +101,11 @@ http://docs.oracle.com/javase/tutorial/
 
 ###国外mod开发讨论
 很多问题都能在这里解决
-- Forge官方论坛Mod开发讨论版块  
+- Forge官方论坛Mod开发讨论版块    
 http://www.minecraftforge.net/forum/index.php?board=73.0
-- Forge官方论坛Mod开发教程版块
+- Forge官方论坛Mod开发教程版块    
 http://www.minecraftforge.net/forum/index.php?board=120.0 
-- 国外Minecraft论坛Mod开发讨论版块
+- 国外Minecraft论坛Mod开发讨论版块    
 http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development
 
 ##Bukkit/Spigot插件开发
@@ -140,10 +138,10 @@ https://hub.spigotmc.org/javadocs/spigot/
 https://www.spigotmc.org/forums/spigot-plugin-development.52/
 
 ###其他插件开发高级教程
-- ProtocolLib教程
+- ProtocolLib教程    
 http://www.mcbbs.net/thread-568714-1-1.html
-- Ebean数据库
-http://www.mcbbs.net/thread-628118-1-1.html    
+- Ebean数据库    
+http://www.mcbbs.net/thread-628118-1-1.html      
 http://www.mcbbs.net/thread-636860-1-1.html
 
 ##其他
@@ -153,7 +151,7 @@ http://www.mcbbs.net/thread-636860-1-1.html
 https://github.com/
 
 ###MCBBS开发讨论板块
-有很多有用的东西哦。
+有很多有用的东西哦。  
 http://www.mcbbs.net/forum.php?mod=forumdisplay&fid=479
 
 ###MCBBS开发教程索引贴
@@ -182,5 +180,12 @@ https://www.mcdev-wiki.org/
 http://stackoverflow.com/
 
 ##后记
-花了2天时间收集各种资料，写得不是很好的开发指南，希望大家能够多多支持。有什么建议可以通过Issue，电邮，站内信，在下方直接回复都可以。     
-未经允许，禁止转载。
+花了2天时间收集各种资料，写得不是很好的开发指南，希望大家能够多多支持。有什么建议可以通过Issue，电邮，站内信，在下方直接回复都可以。
+
+##版权声明
+
+本作品作者为耗子
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
+
+转载请附上本作品链接： https://github.com/mousesrc/MinecraftDeveloperGuide
