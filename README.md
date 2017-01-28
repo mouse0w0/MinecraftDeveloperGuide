@@ -142,10 +142,24 @@ https://www.spigotmc.org/forums/spigot-plugin-development.52/
 http://www.mcbbs.net/thread-568714-1-1.html
 - Ebean数据库    
 http://www.mcbbs.net/thread-628118-1-1.html      
-http://www.mcbbs.net/thread-636860-1-1.html
+http://www.mcbbs.net/thread-636860-1-1.html    
+    
+##Sponge插件开发    
+    
+###官方网站    
+https://www.spongepowered.org/    
+    
+###官方论坛    
+https://forums.spongepowered.org/    
+    
+###官方教程(支持多国语言，含简体中文)    
+https://docs.spongepowered.org    
 
-##其他
-
+###官方JavaDoc  
+https://jd.spongepowered.org/5.0.0/    
+    
+##其他    
+    
 ###Github
 世界上最大的~~同性交友~~社交编程以及代码托管网站，可以在这里查看许多模组和插件的源代码。    
 https://github.com/
