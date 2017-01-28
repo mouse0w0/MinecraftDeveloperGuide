@@ -35,7 +35,6 @@
     - 对于自己不懂的问题，先看看书，再百度谷歌，最后才询问他人。
 
 ##提问的智慧
-必读，教你如何获得答案
 [外部链接](https://lug.ustc.edu.cn/wiki/doc/smart-questions)
 
 ##自学的方法
@@ -157,8 +156,19 @@ https://docs.spongepowered.org
 
 ###官方JavaDoc  
 https://jd.spongepowered.org/5.0.0/    
+
+##LiteLoader模组开发    
     
-##其他    
+###官方网站    
+http://www.liteloader.com/       
+    
+###zzzz的LiteMod开发引导(简体中文)
+http://www.mcbbs.net/thread-659755-1-1.html
+    
+###官方仓库  
+http://develop.liteloader.com/public  
+    
+##其他    
     
 ###Github
 世界上最大的~~同性交友~~社交编程以及代码托管网站，可以在这里查看许多模组和插件的源代码。    
