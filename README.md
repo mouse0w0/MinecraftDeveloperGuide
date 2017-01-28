@@ -160,10 +160,10 @@ https://jd.spongepowered.org/5.0.0/
 ##LiteLoader模组开发    
     
 ###官方网站    
-http://www.liteloader.com/       
+http://www.liteloader.com/     
     
-###zzzz的LiteMod开发引导(简体中文)
-http://www.mcbbs.net/thread-659755-1-1.html
+###zzzz的LiteMod开发引导(简体中文)    
+http://www.mcbbs.net/thread-659755-1-1.html    
     
 ###官方仓库  
 http://develop.liteloader.com/public  
