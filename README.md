@@ -34,9 +34,9 @@
     - 做几个自己感兴趣的项目。
     - 对于自己不懂的问题，先看看书，再百度谷歌，最后才询问他人。
 
-##提问的智慧
-[外部链接](https://lug.ustc.edu.cn/wiki/doc/smart-questions)
-
+##提问的智慧     
+如果你的提问经常得不到答案，那可能是方法的问题，看看[这个](https://lug.ustc.edu.cn/wiki/doc/smart-questions)会解决你许多问题。    
+    
 ##自学的方法
 - 每当学习到新知识的时候应该及时的练习和实践
 - 多看看开发文档，每次你都能获得新的收获
@@ -75,46 +75,56 @@ http://docs.oracle.com/javase/tutorial/
 
 ##Forge模组开发
 
-###1.8.9Forge教程
-非常全面的Forge开发教程，强烈推荐。  
+###(1.8.9)zzzz的模组开发教程
+非常全面的Forge开发教程，简体中文，强烈推荐。  
 https://fmltutor.ustc-zzzz.net/
 
-###国内优秀Mod开发者博客
+###国内优秀模组开发者博客
 一些比较高端的教程，建议有一定水平后阅读。  
 - http://blog.hakugyokurou.net/?page_id=126
 - http://www.windworkshop.cn/?page_id=525
 
 ###Forge中文文档
-详细介绍了Forge添加的非常有用的功能。  
+详细介绍了Forge添加的非常有用的库。  
 http://mcforge-cn.readthedocs.io/zh/latest/
 
 ###国外模组开发教程
-由于没有详细的阅读过，不做评论，但大都全面，非常推荐英语水平好的同学前去阅读。    
-- http://bedrockminer.jimdo.com/
-- http://minecraftjp.info/modding/index.php/Minecraft_Modding_Wiki
-- http://forgetutorials.weebly.com/
-- http://jabelarminecraft.blogspot.com/
-- http://greyminecraftcoder.blogspot.com/
-- http://modwiki.temporal-reality.com/mw/index.php/Main_Page
-- http://www.pahimar.com/tutorials/lets-mod/
-
+由于没有详细的阅读过，不做评论，但大都全面，非常推荐英语水平好的同学前去阅读。排名不分先后。    
+- [(1.8-1.7)bedrockminer的模组开发教程](https://bedrockminer.jimdo.com/modding-tutorials/)
+- [日本的模组开发百科](http://minecraftjp.info/modding/index.php/Minecraft_Modding_Wiki)
+- [Blfngl的模组开发教程](http://forgetutorials.weebly.com/)
+- [Jabelar的模组开发教程](http://jabelarminecraft.blogspot.com/)
+- [(1.8-1.6)greyminecraftcoder的模组开发教程](http://greyminecraftcoder.blogspot.com/)
+- [(1.11-1.8.9)McJty的模组开发百科](http://modwiki.temporal-reality.com/mw/index.php/Main_Page)
+- [Pahimar的模组开发视频教程](http://www.pahimar.com/tutorials/lets-mod/)
+- [(1.9-1.8.X)结构生成教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2666351-1-8-x-and-1-9-structure-generation-tutorial)
+- [(1.9-1.8.X)复杂结构生成教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2667034-1-8-x-and-1-9-complex-structure-generation)
+- [(1.7.10)模组开发教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/1571600-1-7-10-minecraft-forge-modding-tutorials-begginer)
+- [(1.8-1.3)wuppy29的模组开发教程](http://www.wuppy29.com/minecraft/modding-tutorials/forge-modding/)
+- [(1.9.4)Darkhax的模组开发教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2681240-darkhaxs-modding-tutorials)
+- [(1.10-1.9)MrCrayFish的模组开发视频教程](https://www.youtube.com/playlist?list=PLy11IosblXIH-OIKa5yYs-KEA2LCohV8g)
+- [(1.10-1.9)DisgultGA的模组开发视频教程](https://www.youtube.com/playlist?list=PLkhfw1xGCrIPpgIGXuhFmkjPK5427q4e6)
+- [(1.10-1.8)Ash5357的模组开发视频教程](https://www.youtube.com/playlist?list=PLMgygZJ6uqwOSrAaGAOgnUIMAirtPG7w-)
+        
+###一些模组实例代码     
+- https://github.com/Choonster/TestMod3      
+- https://github.com/TheGreyGhost/MinecraftByExample      
+      
+        
 ###国外mod开发讨论
 很多问题都能在这里解决
+- 国外Minecraft论坛Mod开发讨论版块    
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development
 - Forge官方论坛Mod开发讨论版块    
 http://www.minecraftforge.net/forum/index.php?board=73.0
 - Forge官方论坛Mod开发教程版块    
 http://www.minecraftforge.net/forum/index.php?board=120.0 
-- 国外Minecraft论坛Mod开发讨论版块    
-http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development
 
 ##Bukkit/Spigot插件开发
 
-###810587921的插件教程
-我的入门教程     
+###简体中文优秀教程        
+- 810587921的插件教程
 http://www.mcbbs.net/thread-283190-1-1.html
-
-###其他国内优秀教程
-由于没看过不做评价，但是内容都很全面
 - Day's Bukkit插件开发教程索引    
 http://www.mcbbs.net/thread-439856-1-1.html
 - wyt的Bukkit插件开发教程    
