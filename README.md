@@ -104,9 +104,9 @@ http://mcforge-cn.readthedocs.io/zh/latest/
 - [(1.9.4)Darkhax的模组开发教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2681240-darkhaxs-modding-tutorials)
 - [(1.10-1.9)MrCrayFish的模组开发视频教程](https://www.youtube.com/playlist?list=PLy11IosblXIH-OIKa5yYs-KEA2LCohV8g)
 - [(1.10-1.9)DisgultGA的模组开发视频教程](https://www.youtube.com/playlist?list=PLkhfw1xGCrIPpgIGXuhFmkjPK5427q4e6)
-- [(1.10-1.8)Ash5357的模组开发视频教程](https://www.youtube.com/playlist?list=PLMgygZJ6uqwOSrAaGAOgnUIMAirtPG7w-)
-        
-###一些模组实例代码     
+- [(1.10-1.8)Ash5357的模组开发视频教程](https://www.youtube.com/playlist?list=PLMgygZJ6uqwOSrAaGAOgnUIMAirtPG7w-)        
+         
+###一些模组实例代码      
 - https://github.com/Choonster/TestMod3      
 - https://github.com/TheGreyGhost/MinecraftByExample      
       
