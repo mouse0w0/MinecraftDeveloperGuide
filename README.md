@@ -113,7 +113,7 @@ http://www.minecraftforge.net/forum/index.php?board=120.0
 ##Bukkit/Spigot插件开发
 
 ###简体中文优秀教程        
-- 810587921的插件教程
+- 810587921的插件教程        
 http://www.mcbbs.net/thread-283190-1-1.html
 - Day's Bukkit插件开发教程索引    
 http://www.mcbbs.net/thread-439856-1-1.html
@@ -136,13 +136,17 @@ https://hub.spigotmc.org/javadocs/spigot/
 很多问题都能在这里解决。    
 https://www.spigotmc.org/forums/spigot-plugin-development.52/
 
-###其他插件开发高级教程
+###其他插件开发教程
 - ProtocolLib教程    
 http://www.mcbbs.net/thread-568714-1-1.html
 - Ebean数据库    
 http://www.mcbbs.net/thread-628118-1-1.html      
 http://www.mcbbs.net/thread-636860-1-1.html    
-    
+- Placeholder教程    
+http://www.mcbbs.net/thread-570703-1-1.html     
+- VaultAPI翻译        
+http://www.mcbbs.net/thread-615396-1-1.html       
+
 ##Sponge插件开发    
     
 ###官方网站    
