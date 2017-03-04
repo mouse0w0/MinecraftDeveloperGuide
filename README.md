@@ -1,9 +1,5 @@
 #Java与Minecraft开发学习指南
 
-##前言
-有很多人问我怎么学Java，想成为Minecraft大神（大佬or大牛），所以就萌生了一个编写学习指南的想法，来引导想学习Java进行Minecraft相关开发的新人，经过一段时间的策划，本指南诞生了。  
-本人从事Minecraft相关开发两年，经验不够丰富，还希望各位多多指教，互相交流经验，促进开发圈的良好发展。
-
 ##新手的疑问
 初学者都有很多疑问，在这里对这些疑问进行一一解答。
 
@@ -59,12 +55,6 @@
   
 ###《Java编程思想》
 由于我没看过不做评价，但别人都说不错。 
- 
-###《Effective Java》
-相当好的一本关于Java的一些开发规范介绍书籍，帮助你写出更好，更健全，更规范的代码，强烈推荐阅读。    
-
-###JAVA语言规范
-http://docs.oracle.com/javase/specs/
 
 ###Java中文在线教程
 http://www.runoob.com/java/  
@@ -85,7 +75,7 @@ https://fmltutor.ustc-zzzz.net/
 - http://www.windworkshop.cn/?page_id=525
 
 ###Forge中文文档
-详细介绍了Forge添加的非常有用的库。  
+详细介绍了Forge添加的非常有用的库。     
 http://mcforge-cn.readthedocs.io/zh/latest/
 
 ###国外模组开发教程
@@ -213,8 +203,8 @@ https://www.mcdev-wiki.org/
 国外的一个关于开发的求助网站    
 http://stackoverflow.com/
 
-##后记
-花了2天时间收集各种资料，写得不是很好的开发指南，希望大家能够多多支持。有什么建议可以通过Issue，电邮，站内信，在下方直接回复都可以。
+##反馈与建议
+有相关建议和意见可以提交Issue。
 
 ##版权声明
 
