@@ -1,6 +1,6 @@
-#Java与Minecraft开发学习指南
+# Java与Minecraft开发学习指南
 
-##新手的疑问
+## 新手的疑问
 初学者都有很多疑问，在这里对这些疑问进行一一解答。
 
 - 我英语不好，可以学习编程吗？  
@@ -30,10 +30,10 @@
     - 做几个自己感兴趣的项目。
     - 对于自己不懂的问题，先看看书，再百度谷歌，最后才询问他人。
 
-##提问的智慧     
+## 提问的智慧     
 如果你的提问经常得不到答案，那可能是方法的问题，看看[这个](https://lug.ustc.edu.cn/wiki/doc/smart-questions)会解决你许多问题。    
     
-##自学的方法
+## 自学的方法
 - 每当学习到新知识的时候应该及时的练习和实践
 - 多看看开发文档，每次你都能获得新的收获
 - 多看看别人的源代码，很多问题都能得到解决
@@ -42,43 +42,43 @@
 - 好的提问方式才能获得正确答案
 - 合理的规划学习时间，而不是三天打鱼两天晒网
 
-##Java基础教程
+## Java基础教程
 
-###《Java从入门到精通》
+### 《Java从入门到精通》
 我的Java入门书，虽然内容有些老旧，但也是非常适合Java入门的。
 
-###《Java8编程入门(参考)官方教程》
+### 《Java8编程入门(参考)官方教程》
 本书分两本，一本是 《Java8编程入门官方教程》，一本是 《Java8编程参考官方教程》。入门版本内容较少，由于我没看过不做评价，参考版本内容很多，可以当字典用。  
 
-###《Java核心技术》
+### 《Java核心技术》
 非常不错的一套书，共2本，解决了我的很多疑问，也可以当做字典来查阅。
   
-###《Java编程思想》
+### 《Java编程思想》
 由于我没看过不做评价，但别人都说不错。 
 
-###Java中文在线教程
+### Java中文在线教程
 http://www.runoob.com/java/  
 （我绝对不是打广告）
 
-###官方教程
+### 官方教程
 http://docs.oracle.com/javase/tutorial/
 
-##Forge模组开发
+## Forge模组开发
 
-###(1.8.9)zzzz的模组开发教程
+### (1.8.9)zzzz的模组开发教程
 非常全面的Forge开发教程，简体中文，强烈推荐。  
 https://fmltutor.ustc-zzzz.net/
 
-###国内优秀模组开发者博客
+### 国内优秀模组开发者博客
 一些比较高端的教程，建议有一定水平后阅读。  
 - http://blog.hakugyokurou.net/?page_id=126
 - http://www.windworkshop.cn/?page_id=525
 
-###Forge中文文档
+### Forge中文文档
 详细介绍了Forge添加的非常有用的库。     
 http://mcforge-cn.readthedocs.io/zh/latest/
 
-###国外模组开发教程
+### 国外模组开发教程
 由于没有详细的阅读过，不做评论，但大都全面，非常推荐英语水平好的同学前去阅读。排名不分先后。    
 - [(1.8-1.7)bedrockminer的模组开发教程](https://bedrockminer.jimdo.com/modding-tutorials/)
 - [日本的模组开发百科](http://minecraftjp.info/modding/index.php/Minecraft_Modding_Wiki)
@@ -97,11 +97,11 @@ http://mcforge-cn.readthedocs.io/zh/latest/
 - [(1.10-1.8)Ash5357的模组开发视频教程](https://www.youtube.com/playlist?list=PLMgygZJ6uqwOSrAaGAOgnUIMAirtPG7w-)
 - [(1.10.X)国外网友自己整理的模组开发教程合集](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2718726-list-of-minecraft-1-10-x-modding-tutorials)
 
-###一些模组实例代码      
+### 一些模组实例代码      
 - https://github.com/Choonster/TestMod3
 - https://github.com/TheGreyGhost/MinecraftByExample
 
-###国外mod开发讨论
+### 国外mod开发讨论
 很多问题都能在这里解决
 - 国外Minecraft论坛Mod开发讨论版块    
 http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development
@@ -110,9 +110,9 @@ http://www.minecraftforge.net/forum/index.php?board=73.0
 - Forge官方论坛Mod开发教程版块    
 http://www.minecraftforge.net/forum/index.php?board=120.0 
 
-##Bukkit/Spigot插件开发
+## Bukkit/Spigot插件开发
 
-###简体中文优秀教程        
+### 简体中文优秀教程        
 - 810587921的插件教程        
 http://www.mcbbs.net/thread-283190-1-1.html
 - Day's Bukkit插件开发教程索引    
@@ -120,23 +120,23 @@ http://www.mcbbs.net/thread-439856-1-1.html
 - wyt的Bukkit插件开发教程    
 http://www.mcbbs.net/thread-614388-1-1.html
 
-###官方教程
+### 官方教程
 - 新版本(现Spigot)    
 https://www.spigotmc.org/wiki/spigot/
 - 旧版本(原Bukkit)    
 http://wiki.bukkit.org/Plugin_Tutorial
 
-###Bukkit API开发者文档
+### Bukkit API开发者文档
 - 中文文档    
 https://docs.windit.net/Chinese_BukkitAPI/
 - 英文文档    
 https://hub.spigotmc.org/javadocs/spigot/
 
-###Spigot官方论坛插件开发讨论版块
+### Spigot官方论坛插件开发讨论版块
 很多问题都能在这里解决。    
 https://www.spigotmc.org/forums/spigot-plugin-development.52/
 
-###其他插件开发教程
+### 其他插件开发教程
 - ProtocolLib教程    
 http://www.mcbbs.net/thread-568714-1-1.html
 - Ebean数据库    
@@ -147,70 +147,70 @@ http://www.mcbbs.net/thread-570703-1-1.html    
 - VaultAPI翻译        
 http://www.mcbbs.net/thread-615396-1-1.html       
 
-##Sponge插件开发    
+## Sponge插件开发    
     
-###官方网站    
+### 官方网站    
 https://www.spongepowered.org/    
     
-###官方论坛    
+### 官方论坛    
 https://forums.spongepowered.org/    
     
-###官方教程(支持多国语言，含简体中文)    
+### 官方教程(支持多国语言，含简体中文)    
 https://docs.spongepowered.org    
 
-###官方JavaDoc  
+### 官方JavaDoc  
 https://jd.spongepowered.org/5.0.0/    
 
-##LiteLoader模组开发    
+## LiteLoader模组开发    
     
-###官方网站    
+### 官方网站    
 http://www.liteloader.com/     
     
-###zzzz的LiteMod开发引导(简体中文)    
+### zzzz的LiteMod开发引导(简体中文)    
 http://www.mcbbs.net/thread-659755-1-1.html    
     
-###官方仓库  
+### 官方仓库  
 http://develop.liteloader.com/public  
     
-##其他    
+## 其他    
     
-###Github
-世界上最大的~~同性交友~~社交编程以及代码托管网站，可以在这里查看许多模组和插件的源代码。    
+### Github
+世界上最大的社交编程以及代码托管网站，可以在这里查看许多模组和插件的源代码。    
 https://github.com/
 
-###MCBBS开发讨论板块
+### MCBBS开发讨论板块
 有很多有用的东西哦。  
 http://www.mcbbs.net/forum.php?mod=forumdisplay&fid=479
 
-###MCBBS开发教程索引贴
+### MCBBS开发教程索引贴
 http://www.mcbbs.net/thread-54579-1-1.html
 
-###Javadoc
+### Javadoc
 - 官方英文
 http://docs.oracle.com/javase/8/docs/api/
 - 中文文档(Java 6)
 http://tool.oschina.net/apidocs/apidoc?api=jdk-zh
 
-###搜索引擎
+### 搜索引擎
 - https://www.baidu.com
 - https://www.google.com
 
-###国内开发讨论QQ群
+### 国内开发讨论QQ群
 - 国内最大的MC开发讨论群：284633248
 - 插件开发交流群： 313498121
 - 我的没什么dalao的开发讨论群： 345538010
 
-###MC开发中文百科
+### MC开发中文百科
 https://www.mcdev-wiki.org/
 
-###Stack Overflow
+### Stack Overflow
 国外的一个关于开发的求助网站    
 http://stackoverflow.com/
 
-##反馈与建议
+## 反馈与建议
 有相关建议和意见可以提交Issue。
 
-##版权声明
+## 版权声明
 
 本作品作者为耗子
 
