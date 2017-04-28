@@ -121,31 +121,22 @@ http://www.mcbbs.net/thread-439856-1-1.html
 http://www.mcbbs.net/thread-614388-1-1.html
 
 ### 官方教程
-- 新版本(现Spigot)    
-https://www.spigotmc.org/wiki/spigot/
-- 旧版本(原Bukkit)    
-http://wiki.bukkit.org/Plugin_Tutorial
+- [新版本(现Spigot)](https://www.spigotmc.org/wiki/spigot/)
+- [旧版本(原Bukkit)](http://wiki.bukkit.org/Plugin_Tutorial)
 
 ### Bukkit API开发者文档
-- 中文文档    
-https://docs.windit.net/Chinese_BukkitAPI/
-- 英文文档    
-https://hub.spigotmc.org/javadocs/spigot/
+- [中文文档](https://docs.windit.net/Chinese_BukkitAPI/)
+- [英文文档](https://hub.spigotmc.org/javadocs/spigot/)
 
 ### Spigot官方论坛插件开发讨论版块
 很多问题都能在这里解决。    
 https://www.spigotmc.org/forums/spigot-plugin-development.52/
 
 ### 其他插件开发教程
-- ProtocolLib教程    
-http://www.mcbbs.net/thread-568714-1-1.html
-- Ebean数据库    
-http://www.mcbbs.net/thread-628118-1-1.html      
-http://www.mcbbs.net/thread-636860-1-1.html    
-- Placeholder教程    
-http://www.mcbbs.net/thread-570703-1-1.html     
-- VaultAPI翻译        
-http://www.mcbbs.net/thread-615396-1-1.html       
+- [ProtocolLib教程](http://www.mcbbs.net/thread-568714-1-1.html)
+- Ebean数据库[(上)](http://www.mcbbs.net/thread-628118-1-1.html)[(下)](http://www.mcbbs.net/thread-636860-1-1.html)
+- [Placeholder教程](http://www.mcbbs.net/thread-570703-1-1.html)
+- [VaultAPI翻译](http://www.mcbbs.net/thread-615396-1-1.html)
 
 ## Sponge插件开发    
     
@@ -186,14 +177,12 @@ http://www.mcbbs.net/forum.php?mod=forumdisplay&fid=479
 http://www.mcbbs.net/thread-54579-1-1.html
 
 ### Javadoc
-- 官方英文
-http://docs.oracle.com/javase/8/docs/api/
-- 中文文档(Java 6)
-http://tool.oschina.net/apidocs/apidoc?api=jdk-zh
+- [官方英文](http://docs.oracle.com/javase/8/docs/api/)
+- [中文文档(Java 6)](http://tool.oschina.net/apidocs/apidoc?api=jdk-zh)
 
 ### 搜索引擎
-- https://www.baidu.com
-- https://www.google.com
+- [百度](https://www.baidu.com)
+- [谷歌](https://www.google.com)
 
 ### 国内开发讨论QQ群
 - 国内最大的MC开发讨论群：284633248
