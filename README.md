@@ -127,6 +127,16 @@
 - [Placeholder教程](http://www.mcbbs.net/thread-570703-1-1.html)
 - [VaultAPI翻译](http://www.mcbbs.net/thread-615396-1-1.html)
 
+## BungeeCord插件开发
+
+### [BungeeCord插件开发中文教程](https://github.com/mousesrc/BungeeCordChineseTutorial)
+
+### [官方Wiki](https://www.spigotmc.org/wiki/bungeecord/)
+
+### [官方插件开发教程](https://www.spigotmc.org/wiki/bungeecord-plugin-development/)
+
+### [BungeeCord官方论坛插件开发讨论板块](https://www.spigotmc.org/forums/bungeecord-plugin-development.23/)
+
 ## Sponge插件开发
 
 ### [官方网站](https://www.spongepowered.org/)
