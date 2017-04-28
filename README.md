@@ -127,24 +127,24 @@
 - [Placeholder教程](http://www.mcbbs.net/thread-570703-1-1.html)
 - [VaultAPI翻译](http://www.mcbbs.net/thread-615396-1-1.html)
 
-## Sponge插件开发    
-    
+## Sponge插件开发
+
 ### [官方网站](https://www.spongepowered.org/)
-    
-### [官方论坛](https://forums.spongepowered.org/)   
-    
+
+### [官方论坛](https://forums.spongepowered.org/)
+
 ### [官方教程(多国语言，含简体中文)](https://docs.spongepowered.org)
 
 ### [官方JavaDoc](https://jd.spongepowered.org/5.0.0/)
 
-## LiteLoader模组开发    
-    
+## LiteLoader模组开发
+
 ### [官方网站](http://www.liteloader.com/)
-    
+
 ### [zzzz的LiteMod开发引导(简体中文)](http://www.mcbbs.net/thread-659755-1-1.html)
-    
+
 ### [官方源码仓库](http://develop.liteloader.com/public)
-    
+
 ## 其他    
     
 ### [Github](https://github.com/)
