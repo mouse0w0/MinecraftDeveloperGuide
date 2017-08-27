@@ -66,10 +66,11 @@
 ### [(1.8.9)zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)
 非常全面的Forge开发教程，简体中文，强烈推荐。  
 
-### 国内优秀模组开发者博客
-一些比较高端的教程，建议有一定水平后阅读。  
+### 国内其他模组开发教程
+一些比较高端的教程，建议有一定水平后阅读。  
 - [白玉楼之梦(szszss的博客)](http://blog.hakugyokurou.net/?page_id=126)
 - [风之工坊(当风过时的博客)](http://www.windworkshop.cn/?page_id=525)
+- [[1.11.2]基于代码的简单方块/物品贴图渲染](http://www.mcbbs.net/thread-697765-1-1.html)
 
 ### [Forge中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)
 详细介绍了Forge添加的非常有用的库。     
@@ -92,8 +93,9 @@
 - [(1.10-1.9)DisgultGA的模组开发视频教程](https://www.youtube.com/playlist?list=PLkhfw1xGCrIPpgIGXuhFmkjPK5427q4e6)
 - [(1.10-1.8)Ash5357的模组开发视频教程](https://www.youtube.com/playlist?list=PLMgygZJ6uqwOSrAaGAOgnUIMAirtPG7w-)
 - [(1.10.X)国外网友自己整理的模组开发教程合集](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2718726-list-of-minecraft-1-10-x-modding-tutorials)
+- [附属模组开发工作空间设置](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development/2358564-how-do-i-use-another-mod-as-a-dependency-for-my)
 
-### 一些模组实例代码      
+### 一些模组实例代码
 - https://github.com/Choonster/TestMod3
 - https://github.com/TheGreyGhost/MinecraftByExample
 
@@ -105,7 +107,7 @@
 
 ## Bukkit/Spigot插件开发
 
-### 简体中文优秀教程
+### 国内优秀教程
 - [810587921的插件教程](http://www.mcbbs.net/thread-283190-1-1.html)
 - [Day's Bukkit插件开发教程](http://www.mcbbs.net/thread-439856-1-1.html)
 - [wyt的Bukkit插件开发教程](http://www.mcbbs.net/thread-614388-1-1.html)
@@ -126,6 +128,7 @@
 - Ebean数据库[(上)](http://www.mcbbs.net/thread-628118-1-1.html)[(下)](http://www.mcbbs.net/thread-636860-1-1.html)
 - [Placeholder教程](http://www.mcbbs.net/thread-570703-1-1.html)
 - [VaultAPI翻译](http://www.mcbbs.net/thread-615396-1-1.html)
+- [[插件NMS教程]PathfinderGoal](http://www.mcbbs.net/thread-682004-1-1.html)
 
 ## BungeeCord插件开发
 
