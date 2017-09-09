@@ -61,19 +61,24 @@
 
 ### [官方教程(英文)](http://docs.oracle.com/javase/tutorial/)
 
+### [Google Java 编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
+
 ## Forge模组开发
 
 ### [(1.8.9)zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)
 非常全面的Forge开发教程，简体中文，强烈推荐。  
+
+### [Forge中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)
+详细介绍了Forge添加的非常有用的库。     
 
 ### 国内其他模组开发教程
 一些比较高端的教程，建议有一定水平后阅读。  
 - [白玉楼之梦(szszss的博客)](http://blog.hakugyokurou.net/?page_id=126)
 - [风之工坊(当风过时的博客)](http://www.windworkshop.cn/?page_id=525)
 - [[1.11.2]基于代码的简单方块/物品贴图渲染](http://www.mcbbs.net/thread-697765-1-1.html)
-
-### [Forge中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)
-详细介绍了Forge添加的非常有用的库。     
+- [简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
+- [ChinaCraft2代码详解——大型模组开发笔记](http://www.mcbbs.net/thread-705995-1-1.html)
+- [Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html)
 
 ### 国外模组开发教程
 由于没有详细的阅读过，不做评论，但大都全面，非常推荐英语水平好的同学前去阅读。排名不分先后。    
@@ -123,12 +128,24 @@
 ### [Spigot官方论坛插件开发讨论版块](https://www.spigotmc.org/forums/spigot-plugin-development.52/)
 很多问题都能在这里解决。
 
-### 其他插件开发教程
+### 国内其他插件开发教程
 - [ProtocolLib教程](http://www.mcbbs.net/thread-568714-1-1.html)
 - Ebean数据库[(上)](http://www.mcbbs.net/thread-628118-1-1.html)[(下)](http://www.mcbbs.net/thread-636860-1-1.html)
 - [Placeholder教程](http://www.mcbbs.net/thread-570703-1-1.html)
 - [VaultAPI翻译](http://www.mcbbs.net/thread-615396-1-1.html)
 - [[插件NMS教程]PathfinderGoal](http://www.mcbbs.net/thread-682004-1-1.html)
+- [如何利用Maven来管理你的插件](http://www.mcbbs.net/thread-711754-1-1.html)
+- [BukkitAPI 1.10->1.11改动介绍](http://www.mcbbs.net/thread-648659-1-1.html)
+- [在使用NMS的同时支持多个版本](http://www.mcbbs.net/thread-694224-1-1.html)
+- [自定义物品模型[1.9+]](http://www.mcbbs.net/thread-694674-1-1.html)
+- [编辑，获取并使用木牌](http://www.mcbbs.net/thread-697373-1-1.html)
+- [如何给物品增加NBT数据](http://www.mcbbs.net/thread-697478-1-1.html)
+- [自定义交互式书本](http://www.mcbbs.net/thread-697788-1-1.html)
+- [在插件通过发包（ProtocolLib）打开牌子界面（Sign GUI）](http://www.mcbbs.net/thread-706491-1-1.html)
+- [HolographicDisplaysAPI汉化](http://www.mcbbs.net/thread-721009-1-1.html)
+- [Forge与Bukkit之间的通信|数据传输——Messenger类](http://www.mcbbs.net/thread-725571-1-1.html)
+- [如何给插件加上更新检查](http://www.mcbbs.net/thread-726821-1-1.html)
+- [使用Metrics统计信息](http://www.mcbbs.net/thread-295815-1-1.html)
 
 ## BungeeCord插件开发
 
@@ -157,6 +174,10 @@
 ### [zzzz的LiteMod开发引导(简体中文)](http://www.mcbbs.net/thread-659755-1-1.html)
 
 ### [官方源码仓库](http://develop.liteloader.com/public)
+
+## 其他开发教程    
+- [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
+- [[调试辅助]JRebel - 给你+1s|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
 
 ## 其他    
     
