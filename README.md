@@ -147,6 +147,7 @@
 - [如何给插件加上更新检查](http://www.mcbbs.net/thread-726821-1-1.html)
 - [使用Metrics统计信息](http://www.mcbbs.net/thread-295815-1-1.html)
 - [Bukkit Conversation API](http://www.mcbbs.net/thread-619632-1-1.html)
+- [如何在JavaIDE上调试你的插件](http://www.mcbbs.net/thread-627399-1-1.html)
 
 ## BungeeCord插件开发
 
