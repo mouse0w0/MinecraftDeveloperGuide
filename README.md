@@ -130,10 +130,10 @@
 很多问题都能在这里解决。
 
 ### 国内其他插件开发教程
-- [ProtocolLib教程](http://www.mcbbs.net/thread-568714-1-1.html)
+- [ProtocolLib 教程](http://www.mcbbs.net/thread-568714-1-1.html)
 - Ebean数据库[(上)](http://www.mcbbs.net/thread-628118-1-1.html)[(下)](http://www.mcbbs.net/thread-636860-1-1.html)
-- [Placeholder教程](http://www.mcbbs.net/thread-570703-1-1.html)
-- [VaultAPI翻译](http://www.mcbbs.net/thread-615396-1-1.html)
+- [Placeholder 教程](http://www.mcbbs.net/thread-570703-1-1.html)
+- [Vault API 翻译](http://www.mcbbs.net/thread-615396-1-1.html)
 - [[插件NMS教程]PathfinderGoal](http://www.mcbbs.net/thread-682004-1-1.html)
 - [如何利用Maven来管理你的插件](http://www.mcbbs.net/thread-711754-1-1.html)
 - [BukkitAPI 1.10->1.11改动介绍](http://www.mcbbs.net/thread-648659-1-1.html)
@@ -142,13 +142,18 @@
 - [编辑，获取并使用木牌](http://www.mcbbs.net/thread-697373-1-1.html)
 - [如何给物品增加NBT数据](http://www.mcbbs.net/thread-697478-1-1.html)
 - [自定义交互式书本](http://www.mcbbs.net/thread-697788-1-1.html)
-- [在插件通过发包（ProtocolLib）打开牌子界面（Sign GUI）](http://www.mcbbs.net/thread-706491-1-1.html)
-- [HolographicDisplaysAPI汉化](http://www.mcbbs.net/thread-721009-1-1.html)
+- [在插件通过发包(ProtocolLib)打开牌子界面(Sign GUI)](http://www.mcbbs.net/thread-706491-1-1.html)
+- [HolographicDisplays API 汉化](http://www.mcbbs.net/thread-721009-1-1.html)
 - [Forge与Bukkit之间的通信|数据传输——Messenger类](http://www.mcbbs.net/thread-725571-1-1.html)
 - [如何给插件加上更新检查](http://www.mcbbs.net/thread-726821-1-1.html)
 - [使用Metrics统计信息](http://www.mcbbs.net/thread-295815-1-1.html)
 - [Bukkit Conversation API](http://www.mcbbs.net/thread-619632-1-1.html)
 - [如何在JavaIDE上调试你的插件](http://www.mcbbs.net/thread-627399-1-1.html)
+- [Pathfinder 实体AI教程](http://www.mcbbs.net/thread-775757-1-1.html)
+- [Enchantment API 教程](http://www.mcbbs.net/thread-782859-1-1.html)
+- [插件使用MySQL数据库](http://www.mcbbs.net/thread-783267-1-1.html)
+- [插件粒子特效教程](http://www.mcbbs.net/thread-783358-1-1.html)
+- [ItemMeta 使用教程](http://www.mcbbs.net/thread-782974-1-1.html)
 
 ## BungeeCord插件开发
 
