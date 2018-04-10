@@ -44,22 +44,22 @@
 
 ## Java基础教程
 
-### 《Java从入门到精通》
+### 《Java 从入门到精通》
 我的Java入门书，虽然内容有些老旧，但也是非常适合Java入门的。
 
-### 《Java8编程入门(参考)官方教程》
+### 《Java 8 编程入门(参考)官方教程》
 本书分两本，一本是 《Java8编程入门官方教程》，一本是 《Java8编程参考官方教程》。入门版本内容较少，由于我没看过不做评价，参考版本内容很多，可以当字典用。  
 
-### 《Java核心技术》
+### 《Java 核心技术》
 非常不错的一套书，共2本，解决了我的很多疑问，也可以当做字典来查阅。
   
-### 《Java编程思想》
+### 《Java 编程思想》
 由于我没看过不做评价，但别人都说不错。 
 
-### [Java中文在线教程](http://www.runoob.com/java/)
+### [Java 中文在线教程](http://www.runoob.com/java/)
 （我绝对不是打广告）
 
-### [官方教程(英文)](http://docs.oracle.com/javase/tutorial/)
+### [Java 官方教程(英文)](http://docs.oracle.com/javase/tutorial/)
 
 ### [Google Java 编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
 
