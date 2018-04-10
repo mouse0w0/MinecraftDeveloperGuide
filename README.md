@@ -71,7 +71,7 @@
 ### [Forge中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)
 详细介绍了Forge添加的非常有用的库。     
 
-### 国内其他模组开发教程
+### 国内模组开发教程
 一些比较高端的教程，建议有一定水平后阅读。  
 - [白玉楼之梦(szszss的博客)](http://blog.hakugyokurou.net/?page_id=126)
 - [风之工坊(当风过时的博客)](http://www.windworkshop.cn/?page_id=525)
@@ -79,6 +79,7 @@
 - [简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
 - [ChinaCraft2代码详解——大型模组开发笔记](http://www.mcbbs.net/thread-705995-1-1.html)
 - [Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html)
+- [1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html)
 
 ### 国外模组开发教程
 由于没有详细的阅读过，不做评论，但大都全面，非常推荐英语水平好的同学前去阅读。排名不分先后。    
@@ -87,7 +88,7 @@
 - [Blfngl的模组开发教程](http://forgetutorials.weebly.com/)
 - [Jabelar的模组开发教程](http://jabelarminecraft.blogspot.com/)
 - [(1.8-1.6)greyminecraftcoder的模组开发教程](http://greyminecraftcoder.blogspot.com/)
-- [(1.11-1.8.9)McJty的模组开发百科](http://modwiki.temporal-reality.com/mw/index.php/Main_Page)
+- [(1.12-1.8.9)McJty的模组开发百科](https://github.com/McJty/ModTutorials)
 - [Pahimar的模组开发视频教程](http://www.pahimar.com/tutorials/lets-mod/)
 - [(1.9-1.8.X)结构生成教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2666351-1-8-x-and-1-9-structure-generation-tutorial)
 - [(1.9-1.8.X)复杂结构生成教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2667034-1-8-x-and-1-9-complex-structure-generation)
