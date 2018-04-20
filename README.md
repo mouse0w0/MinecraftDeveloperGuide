@@ -229,6 +229,10 @@
 ### [Stack Overflow](http://stackoverflow.com/)
 国外的一个关于编程的求助网站    
 
+### [一些免费编程书籍](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
+
+### [编程技术清单(英文)](https://github.com/sindresorhus/awesome)
+
 ## 反馈与建议
 有相关建议和意见可以提交Issue。
 
