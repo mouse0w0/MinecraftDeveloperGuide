@@ -146,7 +146,6 @@
 
 ### 国内其他插件开发教程
 - [ProtocolLib 教程](http://www.mcbbs.net/thread-568714-1-1.html)
-- Ebean数据库[(上)](http://www.mcbbs.net/thread-628118-1-1.html)[(下)](http://www.mcbbs.net/thread-636860-1-1.html)
 - [Placeholder 教程](http://www.mcbbs.net/thread-570703-1-1.html)
 - [Vault API 翻译](http://www.mcbbs.net/thread-615396-1-1.html)
 - [[插件NMS教程]PathfinderGoal](http://www.mcbbs.net/thread-682004-1-1.html)
@@ -169,6 +168,7 @@
 - [插件使用MySQL数据库](http://www.mcbbs.net/thread-783267-1-1.html)
 - [插件粒子特效教程](http://www.mcbbs.net/thread-783358-1-1.html)
 - [ItemMeta 使用教程](http://www.mcbbs.net/thread-782974-1-1.html)
+- (已于1.12弃用)Ebean数据库[(上)](http://www.mcbbs.net/thread-628118-1-1.html)[(下)](http://www.mcbbs.net/thread-636860-1-1.html)
 
 ## BungeeCord插件开发
 
