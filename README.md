@@ -226,8 +226,6 @@
 - Sponge插件开发交流群: [613604130](https://jq.qq.com/?_wv=1027&k=52OlyJ7)
 - 我的没什么dalao的开发讨论群: [345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)
 
-### [MC开发中文百科](https://www.mcdev-wiki.org/)
-
 ### [Stack Overflow](http://stackoverflow.com/)
 国外的一个关于编程的求助网站    
 
