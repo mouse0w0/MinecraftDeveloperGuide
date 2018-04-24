@@ -1,4 +1,4 @@
-# Java与Minecraft开发学习指南
+# Java 与 Minecraft 开发学习指南
 
 ## 目录
 - [新手的疑问](#新手的疑问)
@@ -77,6 +77,10 @@
 ### [Java 官方教程(英文)](http://docs.oracle.com/javase/tutorial/)
 
 ### [Google Java 编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
+
+### Javadoc
+- [官方英文](http://docs.oracle.com/javase/8/docs/api/)
+- [中文文档(Java 6)](http://tool.oschina.net/apidocs/apidoc?api=jdk-zh)
 
 ## Forge模组开发
 
@@ -212,10 +216,6 @@
 
 ### [MCBBS开发教程索引贴](http://www.mcbbs.net/thread-54579-1-1.html)
 
-### Javadoc
-- [官方英文](http://docs.oracle.com/javase/8/docs/api/)
-- [中文文档(Java 6)](http://tool.oschina.net/apidocs/apidoc?api=jdk-zh)
-
 ### 搜索引擎
 - [百度](https://www.baidu.com)
 - [谷歌](https://www.google.com)
@@ -228,10 +228,6 @@
 
 ### [Stack Overflow](http://stackoverflow.com/)
 国外的一个关于编程的求助网站    
-
-### [一些免费编程书籍](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
-
-### [编程技术清单(英文)](https://github.com/sindresorhus/awesome)
 
 ## 反馈与建议
 有相关建议和意见可以提交Issue。
