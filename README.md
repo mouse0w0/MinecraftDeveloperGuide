@@ -55,7 +55,7 @@
   - Java 版本
   - MineCraft 版本
   - Bukkit/Spigot/Forge/Sponge 任一平台及其版本
-  - 依赖的类库及其版本
+  - 依赖的类库及其版本
 - 提供你的源代码，比如将源代码上传至Github。
 - 提供你的错误日志、异常输出。
 
