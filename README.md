@@ -10,6 +10,7 @@
 - [BungeeCord插件开发](#bungeecord插件开发)
 - [Sponge插件开发](#sponge插件开发)
 - [LiteLoader模组开发](#liteloader模组开发)
+- [PocketMine插件开发](#pocketmine插件开发)
 - [Nukkit插件开发](#nukkit插件开发)
 - [其他开发教程](#其他开发教程)
 - [其他](#其他-)
@@ -218,13 +219,18 @@
 
 ### [官方源码仓库](http://develop.liteloader.com/public)
 
+## PocketMine插件开发
+
+### [PocketMine插件开发中文教程](http://www.mcbbs.net/thread-410243-1-1.html)
+
+### PocketMine其他插件开发教程
+- [新API的部分事物的讲解](http://www.mcbbs.net/thread-288333-1-1.html)
+
 ## Nukkit插件开发
 
 ### [Nukkit插件中文开发教程](http://www.mcbbs.net/thread-552265-1-1.html)
 
 ### [Nukkit官方论坛插件开发讨论板块](https://forums.nukkit.io/forums/plugin-development.7/)
-
-### 
 
 ## 其他开发教程    
 - [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
