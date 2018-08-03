@@ -137,6 +137,7 @@
 - [(1.10-1.8)Ash5357的模组开发视频教程](https://www.youtube.com/playlist?list=PLMgygZJ6uqwOSrAaGAOgnUIMAirtPG7w-)
 - [(1.10.X)国外网友自己整理的模组开发教程合集](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2718726-list-of-minecraft-1-10-x-modding-tutorials)
 - [附属模组开发工作空间设置](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development/2358564-how-do-i-use-another-mod-as-a-dependency-for-my)
+- [(1.7.10)EMX的教程](https://emxtutorials.wordpress.com/)
 
 ### 一些模组实例代码
 - https://github.com/Choonster/TestMod3
