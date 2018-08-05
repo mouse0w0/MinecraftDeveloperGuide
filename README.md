@@ -105,7 +105,7 @@
 非常全面的Forge开发教程，简体中文，强烈推荐。  
 
 ### [Forge中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)
-详细介绍了Forge添加的非常有用的库。     
+详细介绍了Forge添加的非常有用的库。[英文文档](http://mcforge.readthedocs.io/en/latest/)。
 
 ### 国内模组开发教程
 一些比较高端的教程，建议有一定水平后阅读。  
