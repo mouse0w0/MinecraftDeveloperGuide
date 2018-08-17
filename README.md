@@ -155,7 +155,6 @@
 ### 国内优秀教程
 - [810587921的插件教程](http://www.mcbbs.net/thread-283190-1-1.html)
 - [Day's Bukkit插件开发教程](http://www.mcbbs.net/thread-439856-1-1.html)
-- [wyt的Bukkit插件开发教程](http://www.mcbbs.net/thread-614388-1-1.html)
 
 ### 官方教程
 - [新版本(现Spigot)](https://www.spigotmc.org/wiki/spigot/)
@@ -193,6 +192,7 @@
 - [插件粒子特效教程](http://www.mcbbs.net/thread-783358-1-1.html)
 - [ItemMeta 使用教程](http://www.mcbbs.net/thread-782974-1-1.html)
 - (已于1.12弃用)Ebean数据库[(上)](http://www.mcbbs.net/thread-628118-1-1.html)[(下)](http://www.mcbbs.net/thread-636860-1-1.html)
+- [wyt的Bukkit插件开发教程](http://www.mcbbs.net/thread-614388-1-1.html)
 
 ## BungeeCord插件开发
 
