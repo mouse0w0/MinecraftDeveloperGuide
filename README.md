@@ -153,6 +153,7 @@
 ## Bukkit/Spigot插件开发
 
 ### 国内优秀教程
+- [tdiant的Bukkit插件开发教程](http://www.mcbbs.net/thread-808820-1-1.html)
 - [810587921的插件教程](http://www.mcbbs.net/thread-283190-1-1.html)
 - [Day's Bukkit插件开发教程](http://www.mcbbs.net/thread-439856-1-1.html)
 
