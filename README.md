@@ -190,8 +190,10 @@
 - [Pathfinder 实体AI教程](http://www.mcbbs.net/thread-775757-1-1.html)
 - [Enchantment API 教程](http://www.mcbbs.net/thread-782859-1-1.html)
 - [插件使用MySQL数据库](http://www.mcbbs.net/thread-783267-1-1.html)
-- [插件粒子特效教程](http://www.mcbbs.net/thread-783358-1-1.html)
+- 插件粒子特效教程[(一)](http://www.mcbbs.net/thread-783358-1-1.html)[(二)](http://www.mcbbs.net/thread-803143-1-1.html)
 - [ItemMeta 使用教程](http://www.mcbbs.net/thread-782974-1-1.html)
+- [自定义实体](http://www.mcbbs.net/thread-811096-1-1.html)
+- [聊天组件API——自定义你的聊天消息](http://www.mcbbs.net/thread-812136-1-1.html)
 - (已于1.12弃用)Ebean数据库[(上)](http://www.mcbbs.net/thread-628118-1-1.html)[(下)](http://www.mcbbs.net/thread-636860-1-1.html)
 - [wyt的Bukkit插件开发教程](http://www.mcbbs.net/thread-614388-1-1.html)
 
