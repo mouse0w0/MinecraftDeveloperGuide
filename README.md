@@ -104,8 +104,8 @@
 ### [(1.8.9)zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)
 非常全面的Forge开发教程，简体中文，强烈推荐。  
 
-### [Forge中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)
-详细介绍了Forge添加的非常有用的库。[英文文档](http://mcforge.readthedocs.io/en/latest/)。
+### Forge官方文档
+详细介绍了Forge添加的非常有用的库。[中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)，[英文文档](http://mcforge.readthedocs.io/en/latest/)。
 
 ### 国内模组开发教程
 一些比较高端的教程，建议有一定水平后阅读。  
@@ -115,31 +115,39 @@
 - [[1.11.2]基于代码的简单方块/物品贴图渲染](http://www.mcbbs.net/thread-697765-1-1.html)
 - [简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
 - [ChinaCraft2代码详解——大型模组开发笔记](http://www.mcbbs.net/thread-705995-1-1.html)
-- [Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html)
 - [1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html)
 - [雪崩式的灾难：严重滞后的世界生成](http://www.mcbbs.net/thread-797425-1-1.html)
+- ~~[Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html)~~
 
 ### 国外模组开发教程
-由于没有详细的阅读过，不做评论，但大都全面，非常推荐英语水平好的同学前去阅读。排名不分先后。    
-- [(1.12-1.8.9)McJty的模组开发百科](https://github.com/McJty/ModTutorials)
+由于没有详细的阅读过，不做评论，但大都全面，非常推荐外语水平好的同学前去阅读。排名不分先后。    
+- [(1.12-1.9.4)McJty的模组开发教程](https://wiki.mcjty.eu/modding/index.php?title=Main_Page)
+- [(1.12.2)Cubicodere的模组开发教程](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/mapping-and-modding-tutorials/2909896-cubicoders-1-12-2-minecraft-forge-modding)
+- [(1.12.2)Loremaster的模组开发视频教程](https://www.youtube.com/c/LoremasterOfficial)
 - [Darkhax的模组开发教程](https://tutorials.darkhax.net/pages/tutorials/)
 - [Blfngl的模组开发教程](http://forgetutorials.weebly.com/)
 - [日本的模组开发百科](http://minecraftjp.info/modding/index.php/Minecraft_Modding_Wiki)
+- [(1.10.2)shadowfacts的模组开发教程](https://shadowfacts.net/tutorials/forge-modding-1102/)
 - [(1.10-1.9)MrCrayFish的模组开发视频教程](https://www.youtube.com/playlist?list=PLy11IosblXIH-OIKa5yYs-KEA2LCohV8g)
 - [(1.10-1.9)DisgultGA的模组开发视频教程](https://www.youtube.com/playlist?list=PLkhfw1xGCrIPpgIGXuhFmkjPK5427q4e6)
 - [(1.10-1.8)Ash5357的模组开发视频教程](https://www.youtube.com/playlist?list=PLMgygZJ6uqwOSrAaGAOgnUIMAirtPG7w-)
 - [(1.10.X)国外网友自己整理的模组开发教程合集](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2718726-list-of-minecraft-1-10-x-modding-tutorials)
 - [(1.9-1.8.X)结构生成教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2666351-1-8-x-and-1-9-structure-generation-tutorial)
 - [(1.9-1.8.X)复杂结构生成教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2667034-1-8-x-and-1-9-complex-structure-generation)
+- [(1.8-1.6.4)coolAlias的模组开发教程](https://github.com/coolAlias/Forge_Tutorials)
 - [(1.8-1.3)wuppy29的模组开发教程](http://www.wuppy29.com/minecraft/modding-tutorials/forge-modding/)
+- [(1.8-1.6)grey的模组开发教程](http://greyminecraftcoder.blogspot.com/)
+- [(1.8-1.7)TheXFactor117的模组开发教程](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/mapping-and-modding-tutorials/2282788-1-7-1-8-thexfactor117s-forge-modding-tutorials-20)
+- [(1.7.10)jabelar的模组开发教程](http://jabelarminecraft.blogspot.com/)
 - [(1.7.10)模组开发教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/1571600-1-7-10-minecraft-forge-modding-tutorials-begginer)
 - [(1.7.10)EMX的教程](https://emxtutorials.wordpress.com/)
-- [附属模组开发工作空间设置](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development/2358564-how-do-i-use-another-mod-as-a-dependency-for-my)
+- ~~[附属模组开发工作空间设置](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development/2358564-how-do-i-use-another-mod-as-a-dependency-for-my)~~
 
 
 ### 模组示例代码
 - [(1.12.2-1.8)Choonster的模组示例代码](https://github.com/Choonster/TestMod3)
 - [(1.12.2-1.8)TheGreyGhost的模组示例代码](https://github.com/TheGreyGhost/MinecraftByExample)
+- [(1.12-1.8.9)McJty的模组示例代码](https://github.com/McJty/ModTutorials)
 
 ### 国外mod开发讨论
 很多问题都能在这里解决
