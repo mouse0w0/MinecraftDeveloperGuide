@@ -121,28 +121,25 @@
 
 ### 国外模组开发教程
 由于没有详细的阅读过，不做评论，但大都全面，非常推荐英语水平好的同学前去阅读。排名不分先后。    
-- [(1.8-1.7)bedrockminer的模组开发教程](https://bedrockminer.jimdo.com/modding-tutorials/)
-- [日本的模组开发百科](http://minecraftjp.info/modding/index.php/Minecraft_Modding_Wiki)
-- [Blfngl的模组开发教程](http://forgetutorials.weebly.com/)
-- [Jabelar的模组开发教程](http://jabelarminecraft.blogspot.com/)
-- [(1.8-1.6)greyminecraftcoder的模组开发教程](http://greyminecraftcoder.blogspot.com/)
 - [(1.12-1.8.9)McJty的模组开发百科](https://github.com/McJty/ModTutorials)
-- [Pahimar的模组开发视频教程](http://www.pahimar.com/tutorials/lets-mod/)
-- [(1.9-1.8.X)结构生成教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2666351-1-8-x-and-1-9-structure-generation-tutorial)
-- [(1.9-1.8.X)复杂结构生成教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2667034-1-8-x-and-1-9-complex-structure-generation)
-- [(1.7.10)模组开发教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/1571600-1-7-10-minecraft-forge-modding-tutorials-begginer)
-- [(1.8-1.3)wuppy29的模组开发教程](http://www.wuppy29.com/minecraft/modding-tutorials/forge-modding/)
-- [(1.9.4)Darkhax的模组开发教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2681240-darkhaxs-modding-tutorials)
+- [Darkhax的模组开发教程](https://tutorials.darkhax.net/pages/tutorials/)
+- [Blfngl的模组开发教程](http://forgetutorials.weebly.com/)
+- [日本的模组开发百科](http://minecraftjp.info/modding/index.php/Minecraft_Modding_Wiki)
 - [(1.10-1.9)MrCrayFish的模组开发视频教程](https://www.youtube.com/playlist?list=PLy11IosblXIH-OIKa5yYs-KEA2LCohV8g)
 - [(1.10-1.9)DisgultGA的模组开发视频教程](https://www.youtube.com/playlist?list=PLkhfw1xGCrIPpgIGXuhFmkjPK5427q4e6)
 - [(1.10-1.8)Ash5357的模组开发视频教程](https://www.youtube.com/playlist?list=PLMgygZJ6uqwOSrAaGAOgnUIMAirtPG7w-)
 - [(1.10.X)国外网友自己整理的模组开发教程合集](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2718726-list-of-minecraft-1-10-x-modding-tutorials)
-- [附属模组开发工作空间设置](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development/2358564-how-do-i-use-another-mod-as-a-dependency-for-my)
+- [(1.9-1.8.X)结构生成教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2666351-1-8-x-and-1-9-structure-generation-tutorial)
+- [(1.9-1.8.X)复杂结构生成教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2667034-1-8-x-and-1-9-complex-structure-generation)
+- [(1.8-1.3)wuppy29的模组开发教程](http://www.wuppy29.com/minecraft/modding-tutorials/forge-modding/)
+- [(1.7.10)模组开发教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/1571600-1-7-10-minecraft-forge-modding-tutorials-begginer)
 - [(1.7.10)EMX的教程](https://emxtutorials.wordpress.com/)
+- [附属模组开发工作空间设置](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development/2358564-how-do-i-use-another-mod-as-a-dependency-for-my)
 
-### 一些模组实例代码
-- https://github.com/Choonster/TestMod3
-- https://github.com/TheGreyGhost/MinecraftByExample
+
+### 模组示例代码
+- [(1.12.2-1.8)Choonster的模组示例代码](https://github.com/Choonster/TestMod3)
+- [(1.12.2-1.8)TheGreyGhost的模组示例代码](https://github.com/TheGreyGhost/MinecraftByExample)
 
 ### 国外mod开发讨论
 很多问题都能在这里解决
@@ -194,8 +191,8 @@
 - [ItemMeta 使用教程](http://www.mcbbs.net/thread-782974-1-1.html)
 - [自定义实体](http://www.mcbbs.net/thread-811096-1-1.html)
 - [聊天组件API——自定义你的聊天消息](http://www.mcbbs.net/thread-812136-1-1.html)
-- (已于1.12弃用)Ebean数据库[(上)](http://www.mcbbs.net/thread-628118-1-1.html)[(下)](http://www.mcbbs.net/thread-636860-1-1.html)
 - [wyt的Bukkit插件开发教程](http://www.mcbbs.net/thread-614388-1-1.html)
+- ~~(已于1.12弃用)Ebean数据库[(上)](http://www.mcbbs.net/thread-628118-1-1.html)[(下)](http://www.mcbbs.net/thread-636860-1-1.html)~~
 
 ## BungeeCord插件开发
 
