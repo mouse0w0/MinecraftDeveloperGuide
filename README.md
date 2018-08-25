@@ -88,8 +88,10 @@
 ### 《Java 编程思想》
 由于我没看过不做评价，但别人都说不错。 
 
-### [Java 中文在线教程](http://www.runoob.com/java/)
-（我绝对不是打广告）
+### Java 中文在线教程（我绝对不是打广告）
+- [易百](https://www.yiibai.com/java/)
+- [菜鸟](http://www.runoob.com/java/)
+- [W3CSchool](https://www.w3cschool.cn/java/)
 
 ### [Java 官方教程(英文)](http://docs.oracle.com/javase/tutorial/)
 
