@@ -277,7 +277,7 @@
 国外的一个关于编程的求助网站    
 
 ## 反馈与建议
-有相关建议和意见可以[在此](https://github.com/Mouse0w0/MinecraftDeveloperGuide/issues/new)提交。
+对本指南有建议和意见可以[在此](https://github.com/Mouse0w0/MinecraftDeveloperGuide/issues/new)提交。
 
 ## 版权声明
 
