@@ -122,6 +122,9 @@
 - [(1.7.10)261Day](https://www.261day.com/minecraft-forge%E6%95%99%E7%A8%8B/)
 - ~~[Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html)~~
 
+### Forge MDK 离线版
+[百度云盘 提取码：jmrv ](https://pan.baidu.com/s/1dE0EJnz)
+
 ### 国外模组开发教程
 由于没有详细的阅读过，不做评论，但大都全面，非常推荐外语水平好的同学前去阅读。排名不分先后。    
 - [(1.12-1.9.4)McJty的模组开发教程](https://wiki.mcjty.eu/modding/index.php?title=Main_Page)
