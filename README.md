@@ -229,7 +229,7 @@
 
 ### [官方教程(多国语言，含简体中文)](https://docs.spongepowered.org)
 
-### [官方JavaDoc](https://jd.spongepowered.org/7.0.0/)
+### [官方JavaDoc](https://jd.spongepowered.org/7.1.0/)
 
 ## LiteLoader模组开发
 
