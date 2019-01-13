@@ -203,7 +203,7 @@
 - [Pathfinder 实体AI教程](http://www.mcbbs.net/thread-775757-1-1.html)
 - [Enchantment API 教程](http://www.mcbbs.net/thread-782859-1-1.html)
 - [插件使用MySQL数据库](http://www.mcbbs.net/thread-783267-1-1.html)
-- 插件粒子特效教程[(一)](http://www.mcbbs.net/thread-783358-1-1.html)[(二)](http://www.mcbbs.net/thread-803143-1-1.html)
+- [插件粒子特效教程](http://www.mcbbs.net/thread-837600-1-1.html)
 - [ItemMeta 使用教程](http://www.mcbbs.net/thread-782974-1-1.html)
 - [自定义实体](http://www.mcbbs.net/thread-811096-1-1.html)
 - [聊天组件API——自定义你的聊天消息](http://www.mcbbs.net/thread-812136-1-1.html)
