@@ -111,6 +111,7 @@
 
 ### 国内模组开发教程
 - [(1.12.2)3024358263的Minecraft1.12.2模组开发教程](http://www.mcbbs.net/thread-833033-1-1.html)([备用链接](http://baobaojk.web3v.vip/))
+- [(1.12)Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html)([备用链接](https://blog.hookan.top/2017/12/25/forge/))
 - [雪崩式的灾难：严重滞后的世界生成](http://www.mcbbs.net/thread-797425-1-1.html)
 - [简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
 - [Minecraft模组开发知乎专栏](https://zhuanlan.zhihu.com/c_200546589)
@@ -121,7 +122,7 @@
 - [1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html)
 - [(1.8.9-1.7.2)风之工坊(当风过时的博客)](http://www.windworkshop.cn/?page_id=525)
 - [(1.7.10)261Day](https://www.261day.com/minecraft-forge%E6%95%99%E7%A8%8B/)
-- ~~[Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html)~~
+
 
 ### Forge MDK 离线版
 [百度云盘 提取码：jmrv ](https://pan.baidu.com/s/1dE0EJnz)
