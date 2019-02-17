@@ -129,13 +129,14 @@
 [百度云盘 提取码：jmrv ](https://pan.baidu.com/s/1dE0EJnz)
 
 ### 国外模组开发教程
-由于没有详细的阅读过，不做评论，但大都全面，非常推荐外语水平好的同学前去阅读。排名不分先后。    
+由于没有详细的阅读过，不做评论，但大都全面，非常推荐外语水平好的同学前去阅读。排名依照支持版本先后排序。
+- [(1.13.2-1.12.2)Suppergerrie2的模组开发教程](https://suppergerrie2.com/category/forge-tutorial/)
 - [(1.12-1.9.4)McJty的模组开发教程](https://wiki.mcjty.eu/modding/index.php?title=Main_Page)
 - [(1.12.2)Cubicodere的模组开发教程](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/mapping-and-modding-tutorials/2909896-cubicoders-1-12-2-minecraft-forge-modding)
 - [(1.12.2)Loremaster的模组开发视频教程](https://www.youtube.com/c/LoremasterOfficial)
+- [(1.12.2-1.10.2)shadowfacts的模组开发教程](https://shadowfacts.net/tutorials/forge-modding-1102/)
 - [Darkhax的模组开发教程](https://tutorials.darkhax.net/pages/tutorials/)
 - [如何用Kotlin开发模组](http://couchdoescode.blogspot.com/2018/01/minecraft-modding-tutorial-with-kotlin.html)
-- [(1.10.2)shadowfacts的模组开发教程](https://shadowfacts.net/tutorials/forge-modding-1102/)
 - [(1.10-1.9)MrCrayFish的模组开发视频教程](https://www.youtube.com/playlist?list=PLy11IosblXIH-OIKa5yYs-KEA2LCohV8g)
 - [(1.10-1.9)DisgultGA的模组开发视频教程](https://www.youtube.com/playlist?list=PLkhfw1xGCrIPpgIGXuhFmkjPK5427q4e6)
 - [(1.10-1.8)Ash5357的模组开发视频教程](https://www.youtube.com/playlist?list=PLMgygZJ6uqwOSrAaGAOgnUIMAirtPG7w-)
