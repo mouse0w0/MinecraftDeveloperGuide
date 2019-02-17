@@ -110,8 +110,10 @@
 详细介绍了Forge添加的非常有用的库。[中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)，[英文文档](http://mcforge.readthedocs.io/en/latest/)。
 
 ### 国内模组开发教程
-- [(1.12.2)3024358263的Minecraft1.12.2模组开发教程](http://www.mcbbs.net/thread-833033-1-1.html)([备用链接](http://baobaojk.web3v.vip/))
-- ~~[(1.12)Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html)([备用链接](https://blog.hookan.top/2017/12/25/forge/))~~(教程有误，谨慎阅读）
+> 有删除线的教程可能存在误导、表述不清和不够严谨等较为严重的问题，仅作参考。
+
+- ~~[(1.12.2)3024358263的Minecraft1.12.2模组开发教程](http://www.mcbbs.net/thread-833033-1-1.html)([备用链接](http://baobaojk.web3v.vip/))~~
+- ~~[(1.12)Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html)([备用链接](https://blog.hookan.top/2017/12/25/forge/))~~
 - [雪崩式的灾难：严重滞后的世界生成](http://www.mcbbs.net/thread-797425-1-1.html)
 - [简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
 - [Minecraft模组开发知乎专栏](https://zhuanlan.zhihu.com/c_200546589)
@@ -122,7 +124,6 @@
 - [1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html)
 - [(1.8.9-1.7.2)风之工坊(当风过时的博客)](http://www.windworkshop.cn/?page_id=525)
 - [(1.7.10)261Day](https://www.261day.com/minecraft-forge%E6%95%99%E7%A8%8B/)
-
 
 ### Forge MDK 离线版
 [百度云盘 提取码：jmrv ](https://pan.baidu.com/s/1dE0EJnz)
