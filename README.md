@@ -114,7 +114,9 @@
 
 - ~~[(1.12.2)3024358263的Minecraft1.12.2模组开发教程](http://www.mcbbs.net/thread-833033-1-1.html)([备用链接](http://baobaojk.web3v.vip/))~~
 - ~~[(1.12)Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html)([备用链接](https://blog.hookan.top/2017/12/25/forge/))~~
-- [(1.8.9)zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)(推荐）
+- [(1.8.9)zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)（推荐）
+- [浅析1.13世界生成](http://www.mcbbs.net/thread-846195-1-2.html)
+- [Coremod导论—从切比雪夫多项式说起](http://www.mcbbs.net/thread-822754-1-1.html)
 - [雪崩式的灾难：严重滞后的世界生成](http://www.mcbbs.net/thread-797425-1-1.html)
 - [简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
 - [Minecraft模组开发知乎专栏](https://zhuanlan.zhihu.com/c_200546589)
