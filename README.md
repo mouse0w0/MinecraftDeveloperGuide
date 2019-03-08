@@ -112,8 +112,6 @@
 ### 国内模组开发教程
 > 有删除线的教程可能存在误导、表述不清和不够严谨等较为严重的问题，仅作参考。
 
-- ~~[(1.12.2)3024358263的Minecraft1.12.2模组开发教程](http://www.mcbbs.net/thread-833033-1-1.html)([备用链接](http://baobaojk.web3v.vip/))~~
-- ~~[(1.12)Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html)([备用链接](https://blog.hookan.top/2017/12/25/forge/))~~
 - [(1.8.9)zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)（推荐）
 - [浅析1.13世界生成](http://www.mcbbs.net/thread-846195-1-2.html)
 - [Coremod导论—从切比雪夫多项式说起](http://www.mcbbs.net/thread-822754-1-1.html)
@@ -127,6 +125,8 @@
 - [1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html)
 - [(1.8.9-1.7.2)风之工坊(当风过时的博客)](http://www.windworkshop.cn/?page_id=525)
 - [(1.7.10)261Day](https://www.261day.com/minecraft-forge%E6%95%99%E7%A8%8B/)
+- ~~[(1.12.2)3024358263的Minecraft1.12.2模组开发教程](http://www.mcbbs.net/thread-833033-1-1.html)([备用链接](http://baobaojk.web3v.vip/))~~
+- ~~[(1.12)Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html)([备用链接](https://blog.hookan.top/2017/12/25/forge/))~~
 
 ### Forge MDK 离线版
 [百度云盘 提取码：jmrv ](https://pan.baidu.com/s/1dE0EJnz)
