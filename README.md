@@ -10,6 +10,7 @@
 - [BungeeCord插件开发](#bungeecord插件开发)
 - [Sponge插件开发](#sponge插件开发)
 - [LiteLoader模组开发](#liteloader模组开发)
+- [基岩版开发](#基岩版开发)
 - [PocketMine插件开发](#pocketmine插件开发)
 - [Nukkit插件开发](#nukkit插件开发)
 - [其他开发教程](#其他开发教程)
@@ -245,6 +246,18 @@
 ### [zzzz的LiteMod开发引导(简体中文)](http://www.mcbbs.net/thread-659755-1-1.html)
 
 ### [官方源码仓库](http://develop.liteloader.com/public)
+
+## 基岩版开发
+> 相关教程收集中，如有意见和建议欢迎提交Pull Request或Issue。
+
+### [官方附加包（Add-Ons）介绍主页](https://www.minecraft.net/zh-hans/addons)
+
+### [Minecraft中文百科“附加包（Add-Ons）”页面](https://minecraft-zh.gamepedia.com/%E9%99%84%E5%8A%A0%E5%8C%85)
+
+### 其他教程
+- [Minecraft中文百科“教程/制作行为包”页面](https://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E5%88%B6%E4%BD%9C%E8%A1%8C%E4%B8%BA%E5%8C%85)
+- [Minecraft中文百科“基岩版附加包”页面](https://minecraft-zh.gamepedia.com/%E5%9F%BA%E5%B2%A9%E7%89%88%E9%99%84%E5%8A%A0%E5%8C%85%E6%96%87%E6%A1%A3)
+- [Minecraft中文百科“基岩版实体组成”页面](https://minecraft-zh.gamepedia.com/%E5%9F%BA%E5%B2%A9%E7%89%88%E5%AE%9E%E4%BD%93%E7%BB%84%E6%88%90)
 
 ## PocketMine插件开发
 
