@@ -108,23 +108,26 @@
 
 ### 国内模组开发教程
 > 有删除线的教程可能存在误导、表述不清和不够严谨等较为严重的问题，仅作参考。
+>
+> 请尽量避免开发CoreMod，维护代码空间的和平与清净。
 
 - [(1.8.9)zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)（推荐）
 - [浅析1.13世界生成](http://www.mcbbs.net/thread-846195-1-2.html)
-- [Coremod导论—从切比雪夫多项式说起](http://www.mcbbs.net/thread-822754-1-1.html)
-- [俩车的 Coremod 介绍](http://www.mcbbs.net/thread-849970-1-1.html)
 - [雪崩式的灾难：严重滞后的世界生成](http://www.mcbbs.net/thread-797425-1-1.html)
 - [简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
 - [Minecraft模组开发知乎专栏](https://zhuanlan.zhihu.com/c_200546589)
 - [ustc-zzzz的博客](https://blog.ustc-zzzz.net/)
-- [(1.8.9/CoreMod)白玉楼之梦(szszss的博客)](http://blog.hakugyokurou.net/?page_id=126)
 - [[1.11.2]基于代码的简单方块/物品贴图渲染](http://www.mcbbs.net/thread-697765-1-1.html)
-- [(1.11.2)ChinaCraft2代码详解——大型模组开发笔记](http://www.mcbbs.net/thread-705995-1-1.html)([备用链接](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki))
+- [(1.11.2)ChinaCraft2代码详解——大型模组开发笔记](http://www.mcbbs.net/thread-705995-1-1.html) ([备用链接](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki))
 - [1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html)
 - [(1.8.9-1.7.2)风之工坊(当风过时的博客)](http://www.windworkshop.cn/?page_id=525)
 - [(1.7.10)261Day](https://www.261day.com/minecraft-forge%E6%95%99%E7%A8%8B/)
-- ~~[(1.12.2)3024358263的Minecraft1.12.2模组开发教程](http://www.mcbbs.net/thread-833033-1-1.html)([备用链接](http://baobaojk.web3v.vip/))~~
-- ~~[(1.12)Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html)([备用链接](https://blog.hookan.top/2017/12/25/forge/))~~
+- [(1.8.9/CoreMod)白玉楼之梦(szszss的博客)](http://blog.hakugyokurou.net/?page_id=126)
+- [Coremod导论—从切比雪夫多项式说起](http://www.mcbbs.net/thread-822754-1-1.html)
+- [俩车的 Coremod 介绍](http://www.mcbbs.net/thread-849970-1-1.html)
+- [\[1.3.2-1.13.2\] 原版 / FML CoreMod 开发教程](http://www.mcbbs.net/thread-850737-1-1.html) ([备用链接(国外)](http://xfl03.gitee.io/coremodtutor/)、[备用链接(国内)](http://xfl03.gitee.io/coremodtutor/))
+- ~~[(1.12.2)3024358263的Minecraft1.12.2模组开发教程](http://www.mcbbs.net/thread-833033-1-1.html) ([备用链接](http://baobaojk.web3v.vip/))~~
+- ~~[(1.12)Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html) ([备用链接](https://blog.hookan.top/2017/12/25/forge/))~~
 
 ### Forge MDK 离线版
 [百度云盘 提取码：jmrv ](https://pan.baidu.com/s/1dE0EJnz)
