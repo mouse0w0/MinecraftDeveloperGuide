@@ -281,10 +281,7 @@
 - [MCPConfig](https://github.com/MinecraftForge/MCPConfig)
 - [MCPBot Data Exports](http://export.mcpbot.bspk.rs/)
 
-## 其他    
-    
-### [Github](https://github.com/)
-世界上最大的社交编程以及代码托管网站，可以在这里查看许多模组和插件的源代码
+## 其他
 
 ### [MCBBS开发讨论板块](http://www.mcbbs.net/forum.php?mod=forumdisplay&fid=479)
 有很多有用的东西，可以在这里讨论和提问问题哦!
@@ -292,6 +289,7 @@
 ### [MCBBS开发教程索引贴](http://www.mcbbs.net/thread-54579-1-1.html)
 
 ### 搜索引擎
+有什么事情为什么不先百度或谷歌呢？
 - [百度](https://www.baidu.com)
 - [谷歌](https://www.google.com)
 
@@ -300,6 +298,9 @@
 - Bukkit/Spigot插件开发交流群: [313498121](https://jq.qq.com/?_wv=1027&k=5aoRGzu)
 - Sponge插件开发交流群: [613604130](https://jq.qq.com/?_wv=1027&k=52OlyJ7)
 - 我的Minecraft开发讨论群: [345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)
+
+### [Github](https://github.com/)
+世界上最大的社交编程以及代码托管网站，可以在这里查看许多模组和插件的源代码
 
 ### [Stack Overflow](http://stackoverflow.com/)
 国外的一个关于编程的求助网站    
