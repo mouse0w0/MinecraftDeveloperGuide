@@ -295,11 +295,11 @@
 - [百度](https://www.baidu.com)
 - [谷歌](https://www.google.com)
 
-### 国内开发讨论QQ群
-- 国内最大的MC开发讨论群: [284633248](https://jq.qq.com/?_wv=1027&k=5UNCnBj)
+### 国内开发讨论交流群
+- 国内最大的Minecraft开发讨论群: [284633248](https://jq.qq.com/?_wv=1027&k=5UNCnBj)
 - Bukkit/Spigot插件开发交流群: [313498121](https://jq.qq.com/?_wv=1027&k=5aoRGzu)
 - Sponge插件开发交流群: [613604130](https://jq.qq.com/?_wv=1027&k=52OlyJ7)
-- 我的没什么dalao的开发讨论群: [345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)
+- 我的Minecraft开发讨论群: [345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)
 
 ### [Stack Overflow](http://stackoverflow.com/)
 国外的一个关于编程的求助网站    
