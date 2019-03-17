@@ -273,13 +273,9 @@
 ### [Nukkit官方论坛插件开发讨论板块](https://forums.nukkit.io/forums/plugin-development.7/)
 
 ## 其他开发教程
-
 - [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
 - [[调试辅助]JRebel - 给你+1s|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
 - [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
-- [Mod Coder Pack](http://www.modcoderpack.com/)([旧版本](http://mcp.llbit.se/))
-- [MCPConfig](https://github.com/MinecraftForge/MCPConfig)
-- [MCPBot Data Exports](http://export.mcpbot.bspk.rs/)
 
 ## 其他
 
@@ -304,6 +300,11 @@
 
 ### [Stack Overflow](http://stackoverflow.com/)
 国外的一个关于编程的求助网站    
+
+### Mod Coder Pack
+- [Mod Coder Pack](http://www.modcoderpack.com/)([旧版本](http://mcp.llbit.se/))
+- [MCPConfig](https://github.com/MinecraftForge/MCPConfig)
+- [MCPBot Data Exports](http://export.mcpbot.bspk.rs/)
 
 ## 反馈与建议
 对本指南有建议和意见可以[在此](https://github.com/Mouse0w0/MinecraftDeveloperGuide/issues/new)提交。
