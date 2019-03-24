@@ -103,6 +103,7 @@
 
 ### [(1.12.2)先驱者Forge模组开发指南](https://harbinger.covertdragon.team/)
 非常全面的中文Forge模组开发教程，强烈推荐。  
+> 向所有先驱者与坚守最初的信念的同志们，致敬。愿能成为新时代的种子。（本文编者留）
 
 ### Forge官方文档
 详细介绍了Forge添加的非常有用的库。[中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)，[英文文档](http://mcforge.readthedocs.io/en/latest/)。
