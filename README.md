@@ -101,9 +101,11 @@
 
 ## Forge模组开发
 
-### [(1.12.2)先驱者Forge模组开发指南](https://harbinger.covertdragon.team/)
+### [(1.8.9)zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)
 非常全面的中文Forge模组开发教程，强烈推荐。  
-> 向所有先驱者与坚守最初的信念的同志们，致敬。愿能成为新时代的种子。（本文编者留）
+
+### [(1.12.2)先驱者Forge模组开发指南](https://harbinger.covertdragon.team/)
+全面的中文Forge模组开发教程，但对新手实在是不太友好，需要仔细打磨。
 
 ### Forge官方文档
 详细介绍了Forge添加的非常有用的库。[中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)，[英文文档](http://mcforge.readthedocs.io/en/latest/)。
@@ -113,7 +115,6 @@
 >
 > 请尽量避免开发CoreMod，维护代码空间的和平与清净。
 
-- [(1.8.9)zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)（推荐）
 - [浅析1.13世界生成](http://www.mcbbs.net/thread-846195-1-2.html)
 - [雪崩式的灾难：严重滞后的世界生成](http://www.mcbbs.net/thread-797425-1-1.html)
 - [简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
