@@ -160,7 +160,6 @@
 - [(1.7.10)EMX的教程](https://emxtutorials.wordpress.com/)
 - ~~[附属模组开发工作空间设置](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development/2358564-how-do-i-use-another-mod-as-a-dependency-for-my)~~
 
-
 ### 模组示例代码
 - [(1.12.2-1.8)Choonster的模组示例代码](https://github.com/Choonster/TestMod3)
 - [(1.12.2-1.8)TheGreyGhost的模组示例代码](https://github.com/TheGreyGhost/MinecraftByExample)
@@ -171,6 +170,14 @@
 - [国外Minecraft论坛Mod开发讨论版块](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development)
 - [Forge官方论坛Mod开发讨论版块](http://www.minecraftforge.net/forum/index.php?board=73.0)
 - [Forge官方论坛Mod开发教程版块](http://www.minecraftforge.net/forum/index.php?board=120.0)
+
+### 模组开发相关工具
+
+#### Mod Coder Pack
+- [Mod Coder Pack](http://www.modcoderpack.com/)([旧版本](http://mcp.llbit.se/))
+- [MCPConfig](https://github.com/MinecraftForge/MCPConfig)
+- [MCPBot Data Exports](http://export.mcpbot.bspk.rs/)
+- [MCPBot帮助页面](http://mcpbot.bspk.rs/help)
 
 ## Bukkit/Spigot插件开发
 
@@ -301,11 +308,6 @@
 
 ### [Stack Overflow](http://stackoverflow.com/)
 国外的一个关于编程的求助网站    
-
-### Mod Coder Pack
-- [Mod Coder Pack](http://www.modcoderpack.com/)([旧版本](http://mcp.llbit.se/))
-- [MCPConfig](https://github.com/MinecraftForge/MCPConfig)
-- [MCPBot Data Exports](http://export.mcpbot.bspk.rs/)
 
 ## 反馈与建议
 对本指南有建议和意见可以[在此](https://github.com/Mouse0w0/MinecraftDeveloperGuide/issues/new)提交。
