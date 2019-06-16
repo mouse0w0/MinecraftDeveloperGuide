@@ -113,13 +113,14 @@
 ### 国内模组开发教程
 > 有删除线的教程可能存在误导、表述不清和不够严谨等较为严重的问题，仅作参考。
 >
-> 请尽量避免开发CoreMod，维护代码空间的和平与清净。
+> 请尽量避免开发CoreMod。
 
 - [浅析1.13世界生成](http://www.mcbbs.net/thread-846195-1-2.html)
 - [雪崩式的灾难：严重滞后的世界生成](http://www.mcbbs.net/thread-797425-1-1.html)
 - [简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
 - [Minecraft模组开发知乎专栏](https://zhuanlan.zhihu.com/c_200546589)
 - [ustc-zzzz的博客](https://blog.ustc-zzzz.net/)
+- [GUI开发教程](http://www.mcbbs.net/thread-836858-1-1.html)
 - [[1.11.2]基于代码的简单方块/物品贴图渲染](http://www.mcbbs.net/thread-697765-1-1.html)
 - [(1.11.2)ChinaCraft2代码详解——大型模组开发笔记](http://www.mcbbs.net/thread-705995-1-1.html) ([备用链接](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki))
 - [1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html)
@@ -199,6 +200,8 @@
 很多问题都能在这里解决。
 
 ### 国内其他插件开发教程
+- [使用BlockData API来操作Sign](http://www.mcbbs.net/thread-860856-1-1.html)
+- [1.13+ 中 Forge 与 Bukkit 的通信](http://www.mcbbs.net/thread-873219-1-1.html)
 - [ProtocolLib 教程](http://www.mcbbs.net/thread-568714-1-1.html)
 - [Placeholder 教程](http://www.mcbbs.net/thread-570703-1-1.html)
 - [Vault API 翻译](http://www.mcbbs.net/thread-615396-1-1.html)
@@ -308,7 +311,9 @@
 世界上最大的社交编程以及代码托管网站，可以在这里查看许多模组和插件的源代码
 
 ### [Stack Overflow](http://stackoverflow.com/)
-国外的一个关于编程的求助网站    
+国外的一个关于编程的求助网站
+
+### [怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)
 
 ## 反馈与建议
 对本指南有建议和意见可以[在此](https://github.com/Mouse0w0/MinecraftDeveloperGuide/issues/new)提交。
