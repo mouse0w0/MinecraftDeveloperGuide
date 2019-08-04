@@ -105,7 +105,7 @@
 非常全面的中文Forge模组开发教程，强烈推荐。  
 
 ### [(1.12.2)先驱者Forge模组开发指南](https://harbinger.covertdragon.team/)
-全面的中文Forge模组开发教程，但对新手实在是不太友好，需要仔细打磨。
+全面的中文Forge模组开发教程，但更像是一本参考书，对新手不太友好。
 
 ### Forge官方文档
 详细介绍了Forge添加的非常有用的库。[中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)，[英文文档](http://mcforge.readthedocs.io/en/latest/)。
