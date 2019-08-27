@@ -111,10 +111,9 @@
 详细介绍了Forge添加的非常有用的库。[中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)，[英文文档](http://mcforge.readthedocs.io/en/latest/)。
 
 ### 国内模组开发教程
-> 有删除线的教程可能存在误导、表述不清和不够严谨等较为严重的问题，仅作参考。
->
-> 请尽量避免开发CoreMod。
+> 有删除线的教程可能存在误导、内容欠缺、表述不清和不够严谨等较为严重的问题，仅作参考。
 
+- [\[1.3.2-1.13.2\] 原版 / FML CoreMod 开发教程](http://www.mcbbs.net/thread-850737-1-1.html) ([备用链接(国外)](http://xfl03.gitee.io/coremodtutor/)、[备用链接(国内)](http://xfl03.gitee.io/coremodtutor/))
 - [浅析1.13世界生成](http://www.mcbbs.net/thread-846195-1-2.html)
 - [雪崩式的灾难：严重滞后的世界生成](http://www.mcbbs.net/thread-797425-1-1.html)
 - [简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
@@ -129,7 +128,6 @@
 - [(1.8.9/CoreMod)白玉楼之梦(szszss的博客)](http://blog.hakugyokurou.net/?page_id=126)
 - [Coremod导论—从切比雪夫多项式说起](http://www.mcbbs.net/thread-822754-1-1.html)
 - [俩车的 Coremod 介绍](http://www.mcbbs.net/thread-849970-1-1.html)
-- [\[1.3.2-1.13.2\] 原版 / FML CoreMod 开发教程](http://www.mcbbs.net/thread-850737-1-1.html) ([备用链接(国外)](http://xfl03.gitee.io/coremodtutor/)、[备用链接(国内)](http://xfl03.gitee.io/coremodtutor/))
 - ~~[(1.12.2)3024358263的Minecraft1.12.2模组开发教程](http://www.mcbbs.net/thread-833033-1-1.html) ([备用链接](http://baobaojk.web3v.vip/))~~
 - ~~[(1.12)Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html) ([备用链接](https://blog.hookan.top/2017/12/25/forge/))~~
 
