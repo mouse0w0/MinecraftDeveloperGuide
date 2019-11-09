@@ -9,6 +9,7 @@
 - [Bukkit/Spigot插件开发](#bukkitspigot插件开发)
 - [BungeeCord插件开发](#bungeecord插件开发)
 - [Sponge插件开发](#sponge插件开发)
+- [Fabric模组开发](#fabric模组开发)
 - [LiteLoader模组开发](#liteloader模组开发)
 - [基岩版开发](#基岩版开发)
 - [PocketMine插件开发](#pocketmine插件开发)
@@ -248,6 +249,14 @@
 ### [官方教程(多国语言，含简体中文)](https://docs.spongepowered.org)
 
 ### [官方JavaDoc](https://jd.spongepowered.org/7.1.0/)
+
+## Fabric模组开发
+
+### [Fabric开发文档中文翻译](https://www.mcbbs.net/thread-904854-1-1.html)
+
+### [官方网站](https://fabricmc.net/)
+
+### [官方Wiki](https://fabricmc.net/wiki/start)
 
 ## LiteLoader模组开发
 
