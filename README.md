@@ -94,7 +94,7 @@
 
 ### [Java 官方教程(英文)](http://docs.oracle.com/javase/tutorial/)
 
-### [Google Java 编程风格指南](http://www.hawstein.com/posts/google-java-style.html)
+### [Google Java 编程风格指南](http://hawstein.com/2014/01/20/google-java-style/)
 
 ### Javadoc
 - [官方英文](http://docs.oracle.com/javase/8/docs/api/)
