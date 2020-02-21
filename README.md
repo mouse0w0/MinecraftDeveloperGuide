@@ -111,6 +111,9 @@
 ### Forge官方文档
 详细介绍了Forge添加的非常有用的库。[中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)，[英文文档](http://mcforge.readthedocs.io/en/latest/)。
 
+### Forge Minecraft开发工具包离线包
+[百度云盘 提取码：jmrv](https://pan.baidu.com/s/1dE0EJnz)
+
 ### 国内模组开发教程
 > 有删除线的教程可能存在误导、内容欠缺、表述不清和不够严谨等较为严重的问题，仅作参考。
 
@@ -132,33 +135,30 @@
 - ~~[(1.12.2)3024358263的Minecraft1.12.2模组开发教程](http://www.mcbbs.net/thread-833033-1-1.html) ([备用链接](http://baobaojk.web3v.vip/))~~
 - ~~[(1.12)Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html) ([备用链接](https://blog.hookan.top/2017/12/25/forge/))~~
 
-### Forge MDK 离线版
-[百度云盘 提取码：jmrv ](https://pan.baidu.com/s/1dE0EJnz)
-
 ### 国外模组开发教程
 由于没有详细的阅读过，不做评论，但大都全面，非常推荐外语水平好的同学前去阅读。排名依照支持版本先后排序。
-- [(1.13.2-1.12.2)Suppergerrie2的模组开发教程](https://suppergerrie2.com/category/forge-tutorial/)
-- [(1.12-1.9.4)McJty的模组开发教程](https://wiki.mcjty.eu/modding/index.php?title=Main_Page)
-- [(1.12.2)Cubicodere的模组开发教程](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/mapping-and-modding-tutorials/2909896-cubicoders-1-12-2-minecraft-forge-modding)
-- [(1.12.2)Loremaster的模组开发视频教程](https://www.youtube.com/c/LoremasterOfficial)
-- [(1.12.2-1.10.2)shadowfacts的模组开发教程](https://shadowfacts.net/tutorials/forge-modding-1102/)
+- [【1.15.2-1.12.2】Suppergerrie2的模组开发教程](https://suppergerrie2.com/category/forge-tutorial/)
+- [【Youtube】【1.15.2-1.14.2】McJty的模组开发视频教程](https://www.youtube.com/playlist?list=PLmaTwVFUUXiBKYYSyrv_uPPoPZtEsCBVJ)
+- [【1.14.2-1.9.4】McJty的模组开发教程](https://wiki.mcjty.eu/modding/index.php?title=Main_Page)
 - [Darkhax的模组开发教程](https://tutorials.darkhax.net/pages/tutorials/)
 - [如何用Kotlin开发模组](http://couchdoescode.blogspot.com/2018/01/minecraft-modding-tutorial-with-kotlin.html)
-- [(1.10-1.9)MrCrayFish的模组开发视频教程](https://www.youtube.com/playlist?list=PLy11IosblXIH-OIKa5yYs-KEA2LCohV8g)
-- [(1.10-1.9)DisgultGA的模组开发视频教程](https://www.youtube.com/playlist?list=PLkhfw1xGCrIPpgIGXuhFmkjPK5427q4e6)
-- [(1.10-1.8)Ash5357的模组开发视频教程](https://www.youtube.com/playlist?list=PLMgygZJ6uqwOSrAaGAOgnUIMAirtPG7w-)
-- [(1.10.X)国外网友自己整理的模组开发教程合集](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2718726-list-of-minecraft-1-10-x-modding-tutorials)
-- [(1.9-1.8.X)结构生成教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2666351-1-8-x-and-1-9-structure-generation-tutorial)
-- [(1.9-1.8.X)复杂结构生成教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2667034-1-8-x-and-1-9-complex-structure-generation)
-- [(1.8-1.6.4)coolAlias的模组开发教程](https://github.com/coolAlias/Forge_Tutorials)
-- [(1.8-1.3)wuppy29的模组开发教程](http://www.wuppy29.com/minecraft/modding-tutorials/forge-modding/)
-- [(1.8-1.6)grey的模组开发教程](http://greyminecraftcoder.blogspot.com/)
-- [(1.8-1.7)TheXFactor117的模组开发教程](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/mapping-and-modding-tutorials/2282788-1-7-1-8-thexfactor117s-forge-modding-tutorials-20)
-- [(1.8)Blfngl的模组开发教程](http://forgetutorials.weebly.com/)
-- [(1.8)日本的模组开发百科](http://minecraftjp.info/modding/index.php/Minecraft_Modding_Wiki)
-- [(1.7.10)jabelar的模组开发教程](http://jabelarminecraft.blogspot.com/)
-- [(1.7.10)模组开发教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/1571600-1-7-10-minecraft-forge-modding-tutorials-begginer)
-- [(1.7.10)EMX的教程](https://emxtutorials.wordpress.com/)
+- [【1.12.2】Cubicodere的模组开发教程](https://cubicoder.github.io/)
+- [【1.12.2-1.10.2】shadowfacts的模组开发教程](https://shadowfacts.net/tutorials/)
+- [【Youtube】【1.10-1.9】MrCrayFish的模组开发视频教程](https://www.youtube.com/playlist?list=PLy11IosblXIH-OIKa5yYs-KEA2LCohV8g)
+- [【Youtube】【1.10-1.9】DisgultGA的模组开发视频教程](https://www.youtube.com/playlist?list=PLkhfw1xGCrIPpgIGXuhFmkjPK5427q4e6)
+- [【Youtube】】1.10-1.8】Ash5357的模组开发视频教程](https://www.youtube.com/playlist?list=PLMgygZJ6uqwOSrAaGAOgnUIMAirtPG7w-)
+- [【1.10.X】国外网友自己整理的模组开发教程合集](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2718726-list-of-minecraft-1-10-x-modding-tutorials)
+- [【1.9-1.8.X】结构生成教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2666351-1-8-x-and-1-9-structure-generation-tutorial)
+- [【1.9-1.8.X】复杂结构生成教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2667034-1-8-x-and-1-9-complex-structure-generation)
+- [【1.8-1.6.4】coolAlias的模组开发教程](https://github.com/coolAlias/Forge_Tutorials)
+- [【1.8-1.3】wuppy29的模组开发教程](http://www.wuppy29.com/minecraft/modding-tutorials/forge-modding/)
+- [【1.8-1.6】grey的模组开发教程](http://greyminecraftcoder.blogspot.com/)
+- [【1.8-1.7】TheXFactor117的模组开发教程](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/mapping-and-modding-tutorials/2282788-1-7-1-8-thexfactor117s-forge-modding-tutorials-20)
+- [【1.8】Blfngl的模组开发教程](http://forgetutorials.weebly.com/)
+- [【1.8】日本的模组开发百科](http://minecraftjp.info/modding/index.php/Minecraft_Modding_Wiki)
+- [【1.7.10】jabelar的模组开发教程](http://jabelarminecraft.blogspot.com/)
+- [【1.7.10】模组开发教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/1571600-1-7-10-minecraft-forge-modding-tutorials-begginer)
+- [【1.7.10】EMX的教程](https://emxtutorials.wordpress.com/)
 - ~~[附属模组开发工作空间设置](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development/2358564-how-do-i-use-another-mod-as-a-dependency-for-my)~~
 
 ### 模组示例代码
