@@ -117,7 +117,7 @@
 ### 国内模组开发教程
 > 有删除线的教程可能存在误导、内容欠缺、表述不清和不够严谨等较为严重的问题，仅作参考。
 
-- [\[1.3.2-1.13.2\] 原版 / FML CoreMod 开发教程](http://www.mcbbs.net/thread-850737-1-1.html) ([备用链接(国外)](http://xfl03.gitee.io/coremodtutor/)、[备用链接(国内)](http://xfl03.gitee.io/coremodtutor/))
+- [\[1.3.2-1.14.2\] 原版 / FML CoreMod 开发教程](http://www.mcbbs.net/thread-850737-1-1.html) ([备用链接(国外)](http://xfl03.gitee.io/coremodtutor/)、[备用链接(国内)](http://xfl03.gitee.io/coremodtutor/))
 - [浅析1.13世界生成](http://www.mcbbs.net/thread-846195-1-2.html)
 - [雪崩式的灾难：严重滞后的世界生成](http://www.mcbbs.net/thread-797425-1-1.html)
 - [简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
