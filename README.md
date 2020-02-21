@@ -140,6 +140,7 @@
 - [【1.15.2-1.12.2】Suppergerrie2的模组开发教程](https://suppergerrie2.com/category/forge-tutorial/)
 - [【Youtube】【1.15.2-1.14.2】McJty的模组开发视频教程](https://www.youtube.com/playlist?list=PLmaTwVFUUXiBKYYSyrv_uPPoPZtEsCBVJ)
 - [【1.14.2-1.9.4】McJty的模组开发教程](https://wiki.mcjty.eu/modding/index.php?title=Main_Page)
+- [【Youtube】【1.14/1.12.2】Harry Talks的模组开发视频教程](https://www.youtube.com/channel/UCUAawSqNFBEj-bxguJyJL9g)
 - [Darkhax的模组开发教程](https://tutorials.darkhax.net/pages/tutorials/)
 - [如何用Kotlin开发模组](http://couchdoescode.blogspot.com/2018/01/minecraft-modding-tutorial-with-kotlin.html)
 - [【1.12.2】Cubicodere的模组开发教程](https://cubicoder.github.io/)
