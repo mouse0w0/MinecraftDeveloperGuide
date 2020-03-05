@@ -304,6 +304,8 @@
 
 ### [MCBBS开发教程索引贴](http://www.mcbbs.net/thread-54579-1-1.html)
 
+### [V2我的世界开发者论坛](https://www.v2mcdev.com/)
+
 ### 搜索引擎
 有什么事情为什么不先百度或谷歌呢？
 - [百度](https://www.baidu.com)
