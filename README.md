@@ -114,10 +114,9 @@
 ### Forge Minecraft开发工具包离线包
 [百度云盘 提取码：jmrv](https://pan.baidu.com/s/1dE0EJnz)
 
-### 国内模组开发教程
-> 有删除线的教程可能存在误导、内容欠缺、表述不清和不够严谨等较为严重的问题，仅作参考。
+### 国内相关资料
+> 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨和已有同类更优秀的资料等问题，仅作参考。
 
-- [Leader——中文社区的一份Minecraft Fabric教程](https://www.mcbbs.net/thread-964580-1-1.html)
 - [1.13+ 中 Forge 与 Bukkit 的通信](https://www.mcbbs.net/thread-873219-1-1.html)
 - [\[1.3.2-1.14.2\] 原版 / FML CoreMod 开发教程](http://www.mcbbs.net/thread-850737-1-1.html) ([备用链接(国外)](http://xfl03.gitee.io/coremodtutor/)、[备用链接(国内)](http://xfl03.gitee.io/coremodtutor/))
 - [浅析1.13世界生成](http://www.mcbbs.net/thread-846195-1-2.html)
@@ -132,10 +131,12 @@
 - [(1.8.9-1.7.2)风之工坊(当风过时的博客)](http://www.windworkshop.cn/?page_id=525)
 - [(1.7.10)261Day](https://www.261day.com/minecraft-forge%E6%95%99%E7%A8%8B/)
 - [(1.8.9/CoreMod)白玉楼之梦(szszss的博客)](http://blog.hakugyokurou.net/?page_id=126)
+- ~~[Coremod导论—从切比雪夫多项式说起](http://www.mcbbs.net/thread-822754-1-1.html)~~
+- ~~[俩车的 Coremod 介绍](http://www.mcbbs.net/thread-849970-1-1.html)~~
 - ~~[(1.12.2)3024358263的Minecraft1.12.2模组开发教程](http://www.mcbbs.net/thread-833033-1-1.html) ([备用链接](http://baobaojk.web3v.vip/))~~
 - ~~[(1.12)Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html) ([备用链接](https://blog.hookan.top/2017/12/25/forge/))~~
 
-### 国外模组开发教程
+### 国外相关资料
 由于没有详细的阅读过，不做评论，但大都全面，非常推荐外语水平好的同学前去阅读。排名依照支持版本先后排序。
 - [【1.15.2-1.12.2】Suppergerrie2的模组开发教程](https://suppergerrie2.com/category/forge-tutorial/)
 - [【Youtube】【1.15.2-1.14.2】McJty的模组开发视频教程](https://www.youtube.com/playlist?list=PLmaTwVFUUXiBKYYSyrv_uPPoPZtEsCBVJ)
@@ -199,7 +200,7 @@
 ### [Spigot官方论坛插件开发讨论版块](https://www.spigotmc.org/forums/spigot-plugin-development.52/)
 很多问题都能在这里解决。
 
-### 国内其他插件开发教程
+### 国内相关资料
 - [Scoreboard教程](https://www.mcbbs.net/thread-897858-1-1.html)
 - [创建高版本自定义实体，自定义方块原理与应用](https://www.mcbbs.net/thread-966358-1-1.html)
 - [如何问玩家“吾与徐公孰美？”](https://www.mcbbs.net/thread-958674-1-1.html)
@@ -261,6 +262,9 @@
 ### [官方网站](https://fabricmc.net/)
 
 ### [官方Wiki](https://fabricmc.net/wiki/start)
+
+### 国内相关资料
+- [Leader——中文社区的一份Minecraft Fabric教程](https://www.mcbbs.net/thread-964580-1-1.html)
 
 ## LiteLoader模组开发
 
