@@ -138,6 +138,7 @@
 
 ### 国外相关资料
 由于没有详细的阅读过，不做评论，但大都全面，非常推荐外语水平好的同学前去阅读。排名依照支持版本先后排序。
+- [【1.15.2-1.12.2】Cadiboo的模组开发教程)](https://cadiboo.github.io/tutorials/)
 - [【1.15.2-1.12.2】Suppergerrie2的模组开发教程](https://suppergerrie2.com/category/forge-tutorial/)
 - [【Youtube】【1.15.2-1.14.2】McJty的模组开发视频教程](https://www.youtube.com/playlist?list=PLmaTwVFUUXiBKYYSyrv_uPPoPZtEsCBVJ)
 - [【1.14.2-1.9.4】McJty的模组开发教程](https://wiki.mcjty.eu/modding/index.php?title=Main_Page)
