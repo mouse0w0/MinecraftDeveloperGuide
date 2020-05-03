@@ -11,11 +11,11 @@
 - [Sponge插件开发](#sponge插件开发)
 - [Fabric模组开发](#fabric模组开发)
 - [LiteLoader模组开发](#liteloader模组开发)
-- [基岩版开发](#基岩版开发)
+- [基岩版开发](#基岩版bedrock-edition开发)
 - [PocketMine插件开发](#pocketmine插件开发)
 - [Nukkit插件开发](#nukkit插件开发)
 - [其他开发教程](#其他开发教程)
-- [其他](#其他-)
+- [其他](#其他)
 - [反馈与建议](#反馈与建议)
 - [版权声明](#版权声明)
 
@@ -117,24 +117,26 @@
 ### 国内相关资料
 > 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨和已有同类更优秀的资料等问题，仅作参考。
 
-- [1.13+ 中 Forge 与 Bukkit 的通信](https://www.mcbbs.net/thread-873219-1-1.html)
-- [\[1.3.2-1.14.2\] 原版 / FML CoreMod 开发教程](http://www.mcbbs.net/thread-850737-1-1.html) ([备用链接(国外)](http://xfl03.gitee.io/coremodtutor/)、[备用链接(国内)](http://xfl03.gitee.io/coremodtutor/))
-- [浅析1.13世界生成](http://www.mcbbs.net/thread-846195-1-2.html)
-- [雪崩式的灾难：严重滞后的世界生成](http://www.mcbbs.net/thread-797425-1-1.html)
-- [简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
+- [【1.15】Neutrino 1.15 Mod 开发教程](https://neutrino.v2mcdev.com/)
+- [【1.14+】Forge能量系统简述](https://www.mcbbs.net/thread-1034965-1-1.html)
+- [【1.13+】1.13+ 中 Forge 与 Bukkit 的通信](https://www.mcbbs.net/thread-873219-1-1.html)
+- [【全版本】 原版 / FML CoreMod 开发教程](http://www.mcbbs.net/thread-850737-1-1.html) ([备用链接(国外)](http://xfl03.gitee.io/coremodtutor/)、[备用链接(国内)](http://xfl03.gitee.io/coremodtutor/))
+- [【1.13+】浅析1.13世界生成](http://www.mcbbs.net/thread-846195-1-2.html)
+- [【全版本】雪崩式的灾难：严重滞后的世界生成](http://www.mcbbs.net/thread-797425-1-1.html)
+- [【全版本】简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
+- [【全版本】GUI开发教程](http://www.mcbbs.net/thread-836858-1-1.html)
+- [【1.11.2】基于代码的简单方块/物品贴图渲染](http://www.mcbbs.net/thread-697765-1-1.html)
+- [【1.11.2】ChinaCraft2代码详解——大型模组开发笔记](http://www.mcbbs.net/thread-705995-1-1.html) ([备用链接](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki))
+- [【1.10.2+】1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html)
 - [Minecraft模组开发知乎专栏](https://zhuanlan.zhihu.com/c_200546589)
 - [ustc-zzzz的博客](https://blog.ustc-zzzz.net/)
-- [GUI开发教程](http://www.mcbbs.net/thread-836858-1-1.html)
-- [[1.11.2]基于代码的简单方块/物品贴图渲染](http://www.mcbbs.net/thread-697765-1-1.html)
-- [(1.11.2)ChinaCraft2代码详解——大型模组开发笔记](http://www.mcbbs.net/thread-705995-1-1.html) ([备用链接](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki))
-- [1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html)
-- [(1.8.9-1.7.2)风之工坊(当风过时的博客)](http://www.windworkshop.cn/?page_id=525)
-- [(1.7.10)261Day](https://www.261day.com/minecraft-forge%E6%95%99%E7%A8%8B/)
-- [(1.8.9/CoreMod)白玉楼之梦(szszss的博客)](http://blog.hakugyokurou.net/?page_id=126)
-- ~~[Coremod导论—从切比雪夫多项式说起](http://www.mcbbs.net/thread-822754-1-1.html)~~
-- ~~[俩车的 Coremod 介绍](http://www.mcbbs.net/thread-849970-1-1.html)~~
-- ~~[(1.12.2)3024358263的Minecraft1.12.2模组开发教程](http://www.mcbbs.net/thread-833033-1-1.html) ([备用链接](http://baobaojk.web3v.vip/))~~
-- ~~[(1.12)Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html) ([备用链接](https://blog.hookan.top/2017/12/25/forge/))~~
+- [【1.8.9-1.7.2】风之工坊(当风过时的博客)](http://www.windworkshop.cn/?page_id=525)
+- [【1.7.10】261Day](https://www.261day.com/minecraft-forge%E6%95%99%E7%A8%8B/)
+- [【1.8.9】白玉楼之梦(szszss的博客)](http://blog.hakugyokurou.net/?page_id=126)
+- ~~[【全版本】Coremod导论—从切比雪夫多项式说起](http://www.mcbbs.net/thread-822754-1-1.html)~~
+- ~~[【全版本】俩车的 Coremod 介绍](http://www.mcbbs.net/thread-849970-1-1.html)~~
+- ~~[【1.12.2】3024358263的Minecraft1.12.2模组开发教程](http://www.mcbbs.net/thread-833033-1-1.html) ([备用链接](http://baobaojk.web3v.vip/))~~
+- ~~[【1.12】Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html) ([备用链接](https://blog.hookan.top/2017/12/25/forge/))~~
 
 ### 国外相关资料
 由于没有详细的阅读过，不做评论，但大都全面，非常推荐外语水平好的同学前去阅读。排名依照支持版本先后排序。
@@ -202,6 +204,8 @@
 很多问题都能在这里解决。
 
 ### 国内相关资料
+- [怎样写出一个1.12.2-1.15.2通用支持的插件](https://www.mcbbs.net/thread-1023107-1-1.html)
+- [使用IDEA快速调试插件](https://www.mcbbs.net/thread-1004767-1-1.html)
 - [Scoreboard教程](https://www.mcbbs.net/thread-897858-1-1.html)
 - [创建高版本自定义实体，自定义方块原理与应用](https://www.mcbbs.net/thread-966358-1-1.html)
 - [如何问玩家“吾与徐公孰美？”](https://www.mcbbs.net/thread-958674-1-1.html)
@@ -254,7 +258,10 @@
 
 ### [官方教程(多国语言，含简体中文)](https://docs.spongepowered.org)
 
-### [官方JavaDoc](https://jd.spongepowered.org/7.1.0/)
+### [官方JavaDoc](https://jd.spongepowered.org/7.2.0/)
+
+### 国内相关资料
+- [Minecraft 服务端权限上下文系统及其应用](https://www.mcbbs.net/thread-1007917-1-1.html)
 
 ## Fabric模组开发
 
@@ -265,7 +272,9 @@
 ### [官方Wiki](https://fabricmc.net/wiki/start)
 
 ### 国内相关资料
+- [用EventLib简化fabric mod开发](https://www.mcbbs.net/thread-1030076-1-1.html)
 - [Leader——中文社区的一份Minecraft Fabric教程](https://www.mcbbs.net/thread-964580-1-1.html)
+- [Mixin官方Wiki中文翻译](http://mouse0w0.github.io/categories/Mixin/)
 
 ## LiteLoader模组开发
 
