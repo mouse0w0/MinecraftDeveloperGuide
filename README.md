@@ -13,8 +13,7 @@
 - [基岩版开发](#基岩版bedrock-edition开发)
 - [PocketMine插件开发](#pocketmine插件开发)
 - [Nukkit插件开发](#nukkit插件开发)
-- [其他开发教程](#其他开发教程)
-- [其他](#其他)
+- [其他开发资源](#其他开发资源)
 - [反馈与建议](#反馈与建议)
 - [版权声明](#版权声明)
 
@@ -307,12 +306,7 @@
 
 ### [Nukkit官方论坛插件开发讨论板块](https://forums.nukkit.io/forums/plugin-development.7/)
 
-## 其他开发教程
-- [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
-- [[调试辅助]JRebel - 给你+1s|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
-- [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
-
-## 其他
+## 其他开发资源
 
 ### [MCBBS开发讨论板块](http://www.mcbbs.net/forum.php?mod=forumdisplay&fid=479)
 有很多有用的东西，可以在这里讨论和提问问题哦!
@@ -338,7 +332,11 @@
 ### [Stack Overflow](http://stackoverflow.com/)
 国外的一个关于编程的求助网站
 
-### [怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)
+### 其他开发教程
+- [怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)
+- [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
+- [[调试辅助]JRebel - 给你+1s|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
+- [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
 
 ## 反馈与建议
 对本指南有建议和意见可以[在此](https://github.com/Mouse0w0/MinecraftDeveloperGuide/issues/new)提交。
