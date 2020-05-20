@@ -112,7 +112,7 @@
 [百度云盘 提取码：jmrv](https://pan.baidu.com/s/1dE0EJnz)
 
 ### 国内相关资料
-> 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨和已有同类更优秀的资料等问题，仅作参考。
+> 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨和已有同类更优秀的资料等，仅作参考。
 
 - [【1.15】Neutrino 1.15 Mod 开发教程](https://neutrino.v2mcdev.com/)
 - [【1.14+】Forge能量系统简述](https://www.mcbbs.net/thread-1034965-1-1.html)
@@ -137,9 +137,11 @@
 
 ### 国外相关资料
 由于没有详细的阅读过，不做评论，但大都全面，非常推荐外语水平好的同学前去阅读。排名依照支持版本先后排序。
+- [【Youtube】【1.15.2-1.12.2】TurtyWurty的模组开发视频教程](https://www.youtube.com/channel/UCicAXLV4w2X6bn2EuM4To4w)
 - [【1.15.2-1.12.2】Cadiboo的模组开发教程](https://cadiboo.github.io/tutorials/)
 - [【1.15.2-1.12.2】Suppergerrie2的模组开发教程](https://suppergerrie2.com/category/forge-tutorial/)
 - [【Youtube】【1.15.2-1.14.2】McJty的模组开发视频教程](https://www.youtube.com/playlist?list=PLmaTwVFUUXiBKYYSyrv_uPPoPZtEsCBVJ)
+- [【1.14.4-1.8】TheGreyGhost的模组开发教程](http://greyminecraftcoder.blogspot.com/)
 - [【1.14.2-1.9.4】McJty的模组开发教程](https://wiki.mcjty.eu/modding/index.php?title=Main_Page)
 - [【Youtube】【1.14/1.12.2】Harry Talks的模组开发视频教程](https://www.youtube.com/channel/UCUAawSqNFBEj-bxguJyJL9g)
 - [Darkhax的模组开发教程](https://tutorials.darkhax.net/pages/tutorials/)
@@ -154,7 +156,6 @@
 - [【1.9-1.8.X】复杂结构生成教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/2667034-1-8-x-and-1-9-complex-structure-generation)
 - [【1.8-1.6.4】coolAlias的模组开发教程](https://github.com/coolAlias/Forge_Tutorials)
 - [【1.8-1.3】wuppy29的模组开发教程](http://www.wuppy29.com/minecraft/modding-tutorials/forge-modding/)
-- [【1.8-1.6】grey的模组开发教程](http://greyminecraftcoder.blogspot.com/)
 - [【1.8-1.7】TheXFactor117的模组开发教程](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/mapping-and-modding-tutorials/2282788-1-7-1-8-thexfactor117s-forge-modding-tutorials-20)
 - [【1.8】Blfngl的模组开发教程](http://forgetutorials.weebly.com/)
 - [【1.8】日本的模组开发百科](http://minecraftjp.info/modding/index.php/Minecraft_Modding_Wiki)
@@ -165,8 +166,8 @@
 
 ### 模组示例代码
 - [【1.15.2-1.8.9】McJty的模组示例代码](https://github.com/McJty/ModTutorials)
+- [【1.15.2-1.8】TheGreyGhost的模组示例代码](https://github.com/TheGreyGhost/MinecraftByExample)
 - [【1.12.2-1.8】Choonster的模组示例代码](https://github.com/Choonster/TestMod3)
-- [【1.12.2-1.8】TheGreyGhost的模组示例代码](https://github.com/TheGreyGhost/MinecraftByExample)
 
 ### 国外mod开发讨论
 很多问题都能在这里解决
