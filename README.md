@@ -117,14 +117,14 @@
 - [【1.15】Neutrino 1.15 Mod 开发教程](https://neutrino.v2mcdev.com/)
 - [【1.14+】Forge能量系统简述](https://www.mcbbs.net/thread-1034965-1-1.html)
 - [【1.13+】1.13+ 中 Forge 与 Bukkit 的通信](https://www.mcbbs.net/thread-873219-1-1.html)
-- [【全版本】 原版 / FML CoreMod 开发教程](http://www.mcbbs.net/thread-850737-1-1.html) ([备用链接(国外)](http://xfl03.gitee.io/coremodtutor/)、[备用链接(国内)](http://xfl03.gitee.io/coremodtutor/))
+- [【全版本】 原版 / FML CoreMod 开发教程](http://www.mcbbs.net/thread-850737-1-1.html)（[GitBook](https://xfl03.gitbook.io/coremodtutor/)/[码云](http://xfl03.gitee.io/coremodtutor/)）
 - [【1.13+】浅析1.13世界生成](http://www.mcbbs.net/thread-846195-1-2.html)
 - [【1.7.10-1.12.2】EnumHelper的前世今生](https://www.mcbbs.net/thread-1054951-1-1.html)
-- [【全版本】雪崩式的灾难：严重滞后的世界生成](http://www.mcbbs.net/thread-797425-1-1.html) ([备用连接(B站)](https://www.bilibili.com/read/cv545451/))
+- [【全版本】雪崩式的灾难：严重滞后的世界生成](http://www.mcbbs.net/thread-797425-1-1.html)（[Bilibili](https://www.bilibili.com/read/cv545451/)）
 - [【全版本】简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
 - [【全版本】GUI开发教程](http://www.mcbbs.net/thread-836858-1-1.html)
 - [【1.11.2】基于代码的简单方块/物品贴图渲染](http://www.mcbbs.net/thread-697765-1-1.html)
-- [【1.11.2】ChinaCraft2代码详解——大型模组开发笔记](http://www.mcbbs.net/thread-705995-1-1.html) ([备用链接](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki))
+- [【1.11.2】ChinaCraft2代码详解——大型模组开发笔记](http://www.mcbbs.net/thread-705995-1-1.html)（[Github](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki)）
 - [【1.10.2+】1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html)
 - [Minecraft模组开发知乎专栏](https://zhuanlan.zhihu.com/c_200546589)
 - [ustc-zzzz的博客](https://blog.ustc-zzzz.net/)
@@ -133,8 +133,8 @@
 - [【1.8.9】白玉楼之梦(szszss的博客)](http://blog.hakugyokurou.net/?page_id=126)
 - ~~[【全版本】Coremod导论—从切比雪夫多项式说起](http://www.mcbbs.net/thread-822754-1-1.html)~~
 - ~~[【全版本】俩车的 Coremod 介绍](http://www.mcbbs.net/thread-849970-1-1.html)~~
-- ~~[【1.12.2】3024358263的Minecraft1.12.2模组开发教程](http://www.mcbbs.net/thread-833033-1-1.html) ([备用链接](http://baobaojk.web3v.vip/))~~
-- ~~[【1.12】Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html) ([备用链接](https://blog.hookan.top/2017/12/25/forge/))~~
+- ~~[【1.12.2】3024358263的Minecraft1.12.2模组开发教程](http://www.mcbbs.net/thread-833033-1-1.html)（[备用链接](http://baobaojk.web3v.vip/)）~~
+- ~~[【1.12】Re:从零开始的基于Forge的mod开发生活](http://www.mcbbs.net/thread-702594-1-1.html)（[备用链接](https://blog.hookan.top/2017/12/25/forge/)）~~
 
 ### 国外相关资料
 由于没有详细的阅读过，不做评论，但大都全面，非常推荐外语水平好的同学前去阅读。排名依照支持版本先后排序。
@@ -187,6 +187,7 @@
 ## Bukkit/Spigot插件开发
 
 ### 国内优秀教程
+- [Valkyrie —— 一个面向中文社区的插件开发教程](https://www.mcbbs.net/thread-1088032-1-1.html)（[Github](https://github.com/ElaBosak233/Valkyrie)/[备用链接](https://valkyrie.elabosak.cn/)）
 - [tdiant的Bukkit插件开发教程](http://www.mcbbs.net/thread-808820-1-1.html)
 - [810587921的插件教程](http://www.mcbbs.net/thread-283190-1-1.html)
 - [Day's Bukkit插件开发教程](http://www.mcbbs.net/thread-439856-1-1.html)
