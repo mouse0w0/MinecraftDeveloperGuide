@@ -187,7 +187,7 @@
 ## Bukkit/Spigot插件开发
 
 ### 国内优秀教程
-- [Valkyrie —— 一个面向中文社区的插件开发教程](https://www.mcbbs.net/thread-1088032-1-1.html)（[Github](https://github.com/ElaBosak233/Valkyrie)/[备用链接](https://valkyrie.elabosak.cn/)）
+- [Valkyrie —— 一个面向中文社区的插件开发教程](https://www.mcbbs.net/thread-1088032-1-1.html)（[Github](https://github.com/ElaBosak233/Valkyrie)/[备用链接](https://valkyrie.ela.ac.cn/)）
 - [tdiant的Bukkit插件开发教程](http://www.mcbbs.net/thread-808820-1-1.html)
 
 ### 官方教程
