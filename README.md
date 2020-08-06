@@ -99,17 +99,20 @@
 
 ## Forge模组开发
 
-### [(1.8.9)zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)
+### [【1.8.9】zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)
 非常全面的中文Forge模组开发教程，强烈推荐。  
 
-### [(1.12.2)先驱者Forge模组开发指南](https://harbinger.covertdragon.team/)
+### [【1.12.2】先驱者Forge模组开发指南](https://harbinger.covertdragon.team/)
 全面的1.12.2 Forge模组开发指南，可惜的是其未对内容做合理的编排，不适合初学者阅读该指南。
 
 ### Forge官方文档
 详细介绍了Forge添加的非常有用的库。[中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)，[英文文档](http://mcforge.readthedocs.io/en/latest/)。
 
-### Forge Minecraft开发工具包离线包
-[百度云盘 提取码：jmrv](https://pan.baidu.com/s/1dE0EJnz)
+### MDK（Minecraft开发工具包）
+- [Forge官方下载](http://files.minecraftforge.net/)
+- [【1.14+】ForgeGradleCN — MDK配置新解决方案](https://v2mcdev.com/t/topic/589)
+- [【1.12.2+】FledgeXu的MDK离线包](https://v2mcdev.com/t/topic/249)（[Github](https://github.com/FledgeXu/ForgeGradleOffline/tags)）
+- [【1.7.10+】耗子的MDK离线包](https://www.mcbbs.net/thread-896542-1-1.html)（[百度云盘 提取码：jmrv](https://pan.baidu.com/s/1dE0EJnz)）
 
 ### 国内相关资料
 > 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨和已有同类更优秀的资料等，仅作参考。
@@ -170,7 +173,7 @@
 - [【1.15.2-1.8】TheGreyGhost的模组示例代码](https://github.com/TheGreyGhost/MinecraftByExample)
 - [【1.12.2-1.8】Choonster的模组示例代码](https://github.com/Choonster/TestMod3)
 
-### 国外mod开发讨论
+### 模组开发讨论
 很多问题都能在这里解决
 - [国外Minecraft论坛Mod开发讨论版块](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development)
 - [Forge官方论坛Mod开发讨论版块](http://www.minecraftforge.net/forum/index.php?board=73.0)
@@ -186,9 +189,8 @@
 
 ## Bukkit/Spigot插件开发
 
-### 国内优秀教程
-- [Valkyrie —— 一个面向中文社区的插件开发教程](https://www.mcbbs.net/thread-1088032-1-1.html)（[Github](https://github.com/ElaBosak233/Valkyrie)/[备用链接](https://valkyrie.ela.ac.cn/)）
-- [tdiant的Bukkit插件开发教程](http://www.mcbbs.net/thread-808820-1-1.html)
+### [Valkyrie —— 一个面向中文社区的插件开发教程](https://www.mcbbs.net/thread-1088032-1-1.html)（[Github](https://github.com/ElaBosak233/Valkyrie)/[备用链接](https://valkyrie.ela.ac.cn/)）
+### [tdiant的Bukkit插件开发教程](http://www.mcbbs.net/thread-808820-1-1.html)
 
 ### 官方教程
 - [新版本(现Spigot)](https://www.spigotmc.org/wiki/spigot/)
