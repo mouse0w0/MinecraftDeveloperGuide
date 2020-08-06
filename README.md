@@ -89,13 +89,11 @@
 - [菜鸟](http://www.runoob.com/java/)
 - [W3CSchool](https://www.w3cschool.cn/java/)
 
-### [Java 官方教程(英文)](http://docs.oracle.com/javase/tutorial/)
+### [Java 官方教程（英文）](http://docs.oracle.com/javase/tutorial/)
 
 ### [Google Java 编程风格指南](http://hawstein.com/2014/01/20/google-java-style/)
 
-### Java文档
-- [官方英文（Java 8）](http://docs.oracle.com/javase/8/docs/api/)
-- [中文文档（Java 8）](https://www.matools.com/api/java8)
+### Java 8 文档（[英文](http://docs.oracle.com/javase/8/docs/api/)/[中文](https://www.matools.com/api/java8)）
 
 ## Forge模组开发
 
