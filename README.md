@@ -93,9 +93,9 @@
 
 ### [Google Java 编程风格指南](http://hawstein.com/2014/01/20/google-java-style/)
 
-### Javadoc
-- [官方英文](http://docs.oracle.com/javase/8/docs/api/)
-- [中文文档(Java 6)](http://tool.oschina.net/apidocs/apidoc?api=jdk-zh)
+### Java文档
+- [官方英文（Java 8）](http://docs.oracle.com/javase/8/docs/api/)
+- [中文文档（Java 8）](https://www.matools.com/api/java8)
 
 ## Forge模组开发
 
