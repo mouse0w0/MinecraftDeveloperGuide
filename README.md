@@ -182,7 +182,7 @@
 ### 模组开发相关工具
 
 #### Mod Coder Pack
-- [Mod Coder Pack](http://www.modcoderpack.com/)([旧版本](http://mcp.llbit.se/))
+- [Mod Coder Pack](http://www.modcoderpack.com/)（[旧版本](http://mcp.llbit.se/)）
 - [MCPConfig](https://github.com/MinecraftForge/MCPConfig)
 - [MCPBot Data Exports](http://export.mcpbot.bspk.rs/)
 - [MCPBot帮助页面](http://mcpbot.bspk.rs/help)
@@ -193,8 +193,8 @@
 ### [tdiant的Bukkit插件开发教程](http://www.mcbbs.net/thread-808820-1-1.html)
 
 ### 官方教程
-- [新版本(现Spigot)](https://www.spigotmc.org/wiki/spigot/)
-- [旧版本(原Bukkit)](http://wiki.bukkit.org/Plugin_Tutorial)
+- [新版本（现Spigot）](https://www.spigotmc.org/wiki/spigot/)
+- [旧版本（原Bukkit）](http://wiki.bukkit.org/Plugin_Tutorial)
 
 ### Bukkit API开发者文档
 - [中文文档](https://docs.windit.net/Chinese_BukkitAPI/)
@@ -204,6 +204,7 @@
 很多问题都能在这里解决。
 
 ### 国内相关资料
+- [优雅地让命令完整支持TAB补全](https://www.mcbbs.net/thread-1075004-1-1.html)
 - [怎样写出一个1.12.2-1.15.2通用支持的插件](https://www.mcbbs.net/thread-1023107-1-1.html)
 - [使用IDEA快速调试插件](https://www.mcbbs.net/thread-1004767-1-1.html)
 - [Scoreboard教程](https://www.mcbbs.net/thread-897858-1-1.html)
@@ -287,7 +288,7 @@
 ### [官方源码仓库](http://develop.liteloader.com/public)
 
 ## 基岩版（Bedrock Edition）开发
-> 相关教程收集中，如有意见和建议欢迎提交Pull Request或Issue。
+> **相关教程收集中，如有意见和建议欢迎提交Pull Request或Issue。**
 
 ### [Minecraft官网附加包（Add-Ons）介绍页面](https://www.minecraft.net/zh-hans/addons)
 
@@ -329,7 +330,7 @@
 - 国内最大的Minecraft开发讨论群: [284633248](https://jq.qq.com/?_wv=1027&k=5UNCnBj)
 - Bukkit/Spigot插件开发交流群: [313498121](https://jq.qq.com/?_wv=1027&k=5aoRGzu)
 - Sponge插件开发交流群: [613604130](https://jq.qq.com/?_wv=1027&k=52OlyJ7)
-- 我的Minecraft开发讨论群: [345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)
+- 耗子的Minecraft开发讨论群: [345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)
 
 ### [Github](https://github.com/)
 世界上最大的社交编程以及代码托管网站，可以在这里查看许多模组和插件的源代码
