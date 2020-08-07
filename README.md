@@ -113,7 +113,7 @@
 - [【1.7.10+】耗子的MDK离线包](https://www.mcbbs.net/thread-896542-1-1.html)（[百度云盘 提取码：jmrv](https://pan.baidu.com/s/1dE0EJnz)）
 
 ### 国内相关资料
-> 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨和已有同类更优秀的资料等，仅作参考。
+> 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨和已有同类更优秀的资料等情况，仅作参考。
 
 - [【1.15】Neutrino 1.15 Mod 开发教程](https://neutrino.v2mcdev.com/)
 - [【1.14+】Forge能量系统简述](https://www.mcbbs.net/thread-1034965-1-1.html)
@@ -201,7 +201,7 @@
 很多问题都能在这里解决。
 
 ### 国内相关资料
-> 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨和已有同类更优秀的资料等，仅作参考。
+> 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨和已有同类更优秀的资料等情况，仅作参考。
 - [优雅地让命令完整支持TAB补全](https://www.mcbbs.net/thread-1075004-1-1.html)
 - [怎样写出一个1.12.2-1.15.2通用支持的插件](https://www.mcbbs.net/thread-1023107-1-1.html)
 - [使用IDEA快速调试插件](https://www.mcbbs.net/thread-1004767-1-1.html)
@@ -236,11 +236,11 @@
 - [自定义实体](http://www.mcbbs.net/thread-811096-1-1.html)
 - [聊天组件API——自定义你的聊天消息](http://www.mcbbs.net/thread-812136-1-1.html)
 - [如何让插件命令支持Tab自动补全](http://www.mcbbs.net/thread-818199-1-1.html)
-- [810587921的插件开发教程](http://www.mcbbs.net/thread-283190-1-1.html)
-- [Day's Bukkit插件开发教程](http://www.mcbbs.net/thread-439856-1-1.html)
-- [wyt的Bukkit插件开发教程](http://www.mcbbs.net/thread-614388-1-1.html)
 - ~~[Valkyrie —— 一个面向中文社区的插件开发教程](https://www.mcbbs.net/thread-1088032-1-1.html)（[Github](https://github.com/ElaBosak233/Valkyrie)/[备用链接](https://valkyrie.ela.ac.cn/)）~~
 - ~~(已于1.12弃用)Ebean数据库[(上)](http://www.mcbbs.net/thread-628118-1-1.html)[(下)](http://www.mcbbs.net/thread-636860-1-1.html)~~
+- ~~[810587921的插件开发教程](http://www.mcbbs.net/thread-283190-1-1.html)~~
+- ~~[Day's Bukkit插件开发教程](http://www.mcbbs.net/thread-439856-1-1.html)~~
+- ~~[wyt的Bukkit插件开发教程](http://www.mcbbs.net/thread-614388-1-1.html)~~
 
 ## BungeeCord插件开发
 
