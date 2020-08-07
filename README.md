@@ -187,7 +187,6 @@
 
 ## Bukkit/Spigot插件开发
 
-### [Valkyrie —— 一个面向中文社区的插件开发教程](https://www.mcbbs.net/thread-1088032-1-1.html)（[Github](https://github.com/ElaBosak233/Valkyrie)/[备用链接](https://valkyrie.ela.ac.cn/)）
 ### [tdiant的Bukkit插件开发教程](http://www.mcbbs.net/thread-808820-1-1.html)
 
 ### 官方教程
@@ -236,6 +235,7 @@
 - [自定义实体](http://www.mcbbs.net/thread-811096-1-1.html)
 - [聊天组件API——自定义你的聊天消息](http://www.mcbbs.net/thread-812136-1-1.html)
 - [如何让插件命令支持Tab自动补全](http://www.mcbbs.net/thread-818199-1-1.html)
+- [Valkyrie —— 一个面向中文社区的插件开发教程](https://www.mcbbs.net/thread-1088032-1-1.html)（[Github](https://github.com/ElaBosak233/Valkyrie)/[备用链接](https://valkyrie.ela.ac.cn/)）
 - [810587921的插件开发教程](http://www.mcbbs.net/thread-283190-1-1.html)
 - [Day's Bukkit插件开发教程](http://www.mcbbs.net/thread-439856-1-1.html)
 - [wyt的Bukkit插件开发教程](http://www.mcbbs.net/thread-614388-1-1.html)
