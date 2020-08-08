@@ -180,10 +180,10 @@
 ### 模组开发相关工具
 
 #### Mod Coder Pack
+- [MCPConfig的发布页](http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp_config/)
+- [MCPConfig的Github仓库](https://github.com/MinecraftForge/MCPConfig)
 - [Mod Coder Pack](http://www.modcoderpack.com/)（[旧版本](http://mcp.llbit.se/)）
-- [MCPConfig](https://github.com/MinecraftForge/MCPConfig)
 - [MCPBot Data Exports](http://export.mcpbot.bspk.rs/)
-- [MCPBot帮助页面](http://mcpbot.bspk.rs/help)
 
 ## Bukkit/Spigot插件开发
 
