@@ -1,4 +1,5 @@
 # 我的世界开发者中文指南
+![](https://img.shields.io/badge/license-CC--BY--SA--4.0-green) ![](https://img.shields.io/github/stars/Mouse0w0/MinecraftDeveloperGuide) [![](https://img.shields.io/badge/%E5%A4%87%E7%94%A8%E5%9C%B0%E5%9D%80-Gitee-red)](https://gitee.com/Mouse0w0/MinecraftDeveloperGuide)
 
 ## 目录
 - [新手的疑问](#新手的疑问)
