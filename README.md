@@ -338,7 +338,8 @@
 ### [Stack Overflow](http://stackoverflow.com/)
 国外的一个关于编程的求助网站
 
-### 其他开发教程
+### 其他开发资料
+- [聊聊区块和 Ticket](https://www.mcbbs.net/thread-1000001-1-1.html)（[备用链接](https://izzel.io/2020/09/09/chunks-and-tickets/)）
 - [怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)
 - [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
 - [[调试辅助]JRebel - 给你+1s|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
