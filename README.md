@@ -110,8 +110,8 @@
 ### MDK（Minecraft开发工具包）
 - [Forge官方下载](http://files.minecraftforge.net/)
 - [【1.14+】ForgeGradleCN — MDK配置新解决方案](https://v2mcdev.com/t/topic/589)
-- [【1.12.2+】FledgeXu的MDK离线包](https://v2mcdev.com/t/topic/249)（[Github](https://github.com/FledgeXu/ForgeGradleOffline/tags)）
 - [【1.7.10+】耗子的MDK离线包](https://www.mcbbs.net/thread-896542-1-1.html)（[百度云盘 提取码：jmrv](https://pan.baidu.com/s/1dE0EJnz)）
+- [【1.12.2+】FledgeXu的MDK离线包](https://v2mcdev.com/t/topic/249)（[Github](https://github.com/FledgeXu/ForgeGradleOffline/tags)）
 
 ### 国内相关资料
 > 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨和已有同类更优秀的资料等情况，仅作参考。
