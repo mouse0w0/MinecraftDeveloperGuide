@@ -205,6 +205,7 @@
 > 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨和已有同类更优秀的资料等情况，仅作参考。
 - [优雅地让命令完整支持TAB补全](https://www.mcbbs.net/thread-1075004-1-1.html)
 - [怎样写出一个1.12.2-1.15.2通用支持的插件](https://www.mcbbs.net/thread-1023107-1-1.html)
+- [如何编写一个可以保留注释的配置类](https://www.mcbbs.net/thread-1016632-1-1.html)
 - [使用IDEA快速调试插件](https://www.mcbbs.net/thread-1004767-1-1.html)
 - [Scoreboard教程](https://www.mcbbs.net/thread-897858-1-1.html)
 - [创建高版本自定义实体，自定义方块原理与应用](https://www.mcbbs.net/thread-966358-1-1.html)
