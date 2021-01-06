@@ -98,14 +98,14 @@
 
 ## Forge模组开发
 
-### [【1.8.9】zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)
-非常全面的中文Forge模组开发教程，强烈推荐。  
+### [【1.16】Boson 1.16 Mod 开发教程](https://boson.v2mcdev.com/)
+基于1.16的中文模组开发教程。
 
-### [【1.12.2】先驱者Forge模组开发指南](https://harbinger.covertdragon.team/)
-全面的1.12.2 Forge模组开发指南，可惜的是其未对内容做合理的编排，不适合初学者阅读该指南。
+### [【1.8.9】zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)
+基于1.8.9的中文模组开发教程。  
 
 ### Forge官方文档
-详细介绍了Forge添加的非常有用的库。[中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)，[英文文档](http://mcforge.readthedocs.io/en/latest/)。
+介绍了Forge增加的部分功能。[中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)，[英文文档](http://mcforge.readthedocs.io/en/latest/)。
 
 ### MDK（Minecraft开发工具包）
 - [Forge官方下载](http://files.minecraftforge.net/)
@@ -121,6 +121,7 @@
 - [【1.13+】1.13+ 中 Forge 与 Bukkit 的通信](https://www.mcbbs.net/thread-873219-1-1.html)
 - [【全版本】 原版 / FML CoreMod 开发教程](http://www.mcbbs.net/thread-850737-1-1.html)（[GitBook](https://xfl03.gitbook.io/coremodtutor/)/[码云](http://xfl03.gitee.io/coremodtutor/)）
 - [【1.13+】浅析1.13世界生成](http://www.mcbbs.net/thread-846195-1-2.html)
+- [【1.12.2】Harbinger Forge 模组开发指南](https://harbinger.covertdragon.team/)
 - [【1.7.10-1.12.2】EnumHelper的前世今生](https://www.mcbbs.net/thread-1054951-1-1.html)
 - [【全版本】雪崩式的灾难：严重滞后的世界生成](http://www.mcbbs.net/thread-797425-1-1.html)（[Bilibili](https://www.bilibili.com/read/cv545451/)）
 - [【全版本】简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
