@@ -1,7 +1,7 @@
 # 我的世界开发者中文指南
 ![](https://img.shields.io/badge/license-CC--BY--SA--4.0-green) ![](https://img.shields.io/github/stars/Mouse0w0/MinecraftDeveloperGuide) [![](https://img.shields.io/badge/%E5%A4%87%E7%94%A8%E5%9C%B0%E5%9D%80-Gitee-red)](https://gitee.com/Mouse0w0/MinecraftDeveloperGuide)
 
-**我的世界开发者中文指南的维护需要各位中文开发者的共同努力，欢迎各位[在此](https://github.com/Mouse0w0/MinecraftDeveloperGuide/issues/new)提交各类我的世界开发相关教程、资料、文档。**
+**中文指南的维护需要各位开发者的共同努力，欢迎各位[在此](https://github.com/Mouse0w0/MinecraftDeveloperGuide/issues/new)提交各类我的世界开发相关教程、资料、文档。**
 
 ## 目录
 - [新手的疑问](#新手的疑问)
@@ -349,8 +349,7 @@
 - [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
 
 ## 版权声明
-
-本作品作者为耗子
+本作品作者为我的世界开发者中文指南所有贡献者。
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
