@@ -1,6 +1,8 @@
 # 我的世界开发者中文指南
 ![](https://img.shields.io/badge/license-CC--BY--SA--4.0-green) ![](https://img.shields.io/github/stars/Mouse0w0/MinecraftDeveloperGuide) [![](https://img.shields.io/badge/%E5%A4%87%E7%94%A8%E5%9C%B0%E5%9D%80-Gitee-red)](https://gitee.com/Mouse0w0/MinecraftDeveloperGuide)
 
+> **我的世界开发者中文指南的维护需要各位中文开发者的共同努力，欢迎各位[在此](https://github.com/Mouse0w0/MinecraftDeveloperGuide/issues/new)提交各类我的世界开发相关教程、资料、文档。**
+
 ## 目录
 - [新手的疑问](#新手的疑问)
 - [提问的方法](#提问的方法)
@@ -15,7 +17,6 @@
 - [PocketMine插件开发](#pocketmine插件开发)
 - [Nukkit插件开发](#nukkit插件开发)
 - [其他开发资源](#其他开发资源)
-- [反馈与建议](#反馈与建议)
 - [版权声明](#版权声明)
 
 ## 新手的疑问
@@ -346,9 +347,6 @@
 - [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
 - [[调试辅助]JRebel - 给你+1s|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
 - [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
-
-## 反馈与建议
-对本指南有建议和意见可以[在此](https://github.com/Mouse0w0/MinecraftDeveloperGuide/issues/new)提交。
 
 ## 版权声明
 
