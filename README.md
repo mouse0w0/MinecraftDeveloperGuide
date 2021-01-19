@@ -6,6 +6,7 @@
 ## 目录
 - [新手的疑问](#新手的疑问)
 - [提问的方法](#提问的方法)
+- [常用网站与资源](#常用网站与资源)
 - [Java基础教程](#java基础教程)
 - [Forge模组开发](#forge模组开发)
 - [Bukkit/Spigot插件开发](#bukkitspigot插件开发)
@@ -74,6 +75,32 @@
 如果你通过发帖的方式提问，请在你的标题也简略的包含问题描述和平台信息。例如《[Forge][1.7.10]载入Mod时出现NullPointerException》
 
 **请记住，不要认为他人的回答是理所应当的**。如果你想学习更多关于提问的方法、技巧、礼仪，看看[提问的智慧](https://lug.ustc.edu.cn/wiki/doc/smart-questions)会给予你许多帮助。
+
+## 常用网站与资源
+
+### [我的世界中文论坛开发讨论板块](http://www.mcbbs.net/forum.php?mod=forumdisplay&fid=479)
+
+### [Github](https://github.com/)
+全球最大的社交编程与代码托管网站，可以在这里查看许多模组和插件的源代码。
+
+### [码云](https://gitee.com/)
+中文社交编程与代码托管网站。
+
+### [Stack Overflow](http://stackoverflow.com/)
+全球最大的编程知识分享与学习社区，你可以在此找到许多编程问题的答案。
+
+### 搜索引擎[百度](https://www.baidu.com)/[谷歌](https://www.google.com)
+有什么问题为什么不先百度或谷歌呢？
+
+### 国内开发讨论与交流群
+- 国内最大的Minecraft开发讨论群: [284633248](https://jq.qq.com/?_wv=1027&k=5UNCnBj)
+- Bukkit/Spigot插件开发交流群: [313498121](https://jq.qq.com/?_wv=1027&k=5aoRGzu)
+- Sponge插件开发交流群: [613604130](https://jq.qq.com/?_wv=1027&k=52OlyJ7)
+- 耗子的Minecraft开发讨论群: [345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)
+
+### [我的世界中文论坛开发教程索引贴](http://www.mcbbs.net/thread-54579-1-1.html)
+
+### [V2我的世界开发者论坛](https://www.v2mcdev.com/)
 
 ## Java基础教程
 
@@ -316,32 +343,6 @@
 ### [Nukkit官方论坛插件开发讨论板块](https://forums.nukkit.io/forums/plugin-development.7/)
 
 ## 其他开发资源
-
-### [MCBBS开发讨论板块](http://www.mcbbs.net/forum.php?mod=forumdisplay&fid=479)
-有很多有用的东西，可以在这里讨论和提问问题哦!
-
-### [MCBBS开发教程索引贴](http://www.mcbbs.net/thread-54579-1-1.html)
-
-### [V2我的世界开发者论坛](https://www.v2mcdev.com/)
-
-### 搜索引擎
-有什么事情为什么不先百度或谷歌呢？
-- [百度](https://www.baidu.com)
-- [谷歌](https://www.google.com)
-
-### 国内开发讨论交流群
-- 国内最大的Minecraft开发讨论群: [284633248](https://jq.qq.com/?_wv=1027&k=5UNCnBj)
-- Bukkit/Spigot插件开发交流群: [313498121](https://jq.qq.com/?_wv=1027&k=5aoRGzu)
-- Sponge插件开发交流群: [613604130](https://jq.qq.com/?_wv=1027&k=52OlyJ7)
-- 耗子的Minecraft开发讨论群: [345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)
-
-### [Github](https://github.com/)
-世界上最大的社交编程以及代码托管网站，可以在这里查看许多模组和插件的源代码
-
-### [Stack Overflow](http://stackoverflow.com/)
-国外的一个关于编程的求助网站
-
-### 其他开发资料
 - [聊聊区块和 Ticket](https://www.mcbbs.net/thread-1000001-1-1.html)（[备用链接](https://izzel.io/2020/09/09/chunks-and-tickets/)）
 - [怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)
 - [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
