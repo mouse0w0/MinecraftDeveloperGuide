@@ -143,7 +143,6 @@
 
 ### 国内相关资料
 > 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨和已有同类更优秀的资料等情况，仅作参考。
-
 - [【1.15】Neutrino 1.15 Mod 开发教程](https://neutrino.v2mcdev.com/)
 - [【1.14+】Forge能量系统简述](https://www.mcbbs.net/thread-1034965-1-1.html)
 - [【1.13+】1.13+ 中 Forge 与 Bukkit 的通信](https://www.mcbbs.net/thread-873219-1-1.html)
@@ -232,6 +231,7 @@
 
 ### 国内相关资料
 > 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨和已有同类更优秀的资料等情况，仅作参考。
+- [玩转ProtocolLib数据包发包](https://www.mcbbs.net/thread-1123486-1-1.html)
 - [优雅地让命令完整支持TAB补全](https://www.mcbbs.net/thread-1075004-1-1.html)
 - [怎样写出一个1.12.2-1.15.2通用支持的插件](https://www.mcbbs.net/thread-1023107-1-1.html)
 - [如何编写一个可以保留注释的配置类](https://www.mcbbs.net/thread-1016632-1-1.html)
