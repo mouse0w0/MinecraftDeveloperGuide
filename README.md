@@ -96,10 +96,13 @@
 ### 《Java 核心技术》
 非常不错的一套书，共2本，解决了我的很多疑问，可以当作参考书使用。
 
-### Java 中文在线教程（我绝对不是打广告）
-- [易百](https://www.yiibai.com/java/)
+### 国内 Java 中文在线教程
+> 内容未经考究，仅供参考。
+
+- [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744)
 - [菜鸟](http://www.runoob.com/java/)
 - [W3CSchool](https://www.w3cschool.cn/java/)
+- [易百](https://www.yiibai.com/java/)
 
 ### [Java 官方教程（英文）](http://docs.oracle.com/javase/tutorial/)
 
