@@ -197,7 +197,7 @@
 ### 模组开发相关工具
 
 #### Mod Coder Pack
-- [查询MCP与SRG名](http://mcpbot.bspk.rs/help)
+- [查询MCP名与SRG名](https://mcp.thiakil.com/)
 - [MCPConfig的发布页](http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp_config/)
 - [MCPConfig的Github仓库](https://github.com/MinecraftForge/MCPConfig)
 - [Mod Coder Pack](http://www.modcoderpack.com/)（[旧版本](http://mcp.llbit.se/)）
