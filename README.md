@@ -1,7 +1,9 @@
 # 我的世界开发者中文指南
 ![](https://img.shields.io/badge/license-CC--BY--SA--4.0-green) ![](https://img.shields.io/github/stars/Mouse0w0/MinecraftDeveloperGuide) [![](https://img.shields.io/badge/%E5%A4%87%E7%94%A8%E5%9C%B0%E5%9D%80-Gitee-red)](https://gitee.com/Mouse0w0/MinecraftDeveloperGuide)
 
-**中文指南的维护需要各位开发者的共同努力，欢迎各位[在此](https://github.com/Mouse0w0/MinecraftDeveloperGuide/issues/new?template=request.md)提交各类我的世界开发相关教程、资料、文档。**
+**点击右上方的“Watch”按钮以实时获取中文指南的更新情况，点击右上方“Star”按钮以支持中文指南的编撰。**
+
+**欢迎各位[在此](https://github.com/Mouse0w0/MinecraftDeveloperGuide/issues/new?template=request.md)提交各类我的世界开发相关教程、资料、文档、类库。**
 
 ## 目录
 - [新手的疑问](#新手的疑问)
