@@ -9,7 +9,7 @@
 - [新手的疑问](#新手的疑问)
 - [提问的方法](#提问的方法)
 - [常用网站与资源](#常用网站与资源)
-- [Java基础教程](#java基础教程)
+- [Java基础](#java基础)
 - [Forge模组开发](#forge模组开发)
 - [Bukkit/Spigot插件开发](#bukkitspigot插件开发)
 - [BungeeCord插件开发](#bungeecord插件开发)
@@ -91,7 +91,7 @@
 - [[调试辅助]JRebel - 给你+1s|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
 - [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
 
-## Java基础教程
+## Java基础
 
 ### 《Java 8 编程入门(参考)官方教程》
 本书分两本，一本是 《Java8编程入门官方教程》，一本是 《Java8编程参考官方教程》。入门版本内容较少，适合新手入门；参考版本内容较多，可以当作参考书使用。  
