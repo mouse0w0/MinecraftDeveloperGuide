@@ -13,13 +13,11 @@
 - [Forge模组开发](#forge模组开发)
 - [Bukkit/Spigot插件开发](#bukkitspigot插件开发)
 - [BungeeCord插件开发](#bungeecord插件开发)
-- [Sponge插件开发](#sponge插件开发)
 - [Fabric模组开发](#fabric模组开发)
-- [LiteLoader模组开发](#liteloader模组开发)
+- [Sponge插件开发](#sponge插件开发)
 - [基岩版开发](#基岩版bedrock-edition开发)
-- [PocketMine插件开发](#pocketmine插件开发)
-- [Nukkit插件开发](#nukkit插件开发)
 - [其他开发资源](#其他开发资源)
+- [过时开发资源](#过时开发资源)
 - [版权声明](#版权声明)
 
 ## 新手的疑问
@@ -273,19 +271,6 @@
 
 ### [BungeeCord官方论坛插件开发讨论板块](https://www.spigotmc.org/forums/bungeecord-plugin-development.23/)
 
-## Sponge插件开发
-
-### [官方网站](https://www.spongepowered.org/)
-
-### [官方论坛](https://forums.spongepowered.org/)
-
-### [官方教程(多国语言，含简体中文)](https://docs.spongepowered.org)
-
-### [官方JavaDoc](https://jd.spongepowered.org/7.2.0/)
-
-### 国内相关资料
-- [Minecraft 服务端权限上下文系统及其应用](https://www.mcbbs.net/thread-1007917-1-1.html)
-
 ## Fabric模组开发
 
 ### [Fabric开发文档中文翻译](https://www.mcbbs.net/thread-904854-1-1.html)
@@ -299,13 +284,18 @@
 - [Leader——中文社区的一份Minecraft Fabric教程](https://www.mcbbs.net/thread-964580-1-1.html)
 - [Mixin官方Wiki中文翻译](http://mouse0w0.github.io/categories/Mixin/)
 
-## LiteLoader模组开发
+## Sponge插件开发
 
-### [官方网站](http://www.liteloader.com/)
+### [官方网站](https://www.spongepowered.org/)
 
-### [zzzz的LiteMod开发引导(简体中文)](http://www.mcbbs.net/thread-659755-1-1.html)
+### [官方论坛](https://forums.spongepowered.org/)
 
-### [官方源码仓库](http://develop.liteloader.com/public)
+### [官方教程(多国语言，含简体中文)](https://docs.spongepowered.org)
+
+### [官方JavaDoc](https://jd.spongepowered.org/7.2.0/)
+
+### 国内相关资料
+- [Minecraft 服务端权限上下文系统及其应用](https://www.mcbbs.net/thread-1007917-1-1.html)
 
 ## 基岩版（Bedrock Edition）开发
 > **相关教程收集中，如有意见和建议欢迎提交Pull Request或Issue。**
@@ -319,12 +309,24 @@
 - [下载Minecraft官方行为包](https://aka.ms/behaviorpacktemplate)
 - [基岩版着色器材质文件概述](https://github.com/NovaMods/nova-renderer/wiki/Bedrock-Shaders-Simple-Material-File-Walkthrough)
 
-## PocketMine插件开发
+## 其他开发资源
+- [聊聊区块和 Ticket](https://www.mcbbs.net/thread-1000001-1-1.html)（[备用链接](https://izzel.io/2020/09/09/chunks-and-tickets/)）
+- [怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)
+- [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
+- [[调试辅助]JRebel - 给你+1s|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
+- [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
 
-### [PocketMine插件开发中文教程](http://www.mcbbs.net/thread-410243-1-1.html)
+## 过时开发资源
+<details>
+<summary>点击展开折叠内容</summary>
 
-### PocketMine其他插件开发教程
-- [新API的部分事物的讲解](http://www.mcbbs.net/thread-288333-1-1.html)
+## LiteLoader模组开发
+
+### [官方网站](http://www.liteloader.com/)
+
+### [zzzz的LiteMod开发引导(简体中文)](http://www.mcbbs.net/thread-659755-1-1.html)
+
+### [官方源码仓库](http://develop.liteloader.com/public)
 
 ## Nukkit插件开发
 
@@ -332,12 +334,15 @@
 
 ### [Nukkit官方论坛插件开发讨论板块](https://forums.nukkit.io/forums/plugin-development.7/)
 
-## 其他开发资源
-- [聊聊区块和 Ticket](https://www.mcbbs.net/thread-1000001-1-1.html)（[备用链接](https://izzel.io/2020/09/09/chunks-and-tickets/)）
-- [怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)
-- [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
-- [[调试辅助]JRebel - 给你+1s|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
-- [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
+## PocketMine插件开发
+
+### [PocketMine插件开发中文教程](http://www.mcbbs.net/thread-410243-1-1.html)
+
+### PocketMine其他插件开发教程
+- [新API的部分事物的讲解](http://www.mcbbs.net/thread-288333-1-1.html)
+
+</details>
+<!--过时开发资料-->
 
 ## 版权声明
 本作品作者为我的世界开发者中文指南所有贡献者。
