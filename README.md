@@ -16,7 +16,6 @@
 - [Fabric模组开发](#fabric模组开发)
 - [Sponge插件开发](#sponge插件开发)
 - [基岩版开发](#基岩版bedrock-edition开发)
-- [其他开发资源](#其他开发资源)
 - [过时开发资源](#过时开发资源)
 - [版权声明](#版权声明)
 
@@ -84,6 +83,13 @@
 ### [我的世界中文论坛开发教程索引贴](http://www.mcbbs.net/thread-54579-1-1.html)
 
 ### [V2我的世界开发者论坛](https://www.v2mcdev.com/)
+
+### 其他开发资料
+- [聊聊区块和 Ticket](https://www.mcbbs.net/thread-1000001-1-1.html)（[备用链接](https://izzel.io/2020/09/09/chunks-and-tickets/)）
+- [怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)
+- [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
+- [[调试辅助]JRebel - 给你+1s|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
+- [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
 
 ## Java基础教程
 
@@ -308,13 +314,6 @@
 - [下载Minecraft官方资源包](https://aka.ms/resourcepacktemplate)
 - [下载Minecraft官方行为包](https://aka.ms/behaviorpacktemplate)
 - [基岩版着色器材质文件概述](https://github.com/NovaMods/nova-renderer/wiki/Bedrock-Shaders-Simple-Material-File-Walkthrough)
-
-## 其他开发资源
-- [聊聊区块和 Ticket](https://www.mcbbs.net/thread-1000001-1-1.html)（[备用链接](https://izzel.io/2020/09/09/chunks-and-tickets/)）
-- [怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)
-- [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
-- [[调试辅助]JRebel - 给你+1s|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
-- [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
 
 ## 过时开发资源
 <details>
