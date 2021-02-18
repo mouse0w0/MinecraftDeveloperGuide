@@ -90,28 +90,29 @@
 
 ## Java基础
 
+### 《Java从入门到精通》
+广为人知的Java中文入门书籍。
+
 ### 《Java 8 编程入门(参考)官方教程》
-本书分两本，一本是 《Java8编程入门官方教程》，一本是 《Java8编程参考官方教程》。入门版本内容较少，适合新手入门；参考版本内容较多，可以当作参考书使用。  
+本书分两册，入门版本内容较少，参考版本内容较多。中文版由于是翻译而来，语言较为生硬难懂，仅做参考。
 
-### 《Java 从入门到精通》
-我的Java入门书，但内容有些老旧。
+### 《Java核心技术》
+本书分两册，经久不衰且内容翔实的Java进阶书籍。
 
-### 《Java 核心技术》
-非常不错的一套书，共2本，解决了我的很多疑问，可以当作参考书使用。
-
-### 国内 Java 中文在线教程
+### Java 中文在线免费教程
 > 内容未经考究，仅供参考。
-
 - [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744)
 - [菜鸟](http://www.runoob.com/java/)
 - [W3CSchool](https://www.w3cschool.cn/java/)
 - [易百](https://www.yiibai.com/java/)
 
-### [Java 官方教程（英文）](http://docs.oracle.com/javase/tutorial/)
-
-### [Google Java 编程风格指南](http://hawstein.com/2014/01/20/google-java-style/)
-
 ### Java 8 文档（[英文](http://docs.oracle.com/javase/8/docs/api/)/[中文](https://www.matools.com/api/java8)）
+
+### 扩展阅读
+- [Google Java 编程风格指南](http://hawstein.com/2014/01/20/google-java-style/)
+- Effective Java（[豆瓣](https://book.douban.com/subject/30412517/)）
+- 代码整洁之道（[豆瓣](https://book.douban.com/subject/4199741/)）
+- 架构整洁之道（[豆瓣](https://book.douban.com/subject/30333919/))
 
 ## Forge模组开发
 
