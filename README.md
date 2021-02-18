@@ -112,7 +112,7 @@
 - [Google Java 编程风格指南](http://hawstein.com/2014/01/20/google-java-style/)
 - Effective Java（[豆瓣](https://book.douban.com/subject/30412517/)）
 - 代码整洁之道（[豆瓣](https://book.douban.com/subject/4199741/)）
-- 架构整洁之道（[豆瓣](https://book.douban.com/subject/30333919/))
+- 架构整洁之道（[豆瓣](https://book.douban.com/subject/30333919/)）
 
 ## Forge模组开发
 
