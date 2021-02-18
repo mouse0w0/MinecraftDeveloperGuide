@@ -94,7 +94,7 @@
 广为人知的Java中文入门书籍。
 
 ### 《Java 8 编程入门(参考)官方教程》
-本书分两册，入门版本内容较少，参考版本内容较多。中文版由于是翻译而来，语言较为生硬难懂，仅做参考。
+本书分两册，入门版本内容较少，参考版本内容较多。中文版翻译较为生硬难懂，仅做参考。
 
 ### 《Java核心技术》
 本书分两册，经久不衰且内容翔实的Java进阶书籍。
@@ -109,6 +109,7 @@
 ### Java 8 文档（[英文](http://docs.oracle.com/javase/8/docs/api/)/[中文](https://www.matools.com/api/java8)）
 
 ### 扩展阅读
+> 进一步提高Java编程能力。
 - [Google Java 编程风格指南](http://hawstein.com/2014/01/20/google-java-style/)
 - Effective Java（[豆瓣](https://book.douban.com/subject/30412517/)）
 - 代码整洁之道（[豆瓣](https://book.douban.com/subject/4199741/)）
