@@ -191,8 +191,6 @@
 - [【1.12.2-1.8】Choonster的模组示例代码](https://github.com/Choonster/TestMod3)
 
 ### 模组开发讨论
-很多问题都能在这里解决
-- [国外Minecraft论坛Mod开发讨论版块](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development)
 - [Forge官方论坛Mod开发讨论版块](http://www.minecraftforge.net/forum/index.php?board=73.0)
 - [Forge官方论坛Mod开发教程版块](http://www.minecraftforge.net/forum/index.php?board=120.0)
 
