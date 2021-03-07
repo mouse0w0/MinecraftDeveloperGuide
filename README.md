@@ -16,6 +16,7 @@
 - [Fabric模组开发](#fabric模组开发)
 - [Sponge插件开发](#sponge插件开发)
 - [基岩版开发](#基岩版bedrock-edition开发)
+- [Java版启动器开发](#java版启动器开发)
 - [过时开发资源](#过时开发资源)
 - [版权声明](#版权声明)
 
@@ -70,6 +71,9 @@
 
 ### 搜索引擎[百度](https://www.baidu.com)/[谷歌](https://www.google.com)
 有什么问题为什么不先百度或谷歌呢？
+
+### [Wiki.vg](wiki.vg)
+我的世界反向工程与协议参考文档网站，包含各版本网络通信协议、数据格式、Mojang正版验证协议等参考文档。
 
 ### 国内开发讨论与交流群
 - 国内最大的Minecraft开发讨论群: [284633248](https://jq.qq.com/?_wv=1027&k=5UNCnBj)
@@ -310,6 +314,20 @@
 - [下载Minecraft官方资源包](https://aka.ms/resourcepacktemplate)
 - [下载Minecraft官方行为包](https://aka.ms/behaviorpacktemplate)
 - [基岩版着色器材质文件概述](https://github.com/NovaMods/nova-renderer/wiki/Bedrock-Shaders-Simple-Material-File-Walkthrough)
+
+## Java版启动器开发
+### 文档与教程
+- [编写启动器 - Minecraft Wiki](https://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E7%BC%96%E5%86%99%E5%90%AF%E5%8A%A8%E5%99%A8)
+- [KMCCC使用教程](https://www.mcbbs.net/thread-492606-1-1.html)
+- [JMCCC使用教程](https://www.mcbbs.net/thread-573154-1-1.html)
+
+### 类库
+- [【C#】KMCCC](https://github.com/MineStudio/KMCCC)
+- [【Java】JMCCC](https://github.com/to2mbn/JMCCC)
+- [【Java】HMCL](https://github.com/huanghongxun/HMCL)
+- [【易语言】Module-Launcher](https://www.mcbbs.net/thread-815868-1-1.html)
+- [【C#】Square](https://github.com/baibao132/SquareMinecraftLauncherCore)
+- [【Python】minecraft-launcher-lib](https://minecraft-launcher-lib.readthedocs.io/en/latest/index.html)
 
 ## 过时开发资源
 <details>
