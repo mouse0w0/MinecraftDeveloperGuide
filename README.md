@@ -17,6 +17,7 @@
 - [Sponge插件开发](#sponge插件开发)
 - [基岩版开发](#基岩版bedrock-edition开发)
 - [Java版启动器开发](#java版启动器开发)
+- [网易基岩版开发](#网易基岩版开发)
 - [过时开发资源](#过时开发资源)
 - [版权声明](#版权声明)
 
@@ -328,6 +329,10 @@
 - [【易语言】Module-Launcher](https://www.mcbbs.net/thread-815868-1-1.html)
 - [【C#】Square](https://github.com/baibao132/SquareMinecraftLauncherCore)
 - [【Python】minecraft-launcher-lib](https://minecraft-launcher-lib.readthedocs.io/en/latest/index.html)
+
+## 网易基岩版开发
+- [我的世界创造者计划官方网站](https://mc.163.com/dev/index.html)
+- [技术手册](https://mc.163.com/dev/mcmanual/mc-dev/mcdocs)（[旧版本](https://mc.163.com/mcstudio/mc-dev/)）
 
 ## 过时开发资源
 <details>
