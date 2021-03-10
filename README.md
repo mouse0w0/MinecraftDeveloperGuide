@@ -212,6 +212,8 @@
 
 ## Bukkit/Spigot插件开发
 
+### [Rarity的实例型 Bukkit 插件开发教程](https://www.mcbbs.net/thread-1163259-1-1.html)
+
 ### [tdiant的Bukkit插件开发教程](http://www.mcbbs.net/thread-808820-1-1.html)
 
 ### 官方教程
