@@ -15,9 +15,10 @@
 - [BungeeCord插件开发](#bungeecord插件开发)
 - [Fabric模组开发](#fabric模组开发)
 - [Sponge插件开发](#sponge插件开发)
-- [基岩版开发](#基岩版bedrock-edition开发)
+- [数据包开发](#数据包开发)
 - [Java版启动器开发](#java版启动器开发)
 - [网易基岩版开发](#网易基岩版开发)
+- [基岩版Addons开发](#基岩版addons开发)
 - [过时开发资源](#过时开发资源)
 - [版权声明](#版权声明)
 
@@ -304,17 +305,14 @@
 ### 国内相关资料
 - [Minecraft 服务端权限上下文系统及其应用](https://www.mcbbs.net/thread-1007917-1-1.html)
 
-## 基岩版（Bedrock Edition）开发
-> **相关教程收集中，如有意见和建议欢迎提交Pull Request或Issue。**
+## 数据包开发
+### 文档与教程
+- [Minecraft 原版模组入门教程](https://zhangshenxing.gitee.io/vanillamodtutorial/)
+- [数据包 - Minecraft Wiki](https://minecraft-zh.gamepedia.com/%E6%95%B0%E6%8D%AE%E5%8C%85)
 
-### [Minecraft官网附加包（Add-Ons）介绍页面](https://www.minecraft.net/zh-hans/addons)
-
-### [Minecraft中文Wiki“附加包（Add-Ons）”页面](https://minecraft-zh.gamepedia.com/%E9%99%84%E5%8A%A0%E5%8C%85)
-
-### 其他资源
-- [下载Minecraft官方资源包](https://aka.ms/resourcepacktemplate)
-- [下载Minecraft官方行为包](https://aka.ms/behaviorpacktemplate)
-- [基岩版着色器材质文件概述](https://github.com/NovaMods/nova-renderer/wiki/Bedrock-Shaders-Simple-Material-File-Walkthrough)
+### 工具
+- [MCreator](https://mcreator.net/)（[MCBBS](https://www.mcbbs.net/thread-280267-1-1.html)）
+- [数据包生成器](https://misode.github.io/)
 
 ## Java版启动器开发
 ### 文档与教程
@@ -333,6 +331,17 @@
 ## 网易基岩版开发
 - [我的世界创造者计划官方网站](https://mc.163.com/dev/index.html)
 - [技术手册](https://mc.163.com/dev/mcmanual/mc-dev/mcdocs)（[旧版本](https://mc.163.com/mcstudio/mc-dev/)）
+
+## 基岩版Addons开发
+
+### [Minecraft官网附加包（Add-Ons）介绍页面](https://www.minecraft.net/zh-hans/addons)
+
+### [Minecraft中文Wiki“附加包（Add-Ons）”页面](https://minecraft-zh.gamepedia.com/%E9%99%84%E5%8A%A0%E5%8C%85)
+
+### 其他资源
+- [下载Minecraft官方资源包](https://aka.ms/resourcepacktemplate)
+- [下载Minecraft官方行为包](https://aka.ms/behaviorpacktemplate)
+- [基岩版着色器材质文件概述](https://github.com/NovaMods/nova-renderer/wiki/Bedrock-Shaders-Simple-Material-File-Walkthrough)
 
 ## 过时开发资源
 <details>
