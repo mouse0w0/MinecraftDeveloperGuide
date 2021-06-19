@@ -125,7 +125,10 @@
 ## Forge模组开发
 
 ### [【1.16】Boson 1.16 Mod 开发教程](https://boson.v2mcdev.com/)
-基于1.16的中文模组开发教程。
+
+### [【1.12.2】Harbinger Forge 模组开发指南](https://harbinger.covertdragon.team/)
+
+### [【1.8.9】zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)
 
 ### Forge官方文档
 介绍了Forge增加的部分功能。[中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)，[英文文档](http://mcforge.readthedocs.io/en/latest/)。
@@ -145,7 +148,6 @@
 - [【1.13+】1.13+ 中 Forge 与 Bukkit 的通信](https://www.mcbbs.net/thread-873219-1-1.html)
 - [【全版本】 原版 / FML CoreMod 开发教程](http://www.mcbbs.net/thread-850737-1-1.html)（[GitBook](https://xfl03.gitbook.io/coremodtutor/)/[码云](http://xfl03.gitee.io/coremodtutor/)）
 - [【1.13+】浅析1.13世界生成](http://www.mcbbs.net/thread-846195-1-2.html)
-- [【1.12.2】Harbinger Forge 模组开发指南](https://harbinger.covertdragon.team/)
 - [【1.7.10-1.12.2】EnumHelper的前世今生](https://www.mcbbs.net/thread-1054951-1-1.html)
 - [【全版本】雪崩式的灾难：严重滞后的世界生成](http://www.mcbbs.net/thread-797425-1-1.html)（[Bilibili](https://www.bilibili.com/read/cv545451/)）
 - [【全版本】简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
@@ -155,7 +157,6 @@
 - [【1.10.2+】1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html)
 - [Minecraft模组开发知乎专栏](https://zhuanlan.zhihu.com/c_200546589)
 - [ustc-zzzz的博客](https://blog.ustc-zzzz.net/)
-- [【1.8.9】zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)
 - [【1.8.9-1.7.2】风之工坊(当风过时的博客)](http://www.windworkshop.cn/?page_id=525)
 - ~~[【全版本】Coremod导论—从切比雪夫多项式说起](http://www.mcbbs.net/thread-822754-1-1.html)~~
 - ~~[【全版本】俩车的 Coremod 介绍](http://www.mcbbs.net/thread-849970-1-1.html)~~
