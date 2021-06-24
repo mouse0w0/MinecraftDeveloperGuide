@@ -140,7 +140,7 @@
 - ~~[【1.12.2+】FledgeXu的MDK离线包](https://v2mcdev.com/t/topic/249)（[Github](https://github.com/FledgeXu/ForgeGradleOffline/tags)）~~
 
 ### 国内相关资料
-> 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨和已有同类更优秀的资料等情况，仅作参考。
+> 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨或已有同类更优秀的资料等情况，仅作参考。
 - [从实例的角度出发浅谈TileEntitySpecialRenderer](https://www.mcbbs.net/thread-1165415-1-1.html)
 - [【1.15.2】自定义发光效果——浅谈着色器和帧缓冲的运用](https://blog.teacon.org/shaders-and-framebuffers.html)
 - [【1.15】Neutrino 1.15 Mod 开发教程](https://neutrino.v2mcdev.com/)
@@ -230,9 +230,11 @@
 很多问题都能在这里解决。
 
 ### 国内相关资料
-> 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨和已有同类更优秀的资料等情况，仅作参考。
-- [信息的处理与呈现相关应用编程](https://www.mcbbs.net/thread-1181150-1-1.html)
-- [生物运动&空间坐标的理论探索与应用编程](https://www.mcbbs.net/thread-1177817-1-1.html)
+> 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨或已有同类更优秀的资料等情况，仅作参考。
+- [Bukkit NMS 开发实践 —— 创建你自己的自定义实体](https://www.mcbbs.net/thread-1210987-1-1.html)
+- [Bukkit编程杂谈：雷点|模板|思路|设计](https://www.mcbbs.net/thread-1209718-1-1.html)（[备用链接](https://hamsteryds.github.io/noticements-in-bukkit/)）
+- [信息的处理与呈现相关应用编程](https://www.mcbbs.net/thread-1181150-1-1.html)（[备用链接](https://hamsteryds.gitee.io/info-processing-in-bukkit/)）
+- [生物运动&空间坐标的理论探索与应用编程](https://www.mcbbs.net/thread-1177817-1-1.html)（[备用链接](https://hamsteryds.gitee.io/kinematics-of-minecraft/)）
 - [玩转ProtocolLib数据包发包](https://www.mcbbs.net/thread-1123486-1-1.html)
 - [优雅地让命令完整支持TAB补全](https://www.mcbbs.net/thread-1075004-1-1.html)
 - [怎样写出一个1.12.2-1.15.2通用支持的插件](https://www.mcbbs.net/thread-1023107-1-1.html)
@@ -294,6 +296,7 @@
 ### [官方Wiki](https://fabricmc.net/wiki/start)
 
 ### 国内相关资料
+- [由现象到本质的Minecraft源码注入艺术](https://www.mcbbs.net/thread-1205392-1-1.html)
 - [用EventLib简化fabric mod开发](https://www.mcbbs.net/thread-1030076-1-1.html)
 - [Leader——中文社区的一份Minecraft Fabric教程](https://www.mcbbs.net/thread-964580-1-1.html)
 - [Mixin官方Wiki中文翻译](http://mouse0w0.github.io/categories/Mixin/)
