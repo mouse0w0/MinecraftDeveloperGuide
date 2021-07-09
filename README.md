@@ -151,7 +151,6 @@
 - [【1.7.10-1.12.2】EnumHelper的前世今生](https://www.mcbbs.net/thread-1054951-1-1.html)
 - [【全版本】雪崩式的灾难：严重滞后的世界生成](http://www.mcbbs.net/thread-797425-1-1.html)（[Bilibili](https://www.bilibili.com/read/cv545451/)）
 - [【全版本】简单网络通信包装类(SimpleNetworkWrapper)](http://www.mcbbs.net/thread-711966-1-1.html)
-- [【全版本】GUI开发教程](http://www.mcbbs.net/thread-836858-1-1.html)
 - [【1.11.2】基于代码的简单方块/物品贴图渲染](http://www.mcbbs.net/thread-697765-1-1.html)
 - [【1.11.2】ChinaCraft2代码详解——大型模组开发笔记](http://www.mcbbs.net/thread-705995-1-1.html)（[Github](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki)）
 - [【1.10.2+】1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html)
