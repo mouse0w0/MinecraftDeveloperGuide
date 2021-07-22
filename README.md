@@ -114,6 +114,11 @@
 
 ### Java 8 文档（[英文](http://docs.oracle.com/javase/8/docs/api/)/[中文](https://www.matools.com/api/java8)）
 
+### JDK 下载
+- [Oracle JDK](https://www.oracle.com/java/technologies/java-se-glance.html)：官方的 JDK 下载，下载需登录，商业使用受限
+- [AdoptOpenJDK](https://adoptopenjdk.net/)：广为人知的免费预建的 OpenJDK
+- [BellSoft Liberica JDK](https://bell-sw.com/pages/downloads/)：带有 JavaFX 的完整 OpenJDK
+ 
 ### 扩展阅读
 > 进一步提高Java编程能力。
 - [Google Java 编程风格指南](http://hawstein.com/2014/01/20/google-java-style/)
