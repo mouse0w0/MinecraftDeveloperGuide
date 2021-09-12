@@ -135,7 +135,7 @@
 - [【全版本】 原版 / FML CoreMod 开发教程](http://www.mcbbs.net/thread-850737-1-1.html)（[GitBook](https://xfl03.gitbook.io/coremodtutor/)/[码云](http://xfl03.gitee.io/coremodtutor/)）
 - [【1.13+】浅析1.13世界生成](http://www.mcbbs.net/thread-846195-1-2.html)
 - [【1.7.10-1.12.2】EnumHelper的前世今生](https://www.mcbbs.net/thread-1054951-1-1.html)
-- [【全版本】雪崩式的灾难：严重滞后的世界生成](https://www.bilibili.com/read/cv545451/)（[Bilibili](http://www.mcbbs.net/thread-797425-1-1.html)）
+- [【全版本】雪崩式的灾难：严重滞后的世界生成](https://www.bilibili.com/read/cv545451/)（[MCBBS](http://www.mcbbs.net/thread-797425-1-1.html)）
 - [【全版本】简单网络通信包装类(SimpleNetworkWrapper)](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki/%E7%AE%80%E5%8D%95%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E5%8C%85%E8%A3%85%E7%B1%BB-SimpleNetworkWrapper)（[MCBBS](http://www.mcbbs.net/thread-711966-1-1.html)）
 - [【1.11.2】基于代码的简单方块/物品贴图渲染](http://www.mcbbs.net/thread-697765-1-1.html)（[示例代码](https://github.com/rikka0w0/Material_Warehouse)）
 - [【1.11.2】ChinaCraft2代码详解——大型模组开发笔记](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki)（[MCBBS](http://www.mcbbs.net/thread-705995-1-1.html)）
