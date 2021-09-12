@@ -173,7 +173,6 @@
 - [【1.8-1.3】wuppy29的模组开发教程](http://www.wuppy29.com/minecraft/modding-tutorials/forge-modding/)
 - [【1.8-1.7】TheXFactor117的模组开发教程](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/mapping-and-modding-tutorials/2282788-1-7-1-8-thexfactor117s-forge-modding-tutorials-20)
 - [【1.8】Blfngl的模组开发教程](http://forgetutorials.weebly.com/)
-- [【1.8】日本的模组开发百科](http://minecraftjp.info/modding/index.php/Minecraft_Modding_Wiki)
 - [【1.7.10】jabelar的模组开发教程](http://jabelarminecraft.blogspot.com/)
 - [【1.7.10】模组开发教程](http://www.minecraftforum.net/forums/mapping-and-modding/mapping-and-modding-tutorials/1571600-1-7-10-minecraft-forge-modding-tutorials-begginer)
 - [【1.7.10】EMX的教程](https://emxtutorials.wordpress.com/)
