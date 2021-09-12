@@ -192,10 +192,10 @@
 
 #### Mod Coder Pack
 - [查询MCP名与SRG名](https://mcp.thiakil.com/)
+- [Linkie（Discord的我的世界映射表查询Bot）指令列表](https://github.com/linkie/linkie-discord/wiki/Commands)
 - [MCPConfig的发布页](http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp_config/)
 - [MCPConfig的Github仓库](https://github.com/MinecraftForge/MCPConfig)
 - [MCPBot Data Exports](http://export.mcpbot.bspk.rs/)
-- [MCPBot使用帮助文档](http://mcpbot.bspk.rs/help)
 - [Mod Coder Pack](http://www.modcoderpack.com/)（[旧版本](http://mcp.llbit.se/)）
 
 ## Bukkit/Spigot插件开发
