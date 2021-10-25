@@ -217,7 +217,7 @@
 ### 国内相关资料
 > 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨或已有同类更优秀的资料等情况，仅作参考。
 - [使用 PersistentDataContainer 快速添加自定义数据](https://www.mcbbs.net/thread-1248632-1-1.html)
-- [关于 ProtocolLib 监听系统的使用与研究](https://www.mcbbs.net/thread-1248152-1-1.html
+- [关于 ProtocolLib 监听系统的使用与研究](https://www.mcbbs.net/thread-1248152-1-1.html)
 - [Bukkit NMS 开发实践 —— 创建你自己的自定义实体](https://www.mcbbs.net/thread-1210987-1-1.html)
 - [Bukkit编程杂谈：雷点|模板|思路|设计](https://www.mcbbs.net/thread-1209718-1-1.html)（[备用链接](https://hamsteryds.github.io/noticements-in-bukkit/)）
 - [信息的处理与呈现相关应用编程](https://www.mcbbs.net/thread-1181150-1-1.html)（[备用链接](https://hamsteryds.gitee.io/info-processing-in-bukkit/)）
