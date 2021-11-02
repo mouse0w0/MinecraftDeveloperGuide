@@ -121,6 +121,7 @@
 
 ### MDK（Minecraft开发工具包）
 - [Forge官方下载](http://files.minecraftforge.net/)
+- [通过修改Hosts加速模组环境配置](https://www.mcbbs.net/thread-1148912-1-1.html)
 - [【1.7.10+】耗子的MDK离线包](https://www.mcbbs.net/thread-896542-1-1.html)（[百度云盘 提取码：jmrv](https://pan.baidu.com/s/1dE0EJnz)）
 - ~~[【1.14+】ForgeGradleCN — MDK配置新解决方案](https://v2mcdev.com/t/topic/589)~~
 - ~~[【1.12.2+】FledgeXu的MDK离线包](https://v2mcdev.com/t/topic/249)（[Github](https://github.com/FledgeXu/ForgeGradleOffline/tags)）~~
@@ -128,6 +129,8 @@
 ### 国内相关资料
 > 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨或已有同类更优秀的资料等情况，仅作参考。
 - [从实例的角度出发浅谈TileEntitySpecialRenderer](https://www.mcbbs.net/thread-1165415-1-1.html)
+- [[举二反三深入模组开发 第二节] 彩虹桥法杖 + 建筑小助手 = ?](https://www.mcbbs.net/thread-1152523-1-1.html)
+- [[举二反三深入模组开发 第一节] 息壤 + 午餐盒 = ?](https://www.mcbbs.net/thread-1009711-1-1.html)
 - [【1.15.2】自定义发光效果——浅谈着色器和帧缓冲的运用](https://blog.teacon.org/shaders-and-framebuffers.html)
 - [【1.15】Neutrino 1.15 Mod 开发教程](https://neutrino.v2mcdev.com/)
 - [【1.14+】Forge能量系统简述](https://www.mcbbs.net/thread-1034965-1-1.html)
