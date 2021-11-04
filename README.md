@@ -187,6 +187,7 @@
 - [【1.12.2-1.8】Choonster的模组示例代码](https://github.com/Choonster/TestMod3)
 
 ### 模组开发讨论
+- [Forge官方Discord群组](https://discord.gg/UvedJ9m)
 - [Forge官方论坛Mod开发讨论版块](http://www.minecraftforge.net/forum/index.php?board=73.0)
 - [Forge官方论坛Mod开发教程版块](http://www.minecraftforge.net/forum/index.php?board=120.0)
 
@@ -194,7 +195,7 @@
 
 #### Mod Coder Pack
 - [查询MCP名与SRG名](https://mcp.thiakil.com/)
-- [Linkie（Discord的我的世界映射表查询Bot）指令列表](https://github.com/linkie/linkie-discord/wiki/Commands)
+- [Linkie Discord群组（映射表查询机器人）](https://discord.gg/sCVXYXVcC3)([指令列表](https://github.com/linkie/linkie-discord/wiki/Commands))
 - [MCPConfig的发布页](http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp_config/)
 - [MCPConfig的Github仓库](https://github.com/MinecraftForge/MCPConfig)
 - [MCPBot Data Exports](http://export.mcpbot.bspk.rs/)
