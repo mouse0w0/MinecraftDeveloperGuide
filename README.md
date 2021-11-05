@@ -119,13 +119,13 @@
 ### [【1.8.9】zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)
 
 ### Forge官方文档
-介绍了Forge增加的部分功能。[中文文档](http://mcforge-cn.readthedocs.io/zh/latest/)，[英文文档](http://mcforge.readthedocs.io/en/latest/)。
+介绍了Forge增加的部分功能。[中文文档](https://mcforge-cn.readthedocs.io/zh/latest/)，[英文文档](https://mcforge.readthedocs.io/en/latest/)。
 
 ### MDK（Minecraft开发工具包）
 - [Forge官方下载](http://files.minecraftforge.net/)
-- [通过修改Hosts加速模组环境配置](https://www.mcbbs.net/thread-1148912-1-1.html)
+- [【1.14+】ForgeGradleCN — MDK配置新解决方案](https://www.mcbbs.net/thread-1076799-1-1.html)
 - [【1.7.10+】耗子的MDK离线包](https://www.mcbbs.net/thread-896542-1-1.html)（[百度云盘 提取码：jmrv](https://pan.baidu.com/s/1dE0EJnz)）
-- ~~[【1.14+】ForgeGradleCN — MDK配置新解决方案](https://v2mcdev.com/t/topic/589)~~
+- [通过修改Hosts加速模组环境配置](https://www.mcbbs.net/thread-1148912-1-1.html)
 - ~~[【1.12.2+】FledgeXu的MDK离线包](https://v2mcdev.com/t/topic/249)（[Github](https://github.com/FledgeXu/ForgeGradleOffline/tags)）~~
 
 ### 国内相关资料
@@ -192,6 +192,11 @@
 - [Forge官方Discord群组](https://discord.gg/UvedJ9m)
 - [Forge官方论坛Mod开发讨论版块](http://www.minecraftforge.net/forum/index.php?board=73.0)
 - [Forge官方论坛Mod开发教程版块](http://www.minecraftforge.net/forum/index.php?board=120.0)
+
+### ForgeGradle
+- [Gradle 使用教程及谈谈 ForgeGradle](https://www.mcbbs.net/thread-1129351-1-1.html)
+- [ForgeGradle 开发之「砖」](https://www.mcbbs.net/thread-1107776-1-1.html)
+- [ForgeGradle 中文文档](https://forgegradle-cn.readthedocs.io/zh/latest/)
 
 ### 模组开发相关工具
 
