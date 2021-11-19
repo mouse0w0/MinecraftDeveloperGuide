@@ -208,6 +208,11 @@
 - [MCPBot Data Exports](http://export.mcpbot.bspk.rs/)
 - [Mod Coder Pack](http://www.modcoderpack.com/)（[旧版本](http://mcp.llbit.se/)）
 
+#### Parchment
+> Minecraft 1.16.5+ 第三方反混淆表
+- [入门指南](https://github.com/ParchmentMC/Parchment/wiki/Getting-Started)
+- [Github](https://github.com/ParchmentMC/Parchment)
+
 ## Bukkit/Spigot插件开发
 
 ### [Rarity的实例型 Bukkit 插件开发教程](https://www.mcbbs.net/thread-1163259-1-1.html)
