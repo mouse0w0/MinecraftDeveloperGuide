@@ -99,7 +99,8 @@
 
 ### JDK 下载
 - [Oracle JDK](https://www.oracle.com/java/technologies/java-se-glance.html)：官方的 JDK 下载，下载需登录，商业使用受限
-- [AdoptOpenJDK](https://adoptopenjdk.net/)：广为人知的免费预建的 OpenJDK
+- [Adoptium（原AdoptOpenJDK）](https://adoptium.net/)：广为人知的预建 OpenJDK
+- [Red Hat OpenJDK](https://developers.redhat.com/products/openjdk/download): 红帽提供的预建 OpenJDK
 - [BellSoft Liberica JDK](https://bell-sw.com/pages/downloads/)：带有 JavaFX 的完整 OpenJDK
  
 ### 扩展阅读
