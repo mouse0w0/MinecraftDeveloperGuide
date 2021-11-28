@@ -120,7 +120,9 @@
 ### [【1.8.9】zzzz的模组开发教程](https://fmltutor.ustc-zzzz.net/)
 
 ### Forge官方文档
-介绍了Forge增加的部分功能。[中文文档](https://mcforge-cn.readthedocs.io/zh/latest/)，[英文文档](https://mcforge.readthedocs.io/en/latest/)。
+介绍了Forge所增加的部分功能。
+- [英文文档（最新版）](https://mcforge.readthedocs.io/en/latest/)
+- [中文翻译（1.12.2）](https://mcforge-cn.readthedocs.io/zh/latest/)
 
 ### MDK（Minecraft开发工具包）
 - [Forge官方下载](http://files.minecraftforge.net/)
