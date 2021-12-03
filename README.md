@@ -208,8 +208,8 @@
 - [Linkie Discord群组（映射表查询机器人）](https://discord.gg/sCVXYXVcC3)([指令列表](https://github.com/linkie/linkie-discord/wiki/Commands))
 - [MCPConfig的发布页](http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp_config/)
 - [MCPConfig的Github仓库](https://github.com/MinecraftForge/MCPConfig)
-- [MCPBot Data Exports](http://export.mcpbot.bspk.rs/)
 - [Mod Coder Pack](http://www.modcoderpack.com/)（[旧版本](http://mcp.llbit.se/)）
+- ~~[MCPBot Data Exports](http://export.mcpbot.bspk.rs/)~~
 
 #### Parchment
 > Minecraft 1.16.5+ 第三方反混淆表
