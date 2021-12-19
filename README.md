@@ -285,11 +285,11 @@
 
 ## BungeeCord插件开发
 
-### [BungeeCord插件开发中文教程](https://github.com/mousesrc/BungeeCordChineseTutorial)
+### [《BungeeCord插件开发》中文翻译](https://mouse0w0.github.io/BungeeCord-CN-Translation/)
 
 ### [官方Wiki](https://www.spigotmc.org/wiki/bungeecord/)
 
-### [官方插件开发教程](https://www.spigotmc.org/wiki/bungeecord-plugin-development/)
+### [BungeeCord插件开发教程](https://www.spigotmc.org/wiki/bungeecord-plugin-development/)
 
 ### [BungeeCord官方论坛插件开发讨论板块](https://www.spigotmc.org/forums/bungeecord-plugin-development.23/)
 
