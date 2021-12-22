@@ -20,6 +20,7 @@
 - [Java版启动器开发](#java版启动器开发)
 - [网易基岩版开发](#网易基岩版开发)
 - [基岩版Addons开发](#基岩版addons开发)
+- [光影包开发](#光影包开发)
 - [过时开发资源](#过时开发资源)
 - [版权声明](#版权声明)
 
@@ -361,6 +362,13 @@
 - [下载Minecraft官方资源包](https://aka.ms/resourcepacktemplate)
 - [下载Minecraft官方行为包](https://aka.ms/behaviorpacktemplate)
 - [基岩版着色器材质文件概述](https://github.com/NovaMods/nova-renderer/wiki/Bedrock-Shaders-Simple-Material-File-Walkthrough)
+
+## 光影包开发
+> 目前本条目仍在建设中，欢迎各位前往相关[Issue](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/13)提交意见建议。
+
+- [高清修复OptiFine | 官方帮助文档翻译](https://www.mcbbs.net/thread-896135-1-1.html)（[备用链接](http://sqwatermark.com/resguide/optifinedoc/)）
+- [《学习OpenGL》中文翻译](https://learnopengl-cn.github.io/)
+- [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744)
 
 ## 过时开发资源
 <details>
