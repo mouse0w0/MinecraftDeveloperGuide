@@ -13,8 +13,8 @@
 - [Java基础](#java基础)
 - [Forge模组开发](#forge模组开发)
 - [Bukkit/Spigot插件开发](#bukkitspigot插件开发)
-- [BungeeCord插件开发](#bungeecord插件开发)
 - [Fabric模组开发](#fabric模组开发)
+- [BungeeCord插件开发](#bungeecord插件开发)
 - [Sponge插件开发](#sponge插件开发)
 - [数据包开发](#数据包开发)
 - [Java版启动器开发](#java版启动器开发)
@@ -285,16 +285,6 @@
 - ~~[Day's Bukkit插件开发教程](http://www.mcbbs.net/thread-439856-1-1.html)~~
 - ~~[wyt的Bukkit插件开发教程](http://www.mcbbs.net/thread-614388-1-1.html)~~
 
-## BungeeCord插件开发
-
-### [《BungeeCord插件开发》中文翻译](https://mouse0w0.github.io/BungeeCord-CN-Translation/)
-
-### [官方Wiki](https://www.spigotmc.org/wiki/bungeecord/)
-
-### [BungeeCord插件开发教程](https://www.spigotmc.org/wiki/bungeecord-plugin-development/)
-
-### [BungeeCord官方论坛插件开发讨论板块](https://www.spigotmc.org/forums/bungeecord-plugin-development.23/)
-
 ## Fabric模组开发
 
 ### [Fabric开发文档中文翻译](https://www.mcbbs.net/thread-904854-1-1.html)
@@ -309,6 +299,16 @@
 - [用EventLib简化fabric mod开发](https://www.mcbbs.net/thread-1030076-1-1.html)
 - [Leader——中文社区的一份Minecraft Fabric教程](https://www.mcbbs.net/thread-964580-1-1.html)
 - [Mixin官方Wiki中文翻译](http://mouse0w0.github.io/categories/Mixin/)
+
+## BungeeCord插件开发
+
+### [《BungeeCord插件开发》中文翻译](https://mouse0w0.github.io/BungeeCord-CN-Translation/)
+
+### [官方Wiki](https://www.spigotmc.org/wiki/bungeecord/)
+
+### [BungeeCord插件开发教程](https://www.spigotmc.org/wiki/bungeecord-plugin-development/)
+
+### [BungeeCord官方论坛插件开发讨论板块](https://www.spigotmc.org/forums/bungeecord-plugin-development.23/)
 
 ## Sponge插件开发
 
