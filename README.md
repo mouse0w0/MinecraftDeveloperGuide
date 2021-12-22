@@ -191,6 +191,7 @@
 - [【1.15.2-1.8.9】McJty的模组示例代码](https://github.com/McJty/ModTutorials)
 - [【1.15.2-1.8】TheGreyGhost的模组示例代码](https://github.com/TheGreyGhost/MinecraftByExample)
 - [【1.12.2-1.8】Choonster的模组示例代码](https://github.com/Choonster/TestMod3)
+- [【1.12.2】Forge Mixin 示例代码](https://github.com/mouse0w0/forge-mixin-example)
 
 ### 模组开发讨论
 - [Forge官方Discord群组](https://discord.gg/UvedJ9m)
