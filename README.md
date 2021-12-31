@@ -238,6 +238,7 @@
 
 ### 国内相关资料
 > 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨或已有同类更优秀的资料等情况，仅作参考。
+- [聊聊 PaperAPI 提供的自定义生物 AI 系统](https://www.mcbbs.net/thread-1285671-1-1.html)
 - [使用 PersistentDataContainer 快速添加自定义数据](https://www.mcbbs.net/thread-1248632-1-1.html)
 - [关于 ProtocolLib 监听系统的使用与研究](https://www.mcbbs.net/thread-1248152-1-1.html)
 - [Bukkit NMS 开发实践 —— 创建你自己的自定义实体](https://www.mcbbs.net/thread-1210987-1-1.html)
