@@ -230,7 +230,7 @@
 - [旧版本（原Bukkit）](http://wiki.bukkit.org/Plugin_Tutorial)
 
 ### Bukkit API开发者文档
-- [中文文档](https://docs.windit.net/Chinese_BukkitAPI/)
+- [中文文档](https://bukkit.windit.net/javadoc/)
 - [英文文档](https://hub.spigotmc.org/javadocs/spigot/)
 
 ### [Spigot官方论坛插件开发讨论版块](https://www.spigotmc.org/forums/spigot-plugin-development.52/)
