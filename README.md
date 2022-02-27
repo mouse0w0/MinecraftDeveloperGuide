@@ -59,7 +59,7 @@
 ### 搜索引擎[百度](https://www.baidu.com)/[谷歌](https://www.google.com)
 有什么问题为什么不先百度或谷歌呢？
 
-### [Wiki.vg](wiki.vg)
+### [Wiki.vg](https://wiki.vg/Main_Page)
 我的世界反向工程与协议参考文档网站，包含各版本网络通信协议、数据格式、Mojang正版验证协议等参考文档。
 
 ### 国内开发讨论与交流群
