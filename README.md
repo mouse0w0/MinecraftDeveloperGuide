@@ -135,9 +135,10 @@
 
 ### 国内相关资料
 > 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨或已有同类更优秀的资料等情况，仅作参考。
-- [Forge 模组使用 Mixin](https://www.hamster3.cn/docs/minecraft-dev-notes/forge-with-mixin)
+- [由实例上手快速开发多方块结构](https://www.mcbbs.net/thread-1297490-1-1.html)
 - [再析世界生成：生物群系](https://www.mcbbs.net/thread-1302344-1-1.html)（[备用链接](http://yaossg.com/biome/index.html)）
 - [聊聊生物和 AI](https://www.mcbbs.net/thread-1285618-1-1.html)（[备用链接](https://izzel.io/2021/12/19/living-things/)）
+- [Forge 模组使用 Mixin](https://www.hamster3.cn/docs/minecraft-dev-notes/forge-with-mixin)
 - [从实例的角度出发浅谈TileEntitySpecialRenderer](https://www.mcbbs.net/thread-1165415-1-1.html)
 - [[举二反三深入模组开发 第二节] 彩虹桥法杖 + 建筑小助手 = ?](https://www.mcbbs.net/thread-1152523-1-1.html)
 - [[举二反三深入模组开发 第一节] 息壤 + 午餐盒 = ?](https://www.mcbbs.net/thread-1009711-1-1.html)
