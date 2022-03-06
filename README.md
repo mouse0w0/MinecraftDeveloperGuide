@@ -76,7 +76,7 @@
 - [聊聊区块和 Ticket](https://www.mcbbs.net/thread-1000001-1-1.html)（[备用链接](https://izzel.io/2020/09/09/chunks-and-tickets/)）
 - [怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)
 - [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
-- [[调试辅助]JRebel - 给你+1s|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
+- [[调试辅助]JRebel - 给你+1s\|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
 - [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
 
 ## Java基础
@@ -92,6 +92,7 @@
 
 ### Java 中文在线免费教程
 > 内容未经考究，仅供参考。
+
 - [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744)
 - [菜鸟](http://www.runoob.com/java/)
 - [W3CSchool](https://www.w3cschool.cn/java/)
@@ -107,6 +108,7 @@
  
 ### 扩展阅读
 > 进一步提高Java编程能力。
+
 - [Google Java 编程风格指南](http://hawstein.com/2014/01/20/google-java-style/)
 - 大话设计模式（[豆瓣](https://book.douban.com/subject/2334288/)）
 - Effective Java（[豆瓣](https://book.douban.com/subject/30412517/)）
@@ -135,6 +137,7 @@
 
 ### 国内相关资料
 > 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨或已有同类更优秀的资料等情况，仅作参考。
+
 - [由实例上手快速开发多方块结构](https://www.mcbbs.net/thread-1297490-1-1.html)
 - [再析世界生成：生物群系](https://www.mcbbs.net/thread-1302344-1-1.html)（[备用链接](http://yaossg.com/biome/index.html)）
 - [聊聊生物和 AI](https://www.mcbbs.net/thread-1285618-1-1.html)（[备用链接](https://izzel.io/2021/12/19/living-things/)）
@@ -221,6 +224,7 @@
 
 #### Parchment
 > Minecraft 1.16.5+ 第三方反混淆表
+
 - [入门指南](https://github.com/ParchmentMC/Parchment/wiki/Getting-Started)
 - [Github](https://github.com/ParchmentMC/Parchment)
 
@@ -243,11 +247,12 @@
 
 ### 国内相关资料
 > 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨或已有同类更优秀的资料等情况，仅作参考。
+
 - [聊聊 PaperAPI 提供的自定义生物 AI 系统](https://www.mcbbs.net/thread-1285671-1-1.html)
 - [使用 PersistentDataContainer 快速添加自定义数据](https://www.mcbbs.net/thread-1248632-1-1.html)
 - [关于 ProtocolLib 监听系统的使用与研究](https://www.mcbbs.net/thread-1248152-1-1.html)
 - [Bukkit NMS 开发实践 —— 创建你自己的自定义实体](https://www.mcbbs.net/thread-1210987-1-1.html)
-- [Bukkit编程杂谈：雷点|模板|思路|设计](https://www.mcbbs.net/thread-1209718-1-1.html)（[备用链接](https://hamsteryds.github.io/noticements-in-bukkit/)）
+- [Bukkit编程杂谈：雷点\|模板\|思路\|设计](https://www.mcbbs.net/thread-1209718-1-1.html)（[备用链接](https://hamsteryds.github.io/noticements-in-bukkit/)）
 - [信息的处理与呈现相关应用编程](https://www.mcbbs.net/thread-1181150-1-1.html)（[备用链接](https://hamsteryds.gitee.io/info-processing-in-bukkit/)）
 - [生物运动&空间坐标的理论探索与应用编程](https://www.mcbbs.net/thread-1177817-1-1.html)（[备用链接](https://hamsteryds.gitee.io/kinematics-of-minecraft/)）
 - [玩转ProtocolLib数据包发包](https://www.mcbbs.net/thread-1123486-1-1.html)
@@ -273,7 +278,7 @@
 - [自定义交互式书本](http://www.mcbbs.net/thread-697788-1-1.html)
 - [在插件通过发包(ProtocolLib)打开牌子界面(Sign GUI)](http://www.mcbbs.net/thread-706491-1-1.html)
 - [HolographicDisplays API 汉化](http://www.mcbbs.net/thread-721009-1-1.html)
-- [Forge与Bukkit之间的通信|数据传输——Messenger类](http://www.mcbbs.net/thread-725571-1-1.html)
+- [Forge与Bukkit之间的通信\|数据传输——Messenger类](http://www.mcbbs.net/thread-725571-1-1.html)
 - [如何给插件加上更新检查](http://www.mcbbs.net/thread-726821-1-1.html)
 - [使用Metrics统计信息](http://www.mcbbs.net/thread-295815-1-1.html)
 - [Bukkit Conversation API](http://www.mcbbs.net/thread-619632-1-1.html)
