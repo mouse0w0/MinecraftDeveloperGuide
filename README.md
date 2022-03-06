@@ -378,7 +378,7 @@
 ## 光影包开发
 > 目前本条目仍在建设中，欢迎各位前往相关[Issue](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/13)提交意见建议。
 
-- [高清修复OptiFine | 官方帮助文档翻译](https://www.mcbbs.net/thread-896135-1-1.html)（[备用链接](http://sqwatermark.com/resguide/optifinedoc/)）
+- [高清修复OptiFine \| 官方帮助文档翻译](https://www.mcbbs.net/thread-896135-1-1.html)（[备用链接](http://sqwatermark.com/resguide/optifinedoc/)）
 - [《学习OpenGL》中文翻译](https://learnopengl-cn.github.io/)
 - [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744)
 
