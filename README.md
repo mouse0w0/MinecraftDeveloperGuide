@@ -139,6 +139,7 @@
 - [由实例上手快速开发多方块结构](https://www.mcbbs.net/thread-1297490-1-1.html)
 - [再析世界生成：生物群系](https://www.mcbbs.net/thread-1302344-1-1.html)（[备用链接](http://yaossg.com/biome/index.html)）
 - [聊聊生物和 AI](https://www.mcbbs.net/thread-1285618-1-1.html)（[备用链接](https://izzel.io/2021/12/19/living-things/)）
+- [Forge安装到导出详细入门教程|各种报错解决方法](https://www.mcbbs.net/thread-1193768-1-3.html)
 - [Forge 模组使用 Mixin](https://www.hamster3.cn/docs/minecraft-dev-notes/forge-with-mixin)
 - [从实例的角度出发浅谈TileEntitySpecialRenderer](https://www.mcbbs.net/thread-1165415-1-1.html)
 - [[举二反三深入模组开发 第二节] 彩虹桥法杖 + 建筑小助手 = ?](https://www.mcbbs.net/thread-1152523-1-1.html)
