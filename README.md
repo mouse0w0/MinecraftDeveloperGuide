@@ -212,6 +212,11 @@
 
 ### 模组开发相关工具
 
+#### Forge Javadoc
+> 本JavaDoc由第三方提供，不能保证其时效性及有效性，以实际开发环境为准。
+- [Forge Java Docs 1.12-1.18](https://github.com/Nekoyue/ForgeJavaDocs-NG)
+- [Forge Java Docs 1.7.10-1.11.2](https://skmedix.github.io/ForgeJavaDocs/)
+
 #### Mod Coder Pack
 - [查询MCP名与SRG名](https://mcp.thiakil.com/)
 - [Linkie Discord群组（映射表查询机器人）](https://discord.gg/sCVXYXVcC3)([指令列表](https://github.com/linkie/linkie-discord/wiki/Commands))
