@@ -71,6 +71,7 @@
 ### [V2我的世界开发者论坛](https://www.v2mcdev.com/)
 
 ### 其他开发资料
+- [[协议] 教你如何从外部 Ping 通服务器](https://www.mcbbs.net/thread-1280861-1-1.html)
 - [聊聊区块和 Ticket](https://www.mcbbs.net/thread-1000001-1-1.html)（[备用链接](https://izzel.io/2020/09/09/chunks-and-tickets/)）
 - [怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)
 - [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
