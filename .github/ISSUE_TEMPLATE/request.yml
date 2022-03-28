@@ -1,0 +1,41 @@
+name: 添加教程/资料/文档请求
+description: 为本项目提出一个添加教程/资料/文档的请求
+body:
+  - type: input
+    id: name
+    attributes: 
+      label: 名称
+      description: 请在此处描述教程/资料/文档的名称。
+    validations:
+      required: true
+  - type: textarea
+    id: url
+    attributes: 
+      label: URL链接
+      description: 请在此描述教程/资料/文档的网址链接。
+      placeholder: 请尽量提供多个渠道的链接
+    validations:
+      required: true
+  - type: input
+    id: type
+    attributes: 
+      label: 分类
+      description: 请在此描述教程/资料/文档的分类。
+      placeholder: 如“Forge模组开发”。
+    validations:
+      required: false
+  - type: input
+    id: mc
+    attributes: 
+      label: 适用的我的世界版本
+      description: 请在此描述教程/资料/文档适用的我的世界版本。
+      placeholder: 如“Java版 1.12.2+”。
+    validations:
+      required: false
+  - type: textarea
+    id: word
+    attributes: 
+      label: 推荐词
+      description: 请在此描述推荐此教程/资料/文档的推荐词，以便我们能够快速地了解它。
+    validations:
+      required: false
