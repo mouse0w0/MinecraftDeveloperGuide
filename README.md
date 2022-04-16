@@ -104,6 +104,7 @@
 - [Adoptium（原AdoptOpenJDK）](https://adoptium.net/)：广为人知的预建 OpenJDK
 - [Red Hat OpenJDK](https://developers.redhat.com/products/openjdk/download)：红帽提供的预建 OpenJDK
 - [BellSoft Liberica JDK](https://bell-sw.com/pages/downloads/)：带有 JavaFX 的完整 OpenJDK
+- [Azul Zulu OpenJDK](https://www.azul.com/downloads/)
  
 ### 扩展阅读
 > 进一步提高Java编程能力。
