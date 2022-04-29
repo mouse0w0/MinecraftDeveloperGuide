@@ -371,9 +371,11 @@
 
 ## 基岩版Addons开发
 
-### [Minecraft官网附加包（Add-Ons）介绍页面](https://www.minecraft.net/zh-hans/addons)
+### [我的世界:基岩版创作者文档](https://docs.microsoft.com/en-us/minecraft/creator/)
 
-### [Minecraft中文Wiki“附加包（Add-Ons）”页面](https://minecraft-zh.gamepedia.com/%E9%99%84%E5%8A%A0%E5%8C%85)
+### [我的世界中文Wiki“附加包（Add-Ons）”页面](https://minecraft-zh.gamepedia.com/%E9%99%84%E5%8A%A0%E5%8C%85)
+
+### [边做边学：从零开始制作一个矿石作物 Addons](https://www.mcbbs.net/thread-1326836-1-1.html)
 
 ### 其他资源
 - [下载Minecraft官方资源包](https://aka.ms/resourcepacktemplate)
