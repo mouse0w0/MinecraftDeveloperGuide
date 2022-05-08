@@ -207,17 +207,18 @@
 - [Forge官方论坛Mod开发讨论版块](http://www.minecraftforge.net/forum/index.php?board=73.0)
 - [Forge官方论坛Mod开发教程版块](http://www.minecraftforge.net/forum/index.php?board=120.0)
 
-### ForgeGradle
-- [Gradle 使用教程及谈谈 ForgeGradle](https://www.mcbbs.net/thread-1129351-1-1.html)
-- [ForgeGradle 开发之「砖」](https://www.mcbbs.net/thread-1107776-1-1.html)
-- [ForgeGradle 中文文档](https://forgegradle-cn.readthedocs.io/zh/latest/)
-
 ### 模组开发相关工具
 
 #### Forge Javadoc
 > 本JavaDoc由第三方提供，不能保证其时效性及有效性，以实际开发环境为准。
 - [Forge Java Docs 1.12-1.18](https://github.com/Nekoyue/ForgeJavaDocs-NG)
 - [Forge Java Docs 1.7.10-1.11.2](https://skmedix.github.io/ForgeJavaDocs/)
+
+#### ForgeGradle
+- [FancyGradle - 1.12.2 开发环境修复插件](https://gitlab.com/gofancy/fancygradle/-/wikis/home)
+- [Gradle 使用教程及谈谈 ForgeGradle](https://www.mcbbs.net/thread-1129351-1-1.html)
+- [ForgeGradle 开发之「砖」](https://www.mcbbs.net/thread-1107776-1-1.html)
+- [ForgeGradle 中文文档](https://forgegradle-cn.readthedocs.io/zh/latest/)
 
 #### Mod Coder Pack
 - [查询MCP名与SRG名](https://mcp.thiakil.com/)
