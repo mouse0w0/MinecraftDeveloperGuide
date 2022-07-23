@@ -350,7 +350,7 @@
 - [数据包 - Minecraft Wiki](https://minecraft-zh.gamepedia.com/%E6%95%B0%E6%8D%AE%E5%8C%85)
 
 ### 工具
-- [数据包生成器](https://misode.github.io/）
+- [数据包生成器](https://misode.github.io/)
 - [大憨批 —— VSCode 数据包函数编辑插件](https://www.mcbbs.net/thread-926724-1-1.html)（[VSCode](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server)）
 - [MCreator](https://mcreator.net/)（[MCBBS](https://www.mcbbs.net/thread-280267-1-1.html)）
 
