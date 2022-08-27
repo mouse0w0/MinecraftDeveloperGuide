@@ -398,12 +398,16 @@ Java开发的Minecraft基岩版服务端。
 
 ### [边做边学：从零开始制作一个矿石作物 Addons](https://www.mcbbs.net/thread-1326836-1-1.html)
 
+### [【非官方】我的世界基岩版开发百科](https://wiki.bedev.cn/)
+
+### [【非官方】Bedrock Wiki](https://wiki.bedrock.dev/)
+
 ### 其他资源
 - [下载Minecraft官方资源包](https://aka.ms/resourcepacktemplate)
 - [下载Minecraft官方行为包](https://aka.ms/behaviorpacktemplate)
 - [基岩版着色器材质文件概述](https://github.com/NovaMods/nova-renderer/wiki/Bedrock-Shaders-Simple-Material-File-Walkthrough)
 - [基岩版Gametest框架开发](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/)
-- [Minecraft基岩版文档](https://bedrock.dev/zh)
+- [【非官方】我的世界基岩版文档](https://bedrock.dev/zh)
 
 ## 网易基岩版开发
 - [我的世界创造者计划官方网站](https://mc.163.com/dev/index.html)
