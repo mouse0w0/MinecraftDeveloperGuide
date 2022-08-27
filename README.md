@@ -58,11 +58,6 @@
 ### [Wiki.vg](https://wiki.vg/Main_Page)
 我的世界反向工程与协议参考文档网站，包含各版本网络通信协议、数据格式、Mojang正版验证协议等参考文档。
 
-### 国内开发讨论与交流群
-- **耗子的Minecraft开发讨论群: [345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)**
-- Bukkit/Spigot插件开发交流群: [914085636](https://jq.qq.com/?_wv=1027&k=FeUg8OUQ)
-- Sponge插件开发交流群: [613604130](https://jq.qq.com/?_wv=1027&k=52OlyJ7)
-
 ### [我的世界中文论坛开发教程索引贴](http://www.mcbbs.net/thread-54579-1-1.html)
 
 ### [V2我的世界开发者论坛](https://www.v2mcdev.com/)
@@ -75,6 +70,11 @@
 - [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
 - [[调试辅助]JRebel - 给你+1s\|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
 - [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
+
+### 国内开发交流群
+- **耗子的Minecraft开发讨论群: [345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)**
+- Bukkit/Spigot插件开发交流群: [914085636](https://jq.qq.com/?_wv=1027&k=FeUg8OUQ)
+- Sponge插件开发交流群: [613604130](https://jq.qq.com/?_wv=1027&k=52OlyJ7)
 
 ## Java基础
 
