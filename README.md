@@ -16,8 +16,9 @@
 - [Sponge插件开发](#sponge插件开发)
 - [数据包开发](#数据包开发)
 - [Java版启动器开发](#java版启动器开发)
-- [网易基岩版开发](#网易基岩版开发)
+- [基岩版服务端开发](#基岩版服务端开发)
 - [基岩版Addons开发](#基岩版addons开发)
+- [网易基岩版开发](#网易基岩版开发)
 - [光影包开发](#光影包开发)
 - [过时开发资源](#过时开发资源)
 - [版权声明](#版权声明)
@@ -366,9 +367,25 @@
 - [【C#】Square](https://github.com/baibao132/SquareMinecraftLauncherCore)
 - [【Python】minecraft-launcher-lib](https://minecraft-launcher-lib.readthedocs.io/en/latest/index.html)
 
-## 网易基岩版开发
-- [我的世界创造者计划官方网站](https://mc.163.com/dev/index.html)
-- [技术手册](https://mc.163.com/dev/mcmanual/mc-dev/mcdocs)（[旧版本](https://mc.163.com/mcstudio/mc-dev/)）
+## 基岩版服务端开发
+
+### [官方服务端](https://www.minecraft.net/en-us/download/server/bedrock)
+
+### [Cloudburst Nukkit](https://cloudburstmc.org/articles/)
+Java开发的Minecraft基岩版服务端。
+- [官方Wiki](https://cloudburstmc.org/wiki/nukkit)
+- [JavaDoc](https://ci.opencollab.dev/job/NukkitX/job/Nukkit/job/master/javadoc/overview-summary.html)
+- [官方论坛](https://cloudburstmc.org/forums/)
+- [官方仓库](https://github.com/CloudburstMC/Nukkit)
+
+### [LiteLoaderBDS](https://www.litebds.com/)
+- [官方文档](https://docs.litebds.com/)
+- [官方论坛](https://forum.litebds.com/)
+- [官方仓库](https://github.com/LiteLDev/LiteLoaderBDS)
+
+### 其它资料
+- [基岩版服务端软件 - Minecraft Servers Wiki](https://minecraftservers.fandom.com/wiki/Bedrock_Edition_server_software)
+- [基岩版服务端软件 - Bedrock Wiki](https://wiki.bedrock.dev/servers/server-software.html)
 
 ## 基岩版Addons开发
 
@@ -383,6 +400,10 @@
 - [下载Minecraft官方行为包](https://aka.ms/behaviorpacktemplate)
 - [基岩版着色器材质文件概述](https://github.com/NovaMods/nova-renderer/wiki/Bedrock-Shaders-Simple-Material-File-Walkthrough)
 - [基岩版Gametest框架开发](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/)
+
+## 网易基岩版开发
+- [我的世界创造者计划官方网站](https://mc.163.com/dev/index.html)
+- [技术手册](https://mc.163.com/dev/mcmanual/mc-dev/mcdocs)（[旧版本](https://mc.163.com/mcstudio/mc-dev/)）
 
 ## 光影包开发
 > 目前本条目仍在建设中，欢迎各位前往相关[Issue](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/13)提交意见建议。
