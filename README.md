@@ -368,22 +368,25 @@
 - [【Python】minecraft-launcher-lib](https://minecraft-launcher-lib.readthedocs.io/en/latest/index.html)
 
 ## 基岩版服务端开发
+> 目前本条目仍在建设中，欢迎各位前往相关[Issue](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/35)提交意见建议。
 
 ### [官方服务端](https://www.minecraft.net/en-us/download/server/bedrock)
 
-### [Cloudburst Nukkit](https://cloudburstmc.org/articles/)
+### Cloudburst Nukkit
 Java开发的Minecraft基岩版服务端。
+- [官方主页](https://cloudburstmc.org)
 - [官方Wiki](https://cloudburstmc.org/wiki/nukkit)
-- [JavaDoc](https://ci.opencollab.dev/job/NukkitX/job/Nukkit/job/master/javadoc/overview-summary.html)
 - [官方论坛](https://cloudburstmc.org/forums/)
+- [JavaDoc](https://ci.opencollab.dev/job/NukkitX/job/Nukkit/job/master/javadoc/overview-summary.html)
 - [官方仓库](https://github.com/CloudburstMC/Nukkit)
 
-### [LiteLoaderBDS](https://www.litebds.com/)
+### LiteLoaderBDS
+- [官方主页](https://www.litebds.com/)
 - [官方文档](https://docs.litebds.com/)
 - [官方论坛](https://forum.litebds.com/)
 - [官方仓库](https://github.com/LiteLDev/LiteLoaderBDS)
 
-### 其它资料
+### 其它资源
 - [基岩版服务端软件 - Minecraft Servers Wiki](https://minecraftservers.fandom.com/wiki/Bedrock_Edition_server_software)
 - [基岩版服务端软件 - Bedrock Wiki](https://wiki.bedrock.dev/servers/server-software.html)
 
@@ -400,6 +403,7 @@ Java开发的Minecraft基岩版服务端。
 - [下载Minecraft官方行为包](https://aka.ms/behaviorpacktemplate)
 - [基岩版着色器材质文件概述](https://github.com/NovaMods/nova-renderer/wiki/Bedrock-Shaders-Simple-Material-File-Walkthrough)
 - [基岩版Gametest框架开发](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/)
+- [Minecraft基岩版文档](https://bedrock.dev/zh)
 
 ## 网易基岩版开发
 - [我的世界创造者计划官方网站](https://mc.163.com/dev/index.html)
