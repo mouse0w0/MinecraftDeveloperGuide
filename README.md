@@ -66,6 +66,7 @@
 ### 其他开发资料
 - [Adventure 中文文档](https://www.mcbbs.net/thread-1294801-1-1.html)（[备用连接](https://adventure-docs.minecraft.kim/)/[Github](https://github.com/shaokeyibb/adventure-docs-zh_CN)）
 - [[协议] 教你如何从外部 Ping 通服务器](https://www.mcbbs.net/thread-1280861-1-1.html)
+- [Java的模式匹配](https://www.mcbbs.net/thread-1385476-1-1.html)
 - [聊聊区块和 Ticket](https://www.mcbbs.net/thread-1000001-1-1.html)（[备用链接](https://izzel.io/2020/09/09/chunks-and-tickets/)）
 - [怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)
 - [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
@@ -314,6 +315,7 @@
 ### [官方Wiki](https://fabricmc.net/wiki/start)
 
 ### 国内相关资料
+- [在自己的Mod里添加线缆网络！](https://www.mcbbs.net/thread-1385476-1-1.html)
 - [FabricLoomCN-加速你的 fabric 模组依赖拉取以及环境搭建](https://www.mcbbs.net/thread-1239261-1-1.html)
 - [由现象到本质的Minecraft源码注入艺术](https://www.mcbbs.net/thread-1205392-1-1.html)
 - [用EventLib简化fabric mod开发](https://www.mcbbs.net/thread-1030076-1-1.html)
