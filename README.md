@@ -64,6 +64,7 @@
 ### [V2我的世界开发者论坛](https://www.v2mcdev.com/)
 
 ### 其他开发资料
+- [Minecraft 服务端开发指北](https://www.mcbbs.net/thread-1276664-1-1.html)（[备用连接](https://izzel.io/2021/11/13/how-to-minecraft-server/)）
 - [Adventure 中文文档](https://www.mcbbs.net/thread-1294801-1-1.html)（[备用连接](https://adventure-docs.minecraft.kim/)/[Github](https://github.com/shaokeyibb/adventure-docs-zh_CN)）
 - [[协议] 教你如何从外部 Ping 通服务器](https://www.mcbbs.net/thread-1280861-1-1.html)
 - [Java的模式匹配](https://www.mcbbs.net/thread-1385476-1-1.html)
@@ -139,6 +140,7 @@
 ### 国内相关资料
 > 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨或已有同类更优秀的资料等情况，仅作参考。
 
+- [聊聊 Forge 工具链](https://www.mcbbs.net/thread-1387937-1-1.html)（[备用链接](https://izzel.io/2022/09/07/forge-toolchain-teardown/)）
 - [手把手Mixin+Forge开发示例，从开发环境配置到mod发布](https://www.mcbbs.net/thread-1386942-1-1.html)
 - [Cobalt - 渲染浅析文档](https://www.mcbbs.net/thread-1377252-1-1.html)（[备用链接](https://zomb-676.github.io/CobaltDocs)）
 - [由实例上手快速开发多方块结构](https://www.mcbbs.net/thread-1297490-1-1.html)
