@@ -1,5 +1,5 @@
 # 我的世界开发者中文指南
-![](https://img.shields.io/badge/license-CC--BY--SA--4.0-green) ![](https://img.shields.io/github/stars/Mouse0w0/MinecraftDeveloperGuide) [![](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-Gitee-red)](https://gitee.com/mirrors_Mouse0w0/MinecraftDeveloperGuide)
+![](https://img.shields.io/badge/license-CC--BY--SA--4.0-green) ![](https://img.shields.io/github/stars/Mouse0w0/MinecraftDeveloperGuide) [![](https://img.shields.io/discord/1030314242907312208.svg?color=%237289da&label=Discord&logo=discord&logoColor=%237289da)](https://discord.gg/5QZtnmV7b5) [![](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-Gitee-red)](https://gitee.com/mirrors_Mouse0w0/MinecraftDeveloperGuide) 
 
 **点击右上方的“Watch”按钮以实时获取中文指南的更新情况，点击右上方“Star”按钮以支持中文指南的编撰。**
 
