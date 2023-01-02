@@ -391,7 +391,7 @@ Java开发的Minecraft基岩版服务端。
 - [官方论坛](https://forum.litebds.com/)
 - [官方仓库](https://github.com/LiteLDev/LiteLoaderBDS)
 
-### 其它资源
+### 其他资源
 - [基岩版服务端软件 - Minecraft Servers Wiki](https://minecraftservers.fandom.com/wiki/Bedrock_Edition_server_software)
 - [基岩版服务端软件 - Bedrock Wiki](https://wiki.bedrock.dev/servers/server-software.html)
 
@@ -421,6 +421,9 @@ Java开发的Minecraft基岩版服务端。
 ## 光影包开发
 > 目前本条目仍在建设中，欢迎各位前往相关[Issue](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/13)提交意见建议。
 
+### [我的世界图形学社区文档](https://mgcd.hypercol.com/)
+
+### 其他资源
 - [高清修复OptiFine \| 官方帮助文档翻译](https://www.mcbbs.net/thread-896135-1-1.html)（[备用链接](http://sqwatermark.com/resguide/optifinedoc/)）
 - [《学习OpenGL》中文翻译](https://learnopengl-cn.github.io/)
 - [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744)
