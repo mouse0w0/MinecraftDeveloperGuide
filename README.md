@@ -218,7 +218,7 @@
 #### Forge Javadoc
 > 本JavaDoc由第三方提供，不能保证其时效性及有效性，以实际开发环境为准。
 - [【1.12+】ForgeJavaDocs-NG](https://github.com/Nekoyue/ForgeJavaDocs-NG)
-- [【1.7.10-1.11.2】ForgeJavaDocs](https://skmedix.github.io/ForgeJavaDocs/)
+- [【1.7.10-1.12.2】ForgeJavaDocs](https://skmedix.github.io/ForgeJavaDocs/)
 
 #### ForgeGradle
 - [FancyGradle - 1.12.2 开发环境修复插件](https://gitlab.com/gofancy/fancygradle/-/wikis/home)
