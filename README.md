@@ -217,7 +217,7 @@
 
 #### Forge Javadoc
 > 本JavaDoc由第三方提供，不能保证其时效性及有效性，以实际开发环境为准。
-- [Forge Java Docs 1.12-1.18](https://github.com/Nekoyue/ForgeJavaDocs-NG)
+- [Forge Java Docs 1.12-1.19](https://github.com/Nekoyue/ForgeJavaDocs-NG)
 - [Forge Java Docs 1.7.10-1.11.2](https://skmedix.github.io/ForgeJavaDocs/)
 
 #### ForgeGradle
