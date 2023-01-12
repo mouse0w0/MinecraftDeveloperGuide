@@ -215,11 +215,6 @@
 
 ### 模组开发相关工具
 
-#### Forge Javadoc
-> 本JavaDoc由第三方提供，不能保证其时效性及有效性，以实际开发环境为准。
-- [【1.12+】ForgeJavaDocs-NG](https://github.com/Nekoyue/ForgeJavaDocs-NG)
-- [【1.7.10-1.12.2】ForgeJavaDocs](https://skmedix.github.io/ForgeJavaDocs/)
-
 #### ForgeGradle
 - [FancyGradle - 1.12.2 开发环境修复插件](https://gitlab.com/gofancy/fancygradle/-/wikis/home)
 - [Gradle 使用教程及谈谈 ForgeGradle](https://www.mcbbs.net/thread-1129351-1-1.html)
@@ -240,6 +235,11 @@
 
 - [入门指南](https://github.com/ParchmentMC/Parchment/wiki/Getting-Started)
 - [Github](https://github.com/ParchmentMC/Parchment)
+
+#### Forge Javadoc
+> 本JavaDoc由第三方提供，不能保证其时效性及有效性，以实际开发环境为准。
+- [【1.12+】ForgeJavaDocs-NG](https://github.com/Nekoyue/ForgeJavaDocs-NG)
+- [【1.7.10-1.12.2】ForgeJavaDocs](https://skmedix.github.io/ForgeJavaDocs/)
 
 ## Bukkit/Spigot插件开发
 
