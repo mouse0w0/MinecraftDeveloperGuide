@@ -105,7 +105,7 @@
 - [Adoptium（原AdoptOpenJDK）](https://adoptium.net/)：广为人知的预建 OpenJDK
 - [Red Hat OpenJDK](https://developers.redhat.com/products/openjdk/download)：红帽提供的预建 OpenJDK
 - [BellSoft Liberica JDK](https://bell-sw.com/pages/downloads/)：带有 JavaFX 的完整 OpenJDK
-- [Azul Zulu OpenJDK](https://www.azul.com/downloads/)
+- [Azul Zulu OpenJDK](https://www.azul.com/downloads/)：性能优秀的OpenJdk
  
 ### 扩展阅读
 > 进一步提高Java编程能力。
@@ -178,7 +178,7 @@
 由于没有详细的阅读过，不做评论，但大都全面，非常推荐外语水平好的同学前去阅读。排名依照支持版本先后排序。
 - [【1.16-1.17】【非官方】Forge社区百科](https://forge.gemwire.uk/)
 - [【1.16.4-1.12】【Youtube】TurtyWurty的模组开发视频教程](https://www.youtube.com/channel/UCicAXLV4w2X6bn2EuM4To4w)
-- [【1.16-1.9】McJty的模组开发教程](https://wiki.mcjty.eu/modding/index.php?title=Main_Page)
+- [【1.12+】McJty的模组开发教程](https://wiki.mcjty.eu/modding/index.php?title=Main_Page)
 - [【1.15-1.12】Cadiboo的模组开发教程](https://cadiboo.github.io/tutorials/)
 - [【1.15-1.12】Suppergerrie2的模组开发教程](https://suppergerrie2.com/category/forge-tutorial/)
 - [【1.15-1.14】【Youtube】McJty的模组开发视频教程](https://www.youtube.com/playlist?list=PLmaTwVFUUXiBKYYSyrv_uPPoPZtEsCBVJ)
