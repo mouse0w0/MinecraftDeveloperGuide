@@ -203,6 +203,7 @@
 - ~~[附属模组开发工作空间设置](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development/2358564-how-do-i-use-another-mod-as-a-dependency-for-my)~~
 
 ### 模组示例代码
+- [【1.18.1-1.19.3】McJty的模组示例代码](https://github.com/McJty/TutorialV3)
 - [【1.15.2-1.8.9】McJty的模组示例代码](https://github.com/McJty/ModTutorials)
 - [【1.15.2-1.8】TheGreyGhost的模组示例代码](https://github.com/TheGreyGhost/MinecraftByExample)
 - [【1.12.2-1.8】Choonster的模组示例代码](https://github.com/Choonster/TestMod3)
