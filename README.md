@@ -102,10 +102,10 @@
 
 ### JDK 下载
 - [Oracle JDK](https://www.oracle.com/java/technologies/java-se-glance.html)：官方的 JDK 下载，下载需登录，商业使用受限
-- [Adoptium（原AdoptOpenJDK）](https://adoptium.net/)：广为人知的预建 OpenJDK
-- [Red Hat OpenJDK](https://developers.redhat.com/products/openjdk/download)：红帽提供的预建 OpenJDK
-- [BellSoft Liberica JDK](https://bell-sw.com/pages/downloads/)：带有 JavaFX 的完整 OpenJDK
-- [Azul Zulu OpenJDK](https://www.azul.com/downloads/)：性能优秀的 OpenJDK
+- [Azul Zulu](https://www.azul.com/downloads/)：Azul 提供的 OpenJDK
+- [BellSoft Liberica JDK](https://bell-sw.com/pages/downloads/)：BellSoft 提供的 OpenJDK
+- [Eclipse Temurin](https://adoptium.net/)：Eclipse 基金会提供的 OpenJDK
+- [Amazon Corretto](https://aws.amazon.com/cn/corretto/)：亚马逊提供的 OpenJDK
  
 ### 扩展阅读
 > 进一步提高Java编程能力。
