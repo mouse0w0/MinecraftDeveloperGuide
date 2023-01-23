@@ -138,7 +138,7 @@
 - ~~[【1.12.2+】FledgeXu的MDK离线包](https://v2mcdev.com/t/topic/249)（[Github](https://github.com/FledgeXu/ForgeGradleOffline/tags)）~~
 
 ### 国内相关资料
-> 有删除线的资料可能存在误导、内容欠缺、表述不清、不够严谨或已有同类更优秀的资料等情况，仅作参考。
+> 有删除线的条目可能已有更优秀的资料，或存在误导、内容欠缺的问题，仅供参考。
 
 - [【1.18.2】基于Forge的Datagen教程](https://www.mcbbs.net/thread-1389169-1-1.html)（[备用链接](https://skyinr.github.io/DatagenBook/#/zh-cn/)）
 - [聊聊 Forge 工具链](https://www.mcbbs.net/thread-1387937-1-1.html)（[备用链接](https://izzel.io/2022/09/07/forge-toolchain-teardown/)）
