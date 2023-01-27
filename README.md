@@ -234,7 +234,7 @@
 #### Parchment
 > Minecraft 1.16.5+ 第三方反混淆表
 
-- [入门指南](https://github.com/ParchmentMC/Parchment/wiki/Getting-Started)
+- [入门指南](https://parchmentmc.org/docs/getting-started)
 - [Github](https://github.com/ParchmentMC/Parchment)
 
 #### Forge Javadoc
