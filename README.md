@@ -318,6 +318,10 @@
 
 ### [官方Wiki](https://fabricmc.net/wiki/start)
 
+### [官方模板模组生成器](https://fabricmc.net/develop/template/)
+
+### [官方示例模组仓库](https://github.com/FabricMC/fabric-example-mod)
+
 ### 国内相关资料
 - [在自己的Mod里添加线缆网络！](https://www.mcbbs.net/thread-1385476-1-1.html)
 - [FabricLoomCN-加速你的 fabric 模组依赖拉取以及环境搭建](https://www.mcbbs.net/thread-1239261-1-1.html)
