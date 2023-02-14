@@ -67,7 +67,7 @@
 - [Minecraft 服务端开发指北](https://www.mcbbs.net/thread-1276664-1-1.html)（[备用连接](https://izzel.io/2021/11/13/how-to-minecraft-server/)）
 - [Adventure 中文文档](https://www.mcbbs.net/thread-1294801-1-1.html)（[备用连接](https://adventure-docs.minecraft.kim/)/[Github](https://github.com/shaokeyibb/adventure-docs-zh_CN)）
 - [[协议] 教你如何从外部 Ping 通服务器](https://www.mcbbs.net/thread-1280861-1-1.html)
-- [Java的模式匹配](https://www.mcbbs.net/thread-1385476-1-1.html)
+- [Java的模式匹配](https://www.mcbbs.net/thread-1207118-1-1.html)
 - [聊聊区块和 Ticket](https://www.mcbbs.net/thread-1000001-1-1.html)（[备用链接](https://izzel.io/2020/09/09/chunks-and-tickets/)）
 - [怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)
 - [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
