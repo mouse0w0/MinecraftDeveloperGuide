@@ -137,8 +137,8 @@
 - ~~[【1.14+】ForgeGradleCN — MDK配置新解决方案](https://www.mcbbs.net/thread-1076799-1-1.html)~~
 - ~~[【1.12.2+】FledgeXu的MDK离线包](https://v2mcdev.com/t/topic/249)（[Github](https://github.com/FledgeXu/ForgeGradleOffline/tags)）~~
 
-### 国内相关资料
-> 有删除线的条目可能已有更优秀的资料，或存在误导、内容欠缺的问题，仅供参考。
+### 简体中文资源
+> 有删除线的条目可能已有更优秀的资源，或存在误导、内容欠缺的问题，仅供参考。
 
 - [【1.18.2】基于Forge的Datagen教程](https://www.mcbbs.net/thread-1389169-1-1.html)（[备用链接](https://skyinr.github.io/DatagenBook/#/zh-cn/)）
 - [聊聊 Forge 工具链](https://www.mcbbs.net/thread-1387937-1-1.html)（[备用链接](https://izzel.io/2022/09/07/forge-toolchain-teardown/)）
@@ -173,8 +173,7 @@
 - ~~[【1.8.9】白玉楼之梦(szszss的博客)](http://blog.hakugyokurou.net/?page_id=126)~~
 - ~~[【1.7.10】261Day](https://www.261day.com/minecraft-forge%E6%95%99%E7%A8%8B/)~~
 
-### 国外相关资料
-由于没有详细的阅读过，不做评论，但大都全面，非常推荐外语水平好的同学前去阅读。排名依照支持版本先后排序。
+### 其他语言资源
 - [【1.16-1.17】【非官方】Forge社区百科](https://forge.gemwire.uk/)
 - [【1.16.4-1.12】【Youtube】TurtyWurty的模组开发视频教程](https://www.youtube.com/channel/UCicAXLV4w2X6bn2EuM4To4w)
 - [【1.12+】McJty的模组开发教程](https://wiki.mcjty.eu/modding/index.php?title=Main_Page)
@@ -223,6 +222,7 @@
 
 #### Mod Coder Pack
 - [查询MCP名与SRG名](https://mcp.thiakil.com/)
+- [Linkie 映射表查询](https://linkie.shedaniel.me/mappings)
 - [Linkie Discord群组（映射表查询机器人）](https://discord.gg/sCVXYXVcC3)([指令列表](https://github.com/linkie/linkie-discord/wiki/Commands))
 - [MCP-Reborn（MCP 1.13+）](https://github.com/Hexeption/MCP-Reborn)
 - [MCPConfig的发布页](http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp_config/)
@@ -258,8 +258,8 @@
 ### [Spigot官方论坛插件开发讨论版块](https://www.spigotmc.org/forums/spigot-plugin-development.52/)
 很多问题都能在这里解决。
 
-### 国内相关资料
-> 有删除线的条目可能已有更优秀的资料，或存在误导、内容欠缺的问题，仅供参考。
+### 简体中文资源
+> 有删除线的条目可能已有更优秀的资源，或存在误导、内容欠缺的问题，仅供参考。
 
 - [聊聊 PaperAPI 提供的自定义生物 AI 系统](https://www.mcbbs.net/thread-1285671-1-1.html)
 - [使用 PersistentDataContainer 快速添加自定义数据](https://www.mcbbs.net/thread-1248632-1-1.html)
@@ -321,7 +321,8 @@
 
 ### [官方示例模组仓库](https://github.com/FabricMC/fabric-example-mod)
 
-### 国内相关资料
+### 简体中文资源
+- [Linkie 映射表查询](https://linkie.shedaniel.me/mappings)
 - [在自己的Mod里添加线缆网络！](https://www.mcbbs.net/thread-1385476-1-1.html)
 - [FabricLoomCN-加速你的 fabric 模组依赖拉取以及环境搭建](https://www.mcbbs.net/thread-1239261-1-1.html)
 - [由现象到本质的Minecraft源码注入艺术](https://www.mcbbs.net/thread-1205392-1-1.html)
@@ -349,7 +350,7 @@
 
 ### [官方JavaDoc](https://jd.spongepowered.org/7.2.0/)
 
-### 国内相关资料
+### 简体中文资源
 - [Minecraft 服务端权限上下文系统及其应用](https://www.mcbbs.net/thread-1007917-1-1.html)
 
 ## 数据包开发
@@ -454,7 +455,7 @@ Java开发的Minecraft基岩版服务端。
 
 ### [PocketMine插件开发中文教程](http://www.mcbbs.net/thread-410243-1-1.html)
 
-### PocketMine其他插件开发教程
+### 简体中文资源
 - [新API的部分事物的讲解](http://www.mcbbs.net/thread-288333-1-1.html)
 
 </details>
