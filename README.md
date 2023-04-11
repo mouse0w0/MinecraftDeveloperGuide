@@ -118,7 +118,7 @@
 
 ## Forge模组开发
 
-### [【1.16】Boson 1.16 Mod 开发教程](https://boson.v2mcdev.com/)
+### [【1.16】Boson 1.16 模组开发教程](https://boson.v2mcdev.com/)
 
 ### [【1.12.2】Harbinger Forge 模组开发指南](https://harbinger.covertdragon.team/)
 
@@ -140,6 +140,9 @@
 ### 简体中文资源
 > 有删除线的条目可能已有更优秀的资源，或存在误导、内容欠缺的问题，仅供参考。
 
+- [【1.18.2】HoloJaneway 模组开发教程](https://holojaneway.uss-shenzhou.cn/holojaneway)
+- [【1.18.x】正山小种 - Forge 模组开发指南](https://www.teacon.cn/xiaozhong/1.18.x)
+- [【1.18】秦千久的模组开发教程](https://tt432.github.io/ModdingTutorial118)
 - [【1.18.2】基于Forge的Datagen教程](https://www.mcbbs.net/thread-1389169-1-1.html)（[备用链接](https://skyinr.github.io/DatagenBook/#/zh-cn/)）
 - [聊聊 Forge 工具链](https://www.mcbbs.net/thread-1387937-1-1.html)（[备用链接](https://izzel.io/2022/09/07/forge-toolchain-teardown/)）
 - [手把手Mixin+Forge开发示例，从开发环境配置到mod发布](https://www.mcbbs.net/thread-1386942-1-1.html)
