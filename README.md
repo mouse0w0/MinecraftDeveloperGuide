@@ -424,8 +424,8 @@ Java开发的Minecraft基岩版服务端。
 - [【非官方】我的世界基岩版文档](https://bedrock.dev/zh)
 
 ## 网易基岩版开发
-- [我的世界创造者计划官方网站](https://mc.163.com/dev/index.html)
-- [技术手册](https://mc.163.com/dev/mcmanual/mc-dev/mcdocs)（[旧版本](https://mc.163.com/mcstudio/mc-dev/)）
+- [网易我的世界开发者官网](https://mc.163.com/dev/index.html)
+- [网易我的世界开发指南](https://mc.163.com/dev/guide.html)（[旧版本](https://mc.163.com/mcstudio/mc-dev/)）
 
 ## 光影包开发
 > 目前本条目仍在建设中，欢迎各位前往相关[Issue](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/13)提交意见建议。
