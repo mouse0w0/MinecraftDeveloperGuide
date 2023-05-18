@@ -138,7 +138,7 @@
 - ~~[【1.12.2+】FledgeXu的MDK离线包](https://v2mcdev.com/t/topic/249)（[Github](https://github.com/FledgeXu/ForgeGradleOffline/tags)）~~
 
 ### 简体中文资源
-> 有删除线的条目可能已有更优秀的资源，或存在误导、内容欠缺的问题，仅供参考。
+> 有删除线的条目可能已有更优秀的资源或已过时，或存在误导、内容欠缺的问题，仅供参考。
 
 - [【1.18.2】HoloJaneway 模组开发教程](https://holojaneway.uss-shenzhou.cn/holojaneway)
 - [【1.18.x】正山小种 - Forge 模组开发指南](https://www.teacon.cn/xiaozhong/1.18.x)
@@ -235,7 +235,6 @@
 
 #### Parchment
 > Minecraft 1.16.5+ 第三方反混淆表
-
 - [入门指南](https://parchmentmc.org/docs/getting-started)
 - [Github](https://github.com/ParchmentMC/Parchment)
 
@@ -262,8 +261,7 @@
 很多问题都能在这里解决。
 
 ### 简体中文资源
-> 有删除线的条目可能已有更优秀的资源，或存在误导、内容欠缺的问题，仅供参考。
-
+> 有删除线的条目可能已有更优秀的资源或已过时，或存在误导、内容欠缺的问题，仅供参考。
 - [聊聊 PaperAPI 提供的自定义生物 AI 系统](https://www.mcbbs.net/thread-1285671-1-1.html)
 - [使用 PersistentDataContainer 快速添加自定义数据](https://www.mcbbs.net/thread-1248632-1-1.html)
 - [关于 ProtocolLib 监听系统的使用与研究](https://www.mcbbs.net/thread-1248152-1-1.html)
@@ -279,7 +277,6 @@
 - [Scoreboard教程](https://www.mcbbs.net/thread-897858-1-1.html)
 - [创建高版本自定义实体，自定义方块原理与应用](https://www.mcbbs.net/thread-966358-1-1.html)
 - [如何问玩家“吾与徐公孰美？”](https://www.mcbbs.net/thread-958674-1-1.html)
-- [使用BlockData API来操作Sign](http://www.mcbbs.net/thread-860856-1-1.html)
 - [1.13+ 中 Forge 与 Bukkit 的通信](http://www.mcbbs.net/thread-873219-1-1.html)
 - [ProtocolLib 教程](http://www.mcbbs.net/thread-568714-1-1.html)
 - [Placeholder 教程](http://www.mcbbs.net/thread-570703-1-1.html)
@@ -289,7 +286,6 @@
 - [BukkitAPI 1.10->1.11改动介绍](http://www.mcbbs.net/thread-648659-1-1.html)
 - [在使用NMS的同时支持多个版本](http://www.mcbbs.net/thread-694224-1-1.html)
 - [自定义物品模型[1.9+]](http://www.mcbbs.net/thread-694674-1-1.html)
-- [编辑，获取并使用木牌](http://www.mcbbs.net/thread-697373-1-1.html)
 - [如何给物品增加NBT数据](http://www.mcbbs.net/thread-697478-1-1.html)
 - [自定义交互式书本](http://www.mcbbs.net/thread-697788-1-1.html)
 - [在插件通过发包(ProtocolLib)打开牌子界面(Sign GUI)](http://www.mcbbs.net/thread-706491-1-1.html)
@@ -300,7 +296,6 @@
 - [Bukkit Conversation API](http://www.mcbbs.net/thread-619632-1-1.html)
 - [如何在JavaIDE上调试你的插件](http://www.mcbbs.net/thread-627399-1-1.html)
 - [Pathfinder 实体AI教程](http://www.mcbbs.net/thread-775757-1-1.html)
-- [Enchantment API 教程](http://www.mcbbs.net/thread-782859-1-1.html)
 - [插件使用MySQL数据库](http://www.mcbbs.net/thread-783267-1-1.html)
 - [插件粒子特效教程](http://www.mcbbs.net/thread-837600-1-1.html)([备用链接](https://www.jianshu.com/p/cf267acfe719))
 - [ItemMeta 使用教程](http://www.mcbbs.net/thread-782974-1-1.html)
@@ -311,6 +306,8 @@
 - ~~[810587921的插件开发教程](http://www.mcbbs.net/thread-283190-1-1.html)~~
 - ~~[Day's Bukkit插件开发教程](http://www.mcbbs.net/thread-439856-1-1.html)~~
 - ~~[wyt的Bukkit插件开发教程](http://www.mcbbs.net/thread-614388-1-1.html)~~
+- ~~[编辑，获取并使用木牌](http://www.mcbbs.net/thread-697373-1-1.html)~~
+- ~~[Enchantment API 教程](http://www.mcbbs.net/thread-782859-1-1.html)~~
 
 ## Fabric模组开发
 
