@@ -281,7 +281,6 @@
 - [ProtocolLib 教程](http://www.mcbbs.net/thread-568714-1-1.html)
 - [Placeholder 教程](http://www.mcbbs.net/thread-570703-1-1.html)
 - [Vault API 翻译](http://www.mcbbs.net/thread-615396-1-1.html)
-- [[插件NMS教程]PathfinderGoal](http://www.mcbbs.net/thread-682004-1-1.html)
 - [如何利用Maven来管理你的插件](http://www.mcbbs.net/thread-711754-1-1.html)
 - [BukkitAPI 1.10->1.11改动介绍](http://www.mcbbs.net/thread-648659-1-1.html)
 - [在使用NMS的同时支持多个版本](http://www.mcbbs.net/thread-694224-1-1.html)
