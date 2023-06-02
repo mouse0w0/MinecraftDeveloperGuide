@@ -3,7 +3,7 @@
 
 **点击右上方的“Watch”按钮以实时获取中文指南的更新情况，点击右上方“Star”按钮以支持中文指南的编撰。**
 
-**欢迎各位[在此](https://github.com/Mouse0w0/MinecraftDeveloperGuide/issues/new?template=request.md)提交各类我的世界开发相关教程、资料、文档、类库。**
+**欢迎各位[在此](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/new?assignees=&labels=&projects=&template=request.yml)提交各类我的世界开发相关教程、资料、文档、类库。**
 
 ## 目录
 - [提问的方法](#提问的方法)
