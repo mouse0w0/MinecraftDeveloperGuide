@@ -262,6 +262,7 @@
 
 ### 简体中文资源
 > 有删除线的条目可能已有更优秀的资源或已过时，或存在误导、内容欠缺的问题，仅供参考。
+- [事件监听大典 : Bukkit API 文档中文翻译](https://www.mcbbs.net/thread-1439605-1-1.html)（[备用链接](https://william-shi233.gitbook.io/event-listeners/)）
 - [聊聊 PaperAPI 提供的自定义生物 AI 系统](https://www.mcbbs.net/thread-1285671-1-1.html)
 - [使用 PersistentDataContainer 快速添加自定义数据](https://www.mcbbs.net/thread-1248632-1-1.html)
 - [关于 ProtocolLib 监听系统的使用与研究](https://www.mcbbs.net/thread-1248152-1-1.html)
