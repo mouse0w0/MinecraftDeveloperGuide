@@ -61,6 +61,8 @@
 
 ### [我的世界中文论坛开发教程索引贴](http://www.mcbbs.net/thread-54579-1-1.html)
 
+### [TeaCon模组开发茶会 —— 线上Minecraft模组开发大赛](https://www.teacon.cn/)
+
 ### [V2我的世界开发者论坛](https://www.v2mcdev.com/)
 
 ### 其他开发资料
@@ -75,9 +77,10 @@
 - [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
 
 ### 国内开发交流群
-- **耗子的Minecraft开发讨论群: [345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)**
-- Bukkit/Spigot插件开发交流群: [914085636](https://jq.qq.com/?_wv=1027&k=FeUg8OUQ)
-- Sponge插件开发交流群: [613604130](https://jq.qq.com/?_wv=1027&k=52OlyJ7)
+- **耗子的Minecraft开发讨论群：[345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)**
+- **TeaCon模组开发茶会交流群：[721765118](https://jq.qq.com/?_wv=1027&k=7ttWYqJC)**
+- Bukkit/Spigot插件开发交流群：[914085636](https://jq.qq.com/?_wv=1027&k=FeUg8OUQ)
+- Sponge插件开发交流群：[613604130](https://jq.qq.com/?_wv=1027&k=52OlyJ7)
 
 ## Java基础
 
