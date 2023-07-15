@@ -76,8 +76,9 @@
 - [[调试辅助]JRebel - 给你+1s\|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
 - [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
 
-### 国内开发交流群
-- **耗子的Minecraft开发讨论群：[345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)**
+### 国内开发交流社群
+- 耗子的Minecraft开发讨论群：[345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)
+- Teacon模组开发茶会KOOK频道：[https://kook.teacon.cn/](https://kook.teacon.cn/)
 - Bukkit/Spigot插件开发交流群：[914085636](https://jq.qq.com/?_wv=1027&k=FeUg8OUQ)
 - Sponge插件开发交流群：[613604130](https://jq.qq.com/?_wv=1027&k=52OlyJ7)
 
