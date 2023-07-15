@@ -77,10 +77,10 @@
 - [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
 
 ### 国内开发交流社群
-- 耗子的Minecraft开发讨论群：[345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)
-- Teacon模组开发茶会KOOK频道：[https://kook.teacon.cn/](https://kook.teacon.cn/)
-- Bukkit/Spigot插件开发交流群：[914085636](https://jq.qq.com/?_wv=1027&k=FeUg8OUQ)
-- Sponge插件开发交流群：[613604130](https://jq.qq.com/?_wv=1027&k=52OlyJ7)
+- [Teacon模组开发茶会KOOK频道](https://kook.teacon.cn/)
+- [耗子的Minecraft开发讨论Q群：345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)
+- [Bukkit/Spigot插件开发交流Q群：[914085636](https://jq.qq.com/?_wv=1027&k=FeUg8OUQ)
+- [Sponge插件开发交流Q群：[613604130](https://jq.qq.com/?_wv=1027&k=52OlyJ7)
 
 ## Java基础
 
