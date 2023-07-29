@@ -435,10 +435,14 @@ Java开发的Minecraft基岩版服务端。
 
 ### [我的世界图形学社区文档](https://mgcd.hypercol.com/)
 
-### 其他资源
+### 简体中文资源
 - [高清修复OptiFine \| 官方帮助文档翻译](https://www.mcbbs.net/thread-896135-1-1.html)（[备用链接](http://sqwatermark.com/resguide/optifinedoc/)）
 - [《学习OpenGL》中文翻译](https://learnopengl-cn.github.io/)
 - [GAMES101-现代计算机图形学入门-闫令琪](https://www.bilibili.com/video/BV1X7411F744)
+
+### 其它语言资源
+- [saada2006的我的世界着色器教程](https://saada2006.github.io/minecraft-shader-tutorials/)（[源代码](https://github.com/saada2006/MinecraftShaderProgramming)）
+- [OpenGL官方规范文档和参考文档](https://registry.khronos.org/OpenGL/index_gl.php)
 
 ## 过时开发资源
 <details>
