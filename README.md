@@ -443,6 +443,7 @@ Java开发的Minecraft基岩版服务端。
 ### 其它语言资源
 - [saada2006的我的世界着色器教程](https://saada2006.github.io/minecraft-shader-tutorials/)（[源代码](https://github.com/saada2006/MinecraftShaderProgramming)）
 - [OpenGL官方规范文档和参考文档](https://registry.khronos.org/OpenGL/index_gl.php)
+- [shaderLABS着色器包交流Discord社区](https://discordapp.com/invite/F4BtNAc)
 
 ## 过时开发资源
 <details>
