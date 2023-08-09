@@ -236,6 +236,7 @@
 - [MCPConfig的发布页](http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp_config/)
 - [MCPConfig的Github仓库](https://github.com/MinecraftForge/MCPConfig)
 - [Mod Coder Pack（1.7.10-1.12）](http://www.modcoderpack.com/)
+- [Mod Coder Pack的Minecraft Wiki历史留档（a0.2.1-1.12）](https://minecraft.fandom.com/wiki/Tutorials/Programs_and_editors/Mod_Coder_Pack)
 - [RetroMCP（1.5.2及以前版本）](https://github.com/MCPHackers/RetroMCP-Java)
 - ~~[MCPBot Data Exports](http://export.mcpbot.bspk.rs/)~~
 
