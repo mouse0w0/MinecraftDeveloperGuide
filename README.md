@@ -115,6 +115,8 @@
 > 进一步提高Java编程能力。
 
 - [Google Java 编程风格指南](http://hawstein.com/2014/01/20/google-java-style/)
+- [设计模式](https://java-design-patterns.com/zh/)
+- [编程原则](https://mouse0w0.github.io/2018/10/04/Programming-Principles/)
 - 大话设计模式（[豆瓣](https://book.douban.com/subject/2334288/)）
 - Effective Java（[豆瓣](https://book.douban.com/subject/30412517/)）
 - 代码整洁之道（[豆瓣](https://book.douban.com/subject/4199741/)）
