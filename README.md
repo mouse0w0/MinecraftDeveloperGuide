@@ -148,9 +148,11 @@
 ### 简体中文资源
 > 有删除线的条目可能已有更优秀的资源或已过时，或存在误导、内容欠缺的问题，仅供参考。
 
-- [【1.18.2】HoloJaneway 模组开发教程](https://holojaneway.uss-shenzhou.cn/holojaneway)
+- [【1.19】【Bilibili】Flandre芙兰的Forge模组开发视频教程](https://www.bilibili.com/video/BV1mV411u73D)
+- [【1.18.2】HoloJaneway模组开发教程](https://holojaneway.uss-shenzhou.cn/holojaneway)
 - [【1.18】秦千久的模组开发教程](https://tt432.github.io/ModdingTutorial118)
 - [【1.18.2】基于Forge的Datagen教程](https://www.mcbbs.net/thread-1389169-1-1.html)（[备用链接](https://skyinr.github.io/DatagenBook/#/zh-cn/)）
+- [【1.16.5】【Bilibili】Flandre芙兰的Forge模组开发视频教程](https://www.bilibili.com/video/BV1WM4y1K7D5)
 - [聊聊 Forge 工具链](https://www.mcbbs.net/thread-1387937-1-1.html)（[备用链接](https://izzel.io/2022/09/07/forge-toolchain-teardown/)）
 - [手把手Mixin+Forge开发示例，从开发环境配置到mod发布](https://www.mcbbs.net/thread-1386942-1-1.html)
 - [Cobalt - 渲染浅析文档](https://www.mcbbs.net/thread-1377252-1-1.html)（[备用链接](https://zomb-676.github.io/CobaltDocs)）
@@ -331,6 +333,7 @@
 ### [官方示例模组仓库](https://github.com/FabricMC/fabric-example-mod)
 
 ### 简体中文资源
+- [【1.20.1】【Bilibili】Flandre芙兰的Fabric模组开发视频教程](https://www.bilibili.com/video/BV1Kj411f7Zt)
 - [Linkie 映射表查询](https://linkie.shedaniel.me/mappings)
 - [在自己的Mod里添加线缆网络！](https://www.mcbbs.net/thread-1385476-1-1.html)
 - [FabricLoomCN-加速你的 fabric 模组依赖拉取以及环境搭建](https://www.mcbbs.net/thread-1239261-1-1.html)
