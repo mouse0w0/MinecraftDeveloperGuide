@@ -239,7 +239,7 @@
 - [MCPConfig的发布页](http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp_config/)
 - [MCPConfig的Github仓库](https://github.com/MinecraftForge/MCPConfig)
 - [Mod Coder Pack（1.7.10-1.12）](http://www.modcoderpack.com/)
-- [Mod Coder Pack的Minecraft Wiki历史留档（a0.2.1-1.12）](https://minecraft.fandom.com/wiki/Tutorials/Programs_and_editors/Mod_Coder_Pack)
+- [Mod Coder Pack的Minecraft Wiki历史留档（a0.2.1-1.12）](https://minecraft.wiki/w/Tutorials/Programs_and_editors/Mod_Coder_Pack)
 - [RetroMCP（1.5.2及以前版本）](https://github.com/MCPHackers/RetroMCP-Java)
 - ~~[MCPBot Data Exports](http://export.mcpbot.bspk.rs/)~~
 
@@ -368,7 +368,7 @@
 ## 数据包开发
 ### 文档与教程
 - [Minecraft 原版模组入门教程](https://www.mcbbs.net/thread-784662-1-1.html)（[码云](https://zhangshenxing.gitee.io/vanillamodtutorial/)/[GitHub](https://zhangshenxing.gitee.io/vanillamodtutorial/)）
-- [数据包 - Minecraft Wiki](https://minecraft-zh.gamepedia.com/%E6%95%B0%E6%8D%AE%E5%8C%85)
+- [数据包 - Minecraft Wiki](https://zh.minecraft.wiki/w/%E6%95%B0%E6%8D%AE%E5%8C%85)
 
 ### 工具
 - [数据包生成器](https://misode.github.io/)
@@ -377,7 +377,7 @@
 
 ## Java版启动器开发
 ### 文档与教程
-- [编写启动器 - Minecraft Wiki](https://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B/%E7%BC%96%E5%86%99%E5%90%AF%E5%8A%A8%E5%99%A8)
+- [编写启动器 - Minecraft Wiki](https://zh.minecraft.wiki/w/%E6%95%99%E7%A8%8B/%E7%BC%96%E5%86%99%E5%90%AF%E5%8A%A8%E5%99%A8)
 - [KMCCC使用教程](https://www.mcbbs.net/thread-492606-1-1.html)
 - [JMCCC使用教程](https://www.mcbbs.net/thread-573154-1-1.html)
 - [rechalow的启动器开发教程](https://rechalow.github.io/lmaml)
@@ -417,7 +417,7 @@ Java开发的Minecraft基岩版服务端。
 
 ### [我的世界:基岩版创作者文档](https://docs.microsoft.com/en-us/minecraft/creator/)
 
-### [我的世界中文Wiki“附加包（Add-Ons）”页面](https://minecraft-zh.gamepedia.com/%E9%99%84%E5%8A%A0%E5%8C%85)
+### [我的世界中文Wiki“附加包（Add-Ons）”页面](https://zh.minecraft.wiki/w/%E9%99%84%E5%8A%A0%E5%8C%85)
 
 ### [边做边学：从零开始制作一个矿石作物 Addons](https://www.mcbbs.net/thread-1326836-1-1.html)
 
