@@ -374,7 +374,7 @@
 ### 工具
 - [数据包生成器](https://misode.github.io/)
 - [大憨批 —— VSCode 数据包函数编辑插件](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server)
-- [MCreator](https://mcreator.net/)（[MCBBS](https://www.mcbbs.net/thread-280267-1-1.html)）
+- [MCreator](https://mcreator.net/)
 
 ## Java版启动器开发
 ### 文档与教程
