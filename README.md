@@ -422,7 +422,7 @@ Java开发的Minecraft基岩版服务端。
 
 ### [边做边学：从零开始制作一个矿石作物 Addons](https://www.mcbbs.net/thread-1326836-1-1.html)
 
-### [【非官方】我的世界基岩版开发百科](https://wiki.bedev.cn/)
+### [【非官方】我的世界基岩版开发百科](https://wiki.mcbe-dev.net/)
 
 ### [【非官方】Bedrock Wiki](https://wiki.bedrock.dev/)
 
