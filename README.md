@@ -398,7 +398,7 @@
 
 ### LiteLoaderBDS
 - [官方文档](https://docs.litebds.com/)
-- [官方论坛](https://bbs.litebds.com/)
+- [官方论坛](https://bbs.liteldev.com/)
 - [官方仓库](https://github.com/LiteLDev/LiteLoaderBDSv2)
 
 ### 其他资源
