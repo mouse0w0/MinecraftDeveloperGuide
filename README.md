@@ -396,19 +396,10 @@
 
 ### [官方服务端](https://www.minecraft.net/en-us/download/server/bedrock)
 
-### Cloudburst Nukkit
-Java开发的Minecraft基岩版服务端。
-- [官方主页](https://cloudburstmc.org)
-- [官方Wiki](https://cloudburstmc.org/wiki/nukkit)
-- [官方论坛](https://cloudburstmc.org/forums/)
-- [JavaDoc](https://ci.opencollab.dev/job/NukkitX/job/Nukkit/job/master/javadoc/overview-summary.html)
-- [官方仓库](https://github.com/CloudburstMC/Nukkit)
-
 ### LiteLoaderBDS
-- [官方主页](https://www.litebds.com/)
 - [官方文档](https://docs.litebds.com/)
-- [官方论坛](https://forum.litebds.com/)
-- [官方仓库](https://github.com/LiteLDev/LiteLoaderBDS)
+- [官方论坛](https://bbs.litebds.com/)
+- [官方仓库](https://github.com/LiteLDev/LiteLoaderBDSv2)
 
 ### 其他资源
 - [基岩版服务端软件 - Minecraft Servers Wiki](https://minecraftservers.fandom.com/wiki/Bedrock_Edition_server_software)
@@ -465,10 +456,18 @@ Java开发的Minecraft基岩版服务端。
 ### [官方源码仓库](http://develop.liteloader.com/public)
 
 ## Nukkit插件开发
-
+Java开发的Minecraft基岩版服务端。
 ### [Nukkit插件中文开发教程](http://www.mcbbs.net/thread-552265-1-1.html)
 
 ### [Nukkit官方论坛插件开发讨论板块](https://forums.nukkit.io/forums/plugin-development.7/)
+
+## Cloudburst Nukkit
+Java开发的Minecraft基岩版服务端。
+- [官方主页](https://cloudburstmc.org)
+- [官方Wiki](https://cloudburstmc.org/wiki/nukkit)
+- [官方论坛](https://cloudburstmc.org/forums/)
+- [JavaDoc](https://ci.opencollab.dev/job/NukkitX/job/Nukkit/job/master/javadoc/overview-summary.html)
+- [官方仓库](https://github.com/CloudburstMC/Nukkit)
 
 ## PocketMine插件开发
 
