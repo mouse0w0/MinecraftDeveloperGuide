@@ -149,6 +149,8 @@
 ### 简体中文资源
 > 有删除线的条目可能已有更优秀的资源或已过时，或存在误导、内容欠缺的问题，仅供参考。
 
+- [【1.20】深入浅出高版本渲染系统 —— GuiComponent的消逝与GuiGraphics的新生](https://www.mcbbs.net/thread-1477210-1-1.html)
+- [【1.20】Polonium - 1.20 实体进阶教程](https://www.mcbbs.net/thread-1457137-1-1.html)（[备用链接](https://lych.top/polonium/)）
 - [【1.19】【Bilibili】Flandre芙兰的Forge模组开发视频教程](https://www.bilibili.com/video/BV1mV411u73D)
 - [【1.18.2】HoloJaneway模组开发教程](https://holojaneway.uss-shenzhou.cn/holojaneway)
 - [【1.18】秦千久的模组开发教程](https://tt432.github.io/ModdingTutorial118)
