@@ -275,6 +275,13 @@
 
 ### 简体中文资源
 > 有删除线的条目可能已有更优秀的资源或已过时，或存在误导、内容欠缺的问题，仅供参考。
+- [正确使用PluginManager#registerEvent的方式](https://www.mcbbs.net/thread-1472122-1-1.html)
+- [监听“玩家放置末影水晶”的方式](https://www.mcbbs.net/thread-1471726-1-1.html)
+- [监听“玩家使用盾牌成功格挡伤害”的方式](https://www.mcbbs.net/thread-1471663-1-1.html)
+- [NBT库获取ItemStack的NBT副本的意义](https://www.mcbbs.net/thread-1471572-1-1.html)
+- [调试小技巧——Bukkit中构建后自动打开服务端](https://www.mcbbs.net/thread-1456687-1-1.html)
+- [通过NMS序列化ItemStack 浅谈序列化复杂实体类](https://www.mcbbs.net/thread-1456449-1-1.html)
+- [图形学基础与MC插件开发 ~ 几乎完美的范围挖掘算法](https://www.mcbbs.net/thread-1326547-1-1.html)（[备用链接](https://www.iseason.top/mc-scope-mining/)）
 - [事件监听大典 : Bukkit API 文档中文翻译](https://www.mcbbs.net/thread-1439605-1-1.html)（[备用链接](https://william-shi233.gitbook.io/event-listeners/)）
 - [聊聊 PaperAPI 提供的自定义生物 AI 系统](https://www.mcbbs.net/thread-1285671-1-1.html)
 - [使用 PersistentDataContainer 快速添加自定义数据](https://www.mcbbs.net/thread-1248632-1-1.html)
