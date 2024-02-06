@@ -408,7 +408,7 @@
 ### LeviLamina (原LiteLoaderBDS)
 - [官方文档](https://levilamina.liteldev.com/zh/)
 - [官方仓库](https://github.com/LiteLDev/LeviLamina)
-- [Legacy Script Engine](https://lse.liteldev.com/)
+- [LegacyScriptEngine - 在LeviLamina上运行LLSE插件](https://lse.liteldev.com/)
 - [旧版官方仓库](https://github.com/LiteLDev/LiteLoaderBDSv2)
 
 ### 其他资源
