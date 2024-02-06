@@ -405,10 +405,11 @@
 
 ### [官方服务端](https://www.minecraft.net/en-us/download/server/bedrock)
 
-### LiteLoaderBDS
-- [官方文档](https://docs.litebds.com/)
-- [官方论坛](https://bbs.liteldev.com/)
-- [官方仓库](https://github.com/LiteLDev/LiteLoaderBDSv2)
+### LeviLamina (原LiteLoaderBDS)
+- [官方文档](https://levilamina.liteldev.com/zh/)
+- [官方仓库](https://github.com/LiteLDev/LeviLamina)
+- [LegacyScriptEngine - 在LeviLamina上运行LLSE插件](https://lse.liteldev.com/)
+- [旧版官方仓库](https://github.com/LiteLDev/LiteLoaderBDSv2)
 
 ### 其他资源
 - [基岩版服务端软件 - Minecraft Servers Wiki](https://minecraftservers.fandom.com/wiki/Bedrock_Edition_server_software)
