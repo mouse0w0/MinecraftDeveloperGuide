@@ -431,7 +431,7 @@
 - [下载Minecraft官方资源包](https://aka.ms/resourcepacktemplate)
 - [下载Minecraft官方行为包](https://aka.ms/behaviorpacktemplate)
 - [基岩版着色器材质文件概述](https://github.com/NovaMods/nova-renderer/wiki/Bedrock-Shaders-Simple-Material-File-Walkthrough)
-- [基岩版Gametest框架开发](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/)
+- [基岩版脚本API参考文档](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/)
 - [【非官方】我的世界基岩版文档](https://bedrock.dev/zh)
 
 ## 网易基岩版开发
