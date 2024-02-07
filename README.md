@@ -213,6 +213,16 @@
 - [【1.7.10】EMX的教程](https://emxtutorials.wordpress.com/)
 - ~~[附属模组开发工作空间设置](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development/2358564-how-do-i-use-another-mod-as-a-dependency-for-my)~~
 
+### 模组迁移指南
+- [1.15 -> 1.16 模组迁移指南](https://moddingtutorials.org/1.16.5/updating)
+- [1.16.5 -> 1.17.1 模组迁移指南](https://moddingtutorials.org/1.18.2/updating-to-1.17)
+- [1.17.1 -> 1.18.2 模组迁移指南](https://moddingtutorials.org/1.18.2/updating)
+- [1.18.2 -> 1.19.2 模组迁移指南](https://moddingtutorials.org/1.19.2/updating)
+- [1.19.2 -> 1.19.3 模组迁移指南](https://gist.github.com/ChampionAsh5357/c21724bafbc630da2ed8899fe0c1d226)
+- [1.19.3 -> 1.19.4 模组迁移指南](https://gist.github.com/ChampionAsh5357/163a75e87599d19ee6b4b879821953e8)
+- [1.19.4 -> 1.20 模组迁移指南](https://gist.github.com/ChampionAsh5357/cf818acc53ffea6f4387fe28c2977d56)
+- [ForgeGradle 5 -> 6 迁移指南](https://gist.github.com/ChampionAsh5357/98b08c117cb2057d8029a8919c378a4c)
+
 ### 模组示例代码
 - [【1.20.1-1.16.5】Kaupenjoe的模组示例代码](https://github.com/Tutorials-By-Kaupenjoe)
 - [【1.19.3-1.18.1】McJty的模组示例代码](https://github.com/McJty/TutorialV3)
