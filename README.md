@@ -149,7 +149,7 @@
 ### 简体中文资源
 > 有删除线的条目可能已有更优秀的资源或已过时，或存在误导、内容欠缺的问题，仅供参考。
 
-- [【1.20】深入浅出高版本渲染系统 —— GuiComponent的消逝与GuiGraphics的新生](https://www.mcbbs.net/thread-1477210-1-1.html)
+- [【1.20】深入浅出高版本渲染系统 —— GuiComponent的消逝与GuiGraphics的新生](https://www.mcbbs.net/thread-1477210-1-1.html)（[备用链接](https://turou.fun/render-tutor/)）
 - [【1.20】Polonium - 1.20 实体进阶教程](https://www.mcbbs.net/thread-1457137-1-1.html)（[备用链接](https://lych.top/polonium/)）
 - [【1.19】【Bilibili】Flandre芙兰的Forge模组开发视频教程](https://www.bilibili.com/video/BV1mV411u73D)
 - [【1.18.2】HoloJaneway模组开发教程](https://holojaneway.uss-shenzhou.cn/holojaneway)
@@ -159,13 +159,13 @@
 - [聊聊 Forge 工具链](https://www.mcbbs.net/thread-1387937-1-1.html)（[备用链接](https://izzel.io/2022/09/07/forge-toolchain-teardown/)）
 - [手把手Mixin+Forge开发示例，从开发环境配置到mod发布](https://www.mcbbs.net/thread-1386942-1-1.html)
 - [Cobalt - 渲染浅析文档](https://www.mcbbs.net/thread-1377252-1-1.html)（[备用链接](https://zomb-676.github.io/CobaltDocs)）
-- [由实例上手快速开发多方块结构](https://www.mcbbs.net/thread-1297490-1-1.html)
+- [由实例上手快速开发多方块结构](https://www.mcbbs.net/thread-1297490-1-1.html)（[备用链接](https://turou.fun/multiblock-tutor/)）
 - [再析世界生成：生物群系](https://www.mcbbs.net/thread-1302344-1-1.html)（[备用链接](http://yaossg.com/biome/index.html)）
 - [聊聊生物和 AI](https://www.mcbbs.net/thread-1285618-1-1.html)（[备用链接](https://izzel.io/2021/12/19/living-things/)）
 - [Forge安装到导出详细入门教程\|各种报错解决方法](https://www.mcbbs.net/thread-1193768-1-3.html)
-- [从实例的角度出发浅谈TileEntitySpecialRenderer](https://www.mcbbs.net/thread-1165415-1-1.html)
-- [[举二反三深入模组开发 第二节] 彩虹桥法杖 + 建筑小助手 = ?](https://www.mcbbs.net/thread-1152523-1-1.html)
-- [[举二反三深入模组开发 第一节] 息壤 + 午餐盒 = ?](https://www.mcbbs.net/thread-1009711-1-1.html)
+- [从实例的角度出发浅谈TileEntitySpecialRenderer](https://www.mcbbs.net/thread-1165415-1-1.html)（[备用链接](https://turou.fun/legacy-render-tutor/)）
+- [[举二反三深入模组开发 第二节] 彩虹桥法杖 + 建筑小助手 = ?](https://www.mcbbs.net/thread-1152523-1-1.html)（[备用链接](https://turou.fun/analogy/rainbow-gadgets/)）
+- [[举二反三深入模组开发 第一节] 息壤 + 午餐盒 = ?](https://www.mcbbs.net/thread-1009711-1-1.html)（[备用链接](https://turou.fun/analogy/hexang-bento/)）
 - [【1.15.2】自定义发光效果——浅谈着色器和帧缓冲的运用](https://blog.teacon.org/shaders-and-framebuffers.html)
 - [【1.15】Neutrino 1.15 Mod 开发教程](https://neutrino.v2mcdev.com/)
 - [【1.14+】Forge能量系统简述](https://www.mcbbs.net/thread-1034965-1-1.html)
@@ -347,7 +347,7 @@
 - [Linkie 映射表查询](https://linkie.shedaniel.me/mappings)
 - [在自己的Mod里添加线缆网络！](https://www.mcbbs.net/thread-1385476-1-1.html)
 - [FabricLoomCN-加速你的 fabric 模组依赖拉取以及环境搭建](https://www.mcbbs.net/thread-1239261-1-1.html)
-- [由现象到本质的Minecraft源码注入艺术](https://www.mcbbs.net/thread-1205392-1-1.html)
+- [由现象到本质的Minecraft源码注入艺术](https://www.mcbbs.net/thread-1205392-1-1.html)（[备用链接](https://turou.fun/mixin-tutor/)）
 - [用EventLib简化fabric mod开发](https://www.mcbbs.net/thread-1030076-1-1.html)
 - [Leader——中文社区的一份Minecraft Fabric教程](https://www.mcbbs.net/thread-964580-1-1.html)
 - [Mixin官方Wiki中文翻译](http://mouse0w0.github.io/categories/Mixin/)
