@@ -19,7 +19,7 @@
 - [基岩版服务端开发](#基岩版服务端开发)
 - [基岩版Addons开发](#基岩版addons开发)
 - [网易基岩版开发](#网易基岩版开发)
-- [光影包开发](#光影包开发)
+- [着色器包开发](#着色器包开发)
 - [过时开发资源](#过时开发资源)
 - [版权声明](#版权声明)
 
@@ -461,7 +461,7 @@
 - [网易我的世界开发者官网](https://mc.163.com/dev/index.html)
 - [网易我的世界开发指南](https://mc.163.com/dev/guide.html)（[旧版本](https://mc.163.com/mcstudio/mc-dev/)）
 
-## 光影包开发
+## 着色器包开发
 > 目前本条目仍在建设中，欢迎各位前往相关[Issue](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/13)提交意见建议。
 
 ### [我的世界图形学社区文档](https://mgcd.hypercol.com/)
