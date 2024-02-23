@@ -362,7 +362,7 @@
 - [Leader——中文社区的一份Minecraft Fabric教程](https://www.mcbbs.net/thread-964580-1-1.html)
 - [Mixin官方Wiki中文翻译](http://mouse0w0.github.io/categories/Mixin/)
 
-## BungeeCord插件开发
+## BungeeCord插件
 
 ### [《BungeeCord插件开发》中文翻译](https://mouse0w0.github.io/BungeeCord-CN-Translation/)
 
