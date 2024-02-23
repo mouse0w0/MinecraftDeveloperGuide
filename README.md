@@ -9,18 +9,18 @@
 - [提问的方法](#提问的方法)
 - [常用网站与资源](#常用网站与资源)
 - [Java基础](#java基础)
-- [Forge模组开发](#forge模组开发)
-- [Bukkit/Spigot插件开发](#bukkitspigot插件开发)
-- [Fabric模组开发](#fabric模组开发)
-- [BungeeCord插件开发](#bungeecord插件开发)
-- [Sponge插件开发](#sponge插件开发)
-- [数据包开发](#数据包开发)
-- [Java版启动器开发](#java版启动器开发)
-- [基岩版服务端开发](#基岩版服务端开发)
-- [基岩版Addons开发](#基岩版addons开发)
-- [网易基岩版开发](#网易基岩版开发)
-- [着色器包开发](#着色器包开发)
-- [过时开发资源](#过时开发资源)
+- [Forge模组](#forge模组)
+- [Bukkit/Spigot插件](#bukkitspigot插件)
+- [Fabric模组](#fabric模组)
+- [BungeeCord插件](#bungeecord插件)
+- [Sponge插件](#sponge插件)
+- [数据包](#数据包)
+- [Java版启动发](#java版启动器)
+- [基岩版服务端](#基岩版服务端)
+- [基岩版Addons](#基岩版addons)
+- [网易基岩版](#网易基岩版)
+- [着色器包](#着色器包)
+- [过时资源](#过时资源)
 - [版权声明](#版权声明)
 
 ## 提问的方法
@@ -123,7 +123,7 @@
 - 代码整洁之道（[豆瓣](https://book.douban.com/subject/4199741/)）
 - 架构整洁之道（[豆瓣](https://book.douban.com/subject/30333919/)）
 
-## Forge模组开发
+## Forge模组
 
 ### [【1.19-1.18】正山小种 - Forge 模组开发指南](https://www.teacon.cn/xiaozhong)
 
@@ -266,7 +266,7 @@
 - [【1.12+】ForgeJavaDocs-NG](https://github.com/Nekoyue/ForgeJavaDocs-NG)
 - [【1.7.10-1.12.2】ForgeJavaDocs](https://skmedix.github.io/ForgeJavaDocs/)
 
-## Bukkit/Spigot插件开发
+## Bukkit/Spigot插件
 
 ### [tdiant的Bukkit插件开发教程](http://www.mcbbs.net/thread-808820-1-1.html)
 
@@ -340,7 +340,7 @@
 - ~~[编辑，获取并使用木牌](http://www.mcbbs.net/thread-697373-1-1.html)~~
 - ~~[Enchantment API 教程](http://www.mcbbs.net/thread-782859-1-1.html)~~
 
-## Fabric模组开发
+## Fabric模组
 
 ### [Fabric开发文档中文翻译](https://www.mcbbs.net/thread-904854-1-1.html)
 
@@ -372,7 +372,7 @@
 
 ### [BungeeCord官方论坛插件开发讨论板块](https://www.spigotmc.org/forums/bungeecord-plugin-development.23/)
 
-## Sponge插件开发
+## Sponge插件
 
 ### [官方网站](https://www.spongepowered.org/)
 
@@ -385,7 +385,7 @@
 ### 简体中文资源
 - [Minecraft 服务端权限上下文系统及其应用](https://www.mcbbs.net/thread-1007917-1-1.html)
 
-## 数据包开发
+## 数据包
 ### 文档与教程
 - [Minecraft 原版模组入门教程](https://www.mcbbs.net/thread-784662-1-1.html)（[码云](https://zhangshenxing.gitee.io/vanillamodtutorial/)/[GitHub](https://zhangshenxing.gitee.io/vanillamodtutorial/)）
 - [数据包 - Minecraft Wiki](https://zh.minecraft.wiki/w/%E6%95%B0%E6%8D%AE%E5%8C%85)
@@ -395,7 +395,7 @@
 - [大憨批 —— VSCode 数据包函数编辑插件](https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server)
 - [MCreator](https://mcreator.net/)
 
-## Java版启动器开发
+## Java版启动器
 ### 文档与教程
 - [编写启动器 - Minecraft Wiki](https://zh.minecraft.wiki/w/%E6%95%99%E7%A8%8B/%E7%BC%96%E5%86%99%E5%90%AF%E5%8A%A8%E5%99%A8)
 - [KMCCC使用教程](https://www.mcbbs.net/thread-492606-1-1.html)
@@ -410,7 +410,7 @@
 - [【C#】Square](https://github.com/baibao132/SquareMinecraftLauncherCore)
 - [【Python】minecraft-launcher-lib](https://minecraft-launcher-lib.readthedocs.io/en/latest/index.html)
 
-## 基岩版服务端开发
+## 基岩版服务端
 > 目前本条目仍在建设中，欢迎各位前往相关[Issue](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/35)提交意见建议。
 
 ### [官方服务端](https://www.minecraft.net/en-us/download/server/bedrock)
@@ -438,7 +438,7 @@
 - [基岩版服务端软件 - Minecraft Servers Wiki](https://minecraftservers.fandom.com/wiki/Bedrock_Edition_server_software)
 - [基岩版服务端软件 - Bedrock Wiki](https://wiki.bedrock.dev/servers/server-software.html)
 
-## 基岩版Addons开发
+## 基岩版Addons
 
 ### [我的世界:基岩版创作者文档](https://docs.microsoft.com/en-us/minecraft/creator/)
 
@@ -457,11 +457,11 @@
 - [基岩版脚本API参考文档](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/)
 - [【非官方】我的世界基岩版文档](https://bedrock.dev/zh)
 
-## 网易基岩版开发
+## 网易基岩版
 - [网易我的世界开发者官网](https://mc.163.com/dev/index.html)
 - [网易我的世界开发指南](https://mc.163.com/dev/guide.html)（[旧版本](https://mc.163.com/mcstudio/mc-dev/)）
 
-## 着色器包开发
+## 着色器包
 > 目前本条目仍在建设中，欢迎各位前往相关[Issue](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/13)提交意见建议。
 
 ### [我的世界图形学社区文档](https://mgcd.hypercol.com/)
@@ -476,11 +476,11 @@
 - [OpenGL官方规范文档和参考文档](https://registry.khronos.org/OpenGL/index_gl.php)
 - [shaderLABS着色器包交流Discord社区](https://discordapp.com/invite/F4BtNAc)
 
-## 过时开发资源
+## 过时资源
 <details>
 <summary>点击展开折叠内容</summary>
 
-## LiteLoader模组开发
+## LiteLoader模组
 
 ### [官方网站](http://www.liteloader.com/)
 
@@ -488,13 +488,13 @@
 
 ### [官方源码仓库](http://develop.liteloader.com/public)
 
-## Nukkit插件开发
+## Nukkit插件
 Java开发的Minecraft基岩版服务端。
 ### [Nukkit插件中文开发教程](http://www.mcbbs.net/thread-552265-1-1.html)
 
 ### [Nukkit官方论坛插件开发讨论板块](https://forums.nukkit.io/forums/plugin-development.7/)
 
-## PocketMine插件开发
+## PocketMine插件
 
 ### [PocketMine插件开发中文教程](http://www.mcbbs.net/thread-410243-1-1.html)
 
