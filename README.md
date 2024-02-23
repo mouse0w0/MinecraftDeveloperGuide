@@ -15,7 +15,7 @@
 - [BungeeCord插件](#bungeecord插件)
 - [Sponge插件](#sponge插件)
 - [数据包](#数据包)
-- [Java版启动发](#java版启动器)
+- [Java版启动器](#java版启动器)
 - [基岩版服务端](#基岩版服务端)
 - [基岩版Addons](#基岩版addons)
 - [网易基岩版](#网易基岩版)
