@@ -435,6 +435,7 @@
 - [官方仓库](https://github.com/bdsx/bdsx)
 
 ### 其他资源
+- [基岩版脚本API参考文档](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/)
 - [基岩版服务端软件 - Minecraft Servers Wiki](https://minecraftservers.fandom.com/wiki/Bedrock_Edition_server_software)
 - [基岩版服务端软件 - Bedrock Wiki](https://wiki.bedrock.dev/servers/server-software.html)
 
@@ -454,7 +455,6 @@
 - [下载Minecraft官方资源包](https://aka.ms/resourcepacktemplate)
 - [下载Minecraft官方行为包](https://aka.ms/behaviorpacktemplate)
 - [基岩版着色器材质文件概述](https://github.com/NovaMods/nova-renderer/wiki/Bedrock-Shaders-Simple-Material-File-Walkthrough)
-- [基岩版脚本API参考文档](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/)
 - [【非官方】我的世界基岩版文档](https://bedrock.dev/zh)
 
 ## 网易基岩版
