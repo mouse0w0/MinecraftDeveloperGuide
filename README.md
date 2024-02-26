@@ -246,7 +246,7 @@
 
 #### Mod Coder Pack
 - [查询MCP名与SRG名](https://mcp.thiakil.com/)
-- [Linkie 映射表查询](https://linkie.shedaniel.me/mappings)
+- [Linkie 映射表查询](https://linkie.shedaniel.dev/mappings)
 - [Linkie Discord群组（映射表查询机器人）](https://discord.gg/sCVXYXVcC3)([指令列表](https://github.com/linkie/linkie-discord/wiki/Commands))
 - [MCP-Reborn（1.13及以后版本）](https://github.com/Hexeption/MCP-Reborn)
 - [MCPConfig的发布页](http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp_config/)
