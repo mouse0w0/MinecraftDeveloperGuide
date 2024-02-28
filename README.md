@@ -1,6 +1,8 @@
 # 我的世界开发者中文指南
 ![](https://img.shields.io/badge/license-CC--BY--SA--4.0-green) ![](https://img.shields.io/github/stars/Mouse0w0/MinecraftDeveloperGuide) [![](https://img.shields.io/badge/%E7%A0%81%E4%BA%91-Gitee-red)](https://gitee.com/mirrors_Mouse0w0/MinecraftDeveloperGuide) 
 
+**MCBBS关站致使大量教程失效，恳请各位读者协助指南联系相关作者及时迁移教程。**
+
 **点击右上方的“Watch”按钮以实时获取中文指南的更新情况，点击右上方“Star”按钮以支持中文指南的编撰。**
 
 **欢迎各位[在此](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/new?assignees=&labels=&projects=&template=request.yml)提交各类我的世界开发相关教程、资料、文档、类库。**
