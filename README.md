@@ -269,9 +269,9 @@
 
 ## Bukkit/Spigot插件
 
-### [tdiant的Bukkit插件开发教程](http://www.mcbbs.net/thread-808820-1-1.html)
+### [tdiant的Bukkit插件开发教程](https://bdn.tdiant.net/)
 
-### [补订Rarity的Bukkit插件开发教程](https://www.mcbbs.net/thread-1454134-1-1.html)
+### [Rarity的Bukkit插件开发教程](https://github.com/Andy-K-Sparklight/PluginDiary)
 
 ### 官方教程
 - [新版本（现Spigot）](https://www.spigotmc.org/wiki/spigot/)
@@ -333,7 +333,6 @@
 - [自定义实体](http://www.mcbbs.net/thread-811096-1-1.html)
 - [聊天组件API——自定义你的聊天消息](http://www.mcbbs.net/thread-812136-1-1.html)
 - [如何让插件命令支持Tab自动补全](http://www.mcbbs.net/thread-818199-1-1.html)
-- ~~[Rarity的Bukkit插件开发教程](https://www.mcbbs.net/thread-1163259-1-1.html)~~
 - ~~(已于1.12弃用)Ebean数据库[(上)](http://www.mcbbs.net/thread-628118-1-1.html)[(下)](http://www.mcbbs.net/thread-636860-1-1.html)~~
 - ~~[810587921的插件开发教程](http://www.mcbbs.net/thread-283190-1-1.html)~~
 - ~~[Day's Bukkit插件开发教程](http://www.mcbbs.net/thread-439856-1-1.html)~~
