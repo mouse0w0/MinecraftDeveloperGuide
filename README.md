@@ -171,15 +171,15 @@
 - [[举二反三深入模组开发 第一节] 息壤 + 午餐盒 = ?](https://www.mcbbs.net/thread-1009711-1-1.html)（[备用链接](https://turou.fun/analogy/hexang-bento/)）
 - [【1.15.2】自定义发光效果——浅谈着色器和帧缓冲的运用](https://blog.teacon.org/shaders-and-framebuffers.html)
 - [【1.15】Neutrino 1.15 Mod 开发教程](https://neutrino.v2mcdev.com/)
-- [【1.14+】Forge能量系统简述](https://www.mcbbs.net/thread-1034965-1-1.html)
+- [【1.14+】Forge 能量系统简述](https://www.mcbbs.net/thread-1034965-1-1.html)（[备用链接](https://blog.ustc-zzzz.net/forge-energy-demo-1/)）
 - [【1.13+】1.13+ 中 Forge 与 Bukkit 的通信](https://www.mcbbs.net/thread-873219-1-1.html)
 - [【全版本】 原版 / FML CoreMod 开发教程](http://www.mcbbs.net/thread-850737-1-1.html)（[GitBook](https://xfl03.gitbook.io/coremodtutor/)/[码云](http://xfl03.gitee.io/coremodtutor/)）
-- [【1.13+】浅析1.13世界生成](http://www.mcbbs.net/thread-846195-1-2.html)
-- [【全版本】雪崩式的灾难：严重滞后的世界生成](https://www.bilibili.com/read/cv545451/)（[MCBBS](http://www.mcbbs.net/thread-797425-1-1.html)）
+- [【1.13+】浅析1.13世界生成](http://www.mcbbs.net/thread-846195-1-2.html)（[备用链接](https://yaossg.com/site/docs/1-13-worldgen)）
+- [【全版本】雪崩式的灾难：严重滞后的世界生成](https://www.bilibili.com/read/cv545451/)
 - [【1.7.10-1.12.2】EnumHelper的前世今生](https://www.mcbbs.net/thread-1054951-1-1.html)
-- [【1.7.10-1.12.2】简单网络通信包装类(SimpleNetworkWrapper)](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki/%E7%AE%80%E5%8D%95%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E5%8C%85%E8%A3%85%E7%B1%BB-SimpleNetworkWrapper)（[MCBBS](http://www.mcbbs.net/thread-711966-1-1.html)）
+- [【1.7.10-1.12.2】简单网络通信包装类(SimpleNetworkWrapper)](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki/%E7%AE%80%E5%8D%95%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E5%8C%85%E8%A3%85%E7%B1%BB-SimpleNetworkWrapper)
 - [【1.11.2】基于代码的简单方块/物品贴图渲染](http://www.mcbbs.net/thread-697765-1-1.html)（[示例代码](https://github.com/rikka0w0/Material_Warehouse)）
-- [【1.11.2】ChinaCraft2代码详解——大型模组开发笔记](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki)（[MCBBS](http://www.mcbbs.net/thread-705995-1-1.html)）
+- [【1.11.2】ChinaCraft2代码详解——大型模组开发笔记](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki)
 - [【1.10.2+】1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html)
 - [Minecraft模组开发知乎专栏](https://zhuanlan.zhihu.com/c_200546589)
 - [ustc-zzzz的博客](https://blog.ustc-zzzz.net/)
