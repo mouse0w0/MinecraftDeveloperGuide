@@ -271,7 +271,7 @@
 
 ## Bukkit/Spigot插件
 
-### [tdiant的Bukkit插件开发教程](https://bdn.tdiant.net/)
+### [tdiant的Bukkit插件开发教程](https://github.com/tdiant/BukkitDevelopmentNote)
 
 ### [Rarity的Bukkit插件开发教程](https://github.com/Andy-K-Sparklight/PluginDiary)
 
