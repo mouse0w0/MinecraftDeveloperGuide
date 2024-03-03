@@ -68,7 +68,7 @@
 
 ### [V2我的世界开发者论坛](https://www.v2mcdev.com/)
 
-### 其他开发资料
+### 其他资源
 - [Minecraft实体运动研究与应用](http://lovexyn0827.space/mcdocs/docs/Minecraft%E5%AE%9E%E4%BD%93%E8%BF%90%E5%8A%A8%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%BA%94%E7%94%A8/Minecraft%E5%AE%9E%E4%BD%93%E8%BF%90%E5%8A%A8%E7%9B%B8%E5%85%B3%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%BA%94%E7%94%A8)
 - [基于Architectury的跨加载器模组开发指南](https://www.mcbbs.net/thread-1422703-1-1.html)（[备用链接](https://turou.gitbook.io/arch/)）
 - [Minecraft 服务端开发指北](https://www.mcbbs.net/thread-1276664-1-1.html)（[备用链接](https://izzel.io/2021/11/13/how-to-minecraft-server/)）
@@ -77,9 +77,10 @@
 - [Java的模式匹配](https://www.mcbbs.net/thread-1207118-1-1.html)
 - [聊聊区块和 Ticket](https://www.mcbbs.net/thread-1000001-1-1.html)（[备用链接](https://izzel.io/2020/09/09/chunks-and-tickets/)）
 - [怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)
+- [Mixin官方Wiki中文翻译](https://mouse0w0.github.io/categories/Mixin/)
+- [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
 - [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
 - [[调试辅助]JRebel - 给你+1s\|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
-- [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)
 
 ### 国内开发交流社群
 - [Teacon模组开发茶会KOOK频道](https://kook.teacon.cn/)
@@ -344,8 +345,6 @@
 
 ## Fabric模组
 
-### [Fabric开发文档中文翻译](https://www.mcbbs.net/thread-904854-1-1.html)
-
 ### [官方网站](https://fabricmc.net/)
 
 ### [官方Wiki](https://fabricmc.net/wiki/start)
@@ -361,8 +360,8 @@
 - [FabricLoomCN-加速你的 fabric 模组依赖拉取以及环境搭建](https://www.mcbbs.net/thread-1239261-1-1.html)
 - [由现象到本质的Minecraft源码注入艺术](https://www.mcbbs.net/thread-1205392-1-1.html)（[备用链接](https://turou.fun/mixin-tutor/)）
 - [用EventLib简化fabric mod开发](https://www.mcbbs.net/thread-1030076-1-1.html)
-- [Leader——中文社区的一份Minecraft Fabric教程](https://www.mcbbs.net/thread-964580-1-1.html)
-- [Mixin官方Wiki中文翻译](http://mouse0w0.github.io/categories/Mixin/)
+- [Leader——中文社区的一份Minecraft Fabric教程](https://www.mcbbs.net/thread-964580-1-1.html)、
+- [Fabric开发文档中文翻译](https://www.mcbbs.net/thread-904854-1-1.html)
 
 ## BungeeCord插件
 
