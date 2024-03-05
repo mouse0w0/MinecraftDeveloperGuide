@@ -385,7 +385,7 @@
 ### [官方JavaDoc](https://jd.spongepowered.org/7.2.0/)
 
 ### 简体中文资源
-- [Minecraft 服务端权限上下文系统及其应用](https://www.mcbbs.net/thread-1007917-1-1.html)
+- [Minecraft 服务端权限上下文系统及其应用](https://www.mcbbs.net/thread-1007917-1-1.html)（[备用链接](https://blog.ustc-zzzz.net/minecraft-server-permission-context/)）
 
 ## 数据包
 ### 文档与教程
