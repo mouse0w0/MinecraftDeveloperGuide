@@ -30,13 +30,13 @@
 - 准确描述你的需求和实际问题情况。
 - 准确描述你所在的平台的信息。例如：        
   - Java 版本
-  - 所用开发工具（如IntelliJ IDEA、Eclipse）
+  - 所用开发工具及其版本（如IntelliJ IDEA、Eclipse）
   - 所用自动化构建工具及其版本（如Maven、Gradle）
   - Minecraft 版本
   - Bukkit/Spigot/Forge/Sponge/Fabric 任一所在平台及其版本
   - 依赖的类库、模组或插件及其版本
 - 提供你的源代码或SSCCE（最小化、完整、可验证的问题示例），将源代码包括项目描述文件完整上传至源码托管平台（如码云、Github）。
-- 提供你的完整日志、异常输出。
+- 提供你的完整日志、崩溃报告。
 - 提供你的参考资料（如参考某模组的某一功能）。
 
 如果你通过发帖的方式提问，请在你的标题也简略的包含问题描述和平台信息。例如《[Forge][1.7.10]载入Mod时出现NullPointerException》
