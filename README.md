@@ -12,6 +12,7 @@
 - [常用网站与资源](#常用网站与资源)
 - [Java基础](#java基础)
 - [Forge模组](#forge模组)
+- [NeoForge模组](#neoforge模组)
 - [Bukkit/Spigot插件](#bukkitspigot插件)
 - [Fabric模组](#fabric模组)
 - [BungeeCord插件](#bungeecord插件)
@@ -269,6 +270,13 @@
 > 本JavaDoc由第三方提供，不能保证其时效性及有效性，以实际开发环境为准。
 - [【1.12+】ForgeJavaDocs-NG](https://github.com/Nekoyue/ForgeJavaDocs-NG)
 - [【1.7.10-1.12.2】ForgeJavaDocs](https://skmedix.github.io/ForgeJavaDocs/)
+
+## NeoForge模组
+> 目前本条目仍在建设中，欢迎各位前往相关[Issue](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/35)提交意见建议。
+
+### [官方网站](https://neoforged.net/)
+
+### [官方文档](https://docs.neoforged.net/)
 
 ## Bukkit/Spigot插件
 
