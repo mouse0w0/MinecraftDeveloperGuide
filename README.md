@@ -272,7 +272,7 @@
 - [【1.7.10-1.12.2】ForgeJavaDocs](https://skmedix.github.io/ForgeJavaDocs/)
 
 ## NeoForge模组
-> 目前本条目仍在建设中，欢迎各位前往相关[Issue](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/35)提交意见建议。
+> 目前本条目仍在建设中，欢迎各位前往相关[Issue](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/60)提交意见建议。
 
 ### [官方网站](https://neoforged.net/)
 
