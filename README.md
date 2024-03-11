@@ -319,7 +319,7 @@
 - [使用IDEA快速调试插件](https://www.mcbbs.net/thread-1004767-1-1.html)
 - [Scoreboard教程](https://www.mcbbs.net/thread-897858-1-1.html)
 - [创建高版本自定义实体，自定义方块原理与应用](https://www.mcbbs.net/thread-966358-1-1.html)
-- [如何问玩家“吾与徐公孰美？”](https://www.mcbbs.net/thread-958674-1-1.html)
+- [如何问玩家“吾与徐公孰美？”](https://www.mcbbs.net/thread-958674-1-1.html)（[备用链接](https://izzel.io/2020/02/12/chat-with-future/)）
 - [1.13+ 中 Forge 与 Bukkit 的通信](http://www.mcbbs.net/thread-873219-1-1.html)
 - [ProtocolLib 教程](http://www.mcbbs.net/thread-568714-1-1.html)
 - [Placeholder 教程](http://www.mcbbs.net/thread-570703-1-1.html)
