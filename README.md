@@ -70,6 +70,7 @@
 ### [V2我的世界开发者论坛](https://www.v2mcdev.com/)
 
 ### 其他资源
+- [Curse Maven](https://www.cursemaven.com/)
 - [Minecraft实体运动研究与应用](http://lovexyn0827.space/mcdocs/docs/Minecraft%E5%AE%9E%E4%BD%93%E8%BF%90%E5%8A%A8%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%BA%94%E7%94%A8/Minecraft%E5%AE%9E%E4%BD%93%E8%BF%90%E5%8A%A8%E7%9B%B8%E5%85%B3%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%BA%94%E7%94%A8)
 - [基于Architectury的跨加载器模组开发指南](https://www.mcbbs.net/thread-1422703-1-1.html)（[备用链接](https://turou.gitbook.io/arch/)）
 - [Minecraft 服务端开发指北](https://www.mcbbs.net/thread-1276664-1-1.html)（[备用链接](https://izzel.io/2021/11/13/how-to-minecraft-server/)）
