@@ -279,6 +279,8 @@
 
 ### [官方文档](https://docs.neoforged.net/)
 
+### [【1.20.4】Flandre芙兰的NeoForge教程](https://fuwari-ald.pages.dev/archive/category/Minecraft1_20_4_NeoForge_Tutorial/)（[视频版](https://www.bilibili.com/video/BV1hv421y7fe)/[Github仓库](https://github.com/Flandre923/NeoForgeTutorialmod-Minecraft1.20.4)）
+
 ## Bukkit/Spigot插件
 
 ### [tdiant的Bukkit插件开发教程](https://bdn.tdiant.net/)（[Github](https://github.com/tdiant/BukkitDevelopmentNote)）
