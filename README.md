@@ -465,10 +465,11 @@
 ### [【非官方】Bedrock Wiki](https://wiki.bedrock.dev/)
 
 ### 其他资源
-- [下载Minecraft官方资源包](https://aka.ms/resourcepacktemplate)
-- [下载Minecraft官方行为包](https://aka.ms/behaviorpacktemplate)
+- [下载Minecraft官方资源包/行为包](https://aka.ms/resourcepacktemplate)
 - [基岩版着色器材质文件概述](https://github.com/NovaMods/nova-renderer/wiki/Bedrock-Shaders-Simple-Material-File-Walkthrough)
 - [【非官方】我的世界基岩版文档](https://bedrock.dev/zh)
+- [【非官方】下载全版本Minecraft官方资源包/行为包](https://bedrock.dev/packs)
+- [【非官方】MCBEID表](https://ca.projectxero.top/idlist/)
 
 ## 网易基岩版
 - [网易我的世界开发者官网](https://mc.163.com/dev/index.html)
