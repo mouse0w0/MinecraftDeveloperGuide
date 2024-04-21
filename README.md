@@ -458,7 +458,7 @@
 
 ### [我的世界中文Wiki“附加包（Add-Ons）”页面](https://zh.minecraft.wiki/w/%E9%99%84%E5%8A%A0%E5%8C%85)
 
-### [边做边学：从零开始制作一个矿石作物 Addons](https://www.mcbbs.net/thread-1326836-1-1.html)
+### [边做边学：从零开始制作一个矿石作物 Addon](https://fang.blog.miri.site/archives/980/)
 
 ### [【非官方】我的世界基岩版开发百科](https://wiki.mcbe-dev.net/)
 
