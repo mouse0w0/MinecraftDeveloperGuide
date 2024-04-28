@@ -419,7 +419,7 @@
 - [【C#】KMCCC](https://github.com/MineStudio/KMCCC)
 - [【Java】JMCCC](https://github.com/to2mbn/JMCCC)
 - [【Java】HMCL](https://github.com/huanghongxun/HMCL)
-- [【易语言】Module-Launcher](https://www.mcbbs.net/thread-815868-1-1.html)
+- [【易语言】Module-Launcher](https://github.com/Hill23333/modulelauncher-archive)
 - [【C#】Square](https://github.com/baibao132/SquareMinecraftLauncherCore)
 - [【Python】minecraft-launcher-lib](https://minecraft-launcher-lib.readthedocs.io/en/latest/index.html)
 
