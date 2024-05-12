@@ -112,11 +112,14 @@
 ### Java 8 文档（[英文](http://docs.oracle.com/javase/8/docs/api/)/[中文](https://www.matools.com/api/java8)）
 
 ### JDK 下载
-- [Oracle JDK](https://www.oracle.com/java/technologies/java-se-glance.html)：官方的 JDK 下载，下载需登录，商业使用受限
+- [Oracle JDK](https://www.oracle.com/java/technologies/java-se-glance.html)：Oracle 的 JDK 下载，下载Java 17以下的JDK存档需登录，商业使用受限
+- [OpenJDK](https://openjdk.org/)：JDK 的原始开源项目
 - [Azul Zulu](https://www.azul.com/downloads/)：Azul 提供的 OpenJDK
 - [BellSoft Liberica JDK](https://bell-sw.com/pages/downloads/)：BellSoft 提供的 OpenJDK
 - [Eclipse Temurin](https://adoptium.net/)：Eclipse 基金会提供的 OpenJDK
 - [Amazon Corretto](https://aws.amazon.com/cn/corretto/)：亚马逊提供的 OpenJDK
+- [Microsoft Build of OpenJDK](https://learn.microsoft.com/zh-cn/java/openjdk/download/)：微软提供的 OpenJDK
+- [Dragonwell](https://dragonwell-jdk.io/)：阿里云提供的 OpenJDK
  
 ### 扩展阅读
 > 进一步提高Java编程能力。
@@ -358,7 +361,7 @@
 
 ### [官方网站](https://fabricmc.net/)
 
-### [官方Wiki](https://fabricmc.net/wiki/start)
+### 官方Wiki（[英文](https://fabricmc.net/wiki/start)/[中文](https://fabricmc.net/wiki/zh_cn:start)）
 
 ### [官方模板模组生成器](https://fabricmc.net/develop/template/)
 
@@ -469,7 +472,7 @@
 - [基岩版着色器材质文件概述](https://github.com/NovaMods/nova-renderer/wiki/Bedrock-Shaders-Simple-Material-File-Walkthrough)
 - [【非官方】我的世界基岩版文档](https://bedrock.dev/zh)
 - [【非官方】下载全版本Minecraft官方资源包/行为包](https://bedrock.dev/packs)
-- [【非官方】MCBEID表](https://ca.projectxero.top/idlist/)
+- ~~[【非官方】MCBEID表](https://ca.projectxero.top/idlist/)~~
 
 ## 网易基岩版
 - [网易我的世界开发者官网](https://mc.163.com/dev/index.html)
