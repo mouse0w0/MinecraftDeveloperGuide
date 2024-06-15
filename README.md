@@ -288,7 +288,7 @@
 
 ### [tdiant的Bukkit插件开发教程](https://bdn.tdiant.net/)（[Github](https://github.com/tdiant/BukkitDevelopmentNote)）
 
-### [Rarity的Bukkit插件开发教程](https://github.com/Andy-K-Sparklight/PluginDiary)
+### [Rarity的Bukkit插件开发教程](https://moran0710.github.io/PluginDiary/)（[Github](https://github.com/Andy-K-Sparklight/PluginDiary)）
 
 ### 官方教程
 - [新版本（现Spigot）](https://www.spigotmc.org/wiki/spigot/)
