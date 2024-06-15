@@ -431,6 +431,8 @@
 
 ### [官方服务端](https://www.minecraft.net/en-us/download/server/bedrock)
 
+由于Mojang停止提供PDB（Program database)所有基于官方服务端的插件加载器将会停止更新。
+
 ### LeviLamina (原LiteLoaderBDS)
 - [官方主页](https://levilamina.liteldev.com/zh/)
 - [官方仓库](https://github.com/LiteLDev/LeviLamina)
