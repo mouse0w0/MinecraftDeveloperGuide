@@ -284,6 +284,8 @@
 
 ### [【1.20.4】Flandre芙兰的NeoForge教程](https://fuwari-ald.pages.dev/archive/category/Minecraft1_20_4_NeoForge_Tutorial/)（[Bilibili视频](https://www.bilibili.com/video/BV1hv421y7fe)/[源代码](https://github.com/Flandre923/NeoForgeTutorialmod-Minecraft1.20.4)）
 
+### [【1.20.4】AnECanSaiTin的NeoForge教程](https://arkdust-tutorials.kituin.fun/)
+
 ## Bukkit/Spigot插件
 
 ### [tdiant的Bukkit插件开发教程](https://bdn.tdiant.net/)（[Github](https://github.com/tdiant/BukkitDevelopmentNote)）
