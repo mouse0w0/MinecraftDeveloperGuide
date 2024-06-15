@@ -431,7 +431,7 @@
 
 ### [官方服务端](https://www.minecraft.net/en-us/download/server/bedrock)
 
-由于Mojang停止提供PDB（Program database)所有基于官方服务端的插件加载器将会停止更新。[更多信息](https://github.com/LiteLDev/LeviLamina/blob/develop/README.zh.md#%E5%86%8D%E8%A7%81%E5%9F%BA%E5%B2%A9%E7%89%88%E5%88%9B%E4%BD%9C%E8%80%85)
+由于Mojang停止提供PDB（Program database）所有基于官方服务端的插件加载器将会停止更新。[更多信息](https://github.com/LiteLDev/LeviLamina/blob/develop/README.zh.md#%E5%86%8D%E8%A7%81%E5%9F%BA%E5%B2%A9%E7%89%88%E5%88%9B%E4%BD%9C%E8%80%85)
 
 ### LeviLamina (原LiteLoaderBDS)
 - [官方主页](https://levilamina.liteldev.com/zh/)
@@ -458,13 +458,13 @@
 
 ## 基岩版Addons
 
-### [我的世界:基岩版创作者文档](https://docs.microsoft.com/en-us/minecraft/creator/)
+### [我的世界：基岩版创作者文档](https://docs.microsoft.com/en-us/minecraft/creator/)
+
+### [我的世界：基岩版脚本API参考文档](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/)
 
 ### [我的世界中文Wiki“附加包（Add-Ons）”页面](https://zh.minecraft.wiki/w/%E9%99%84%E5%8A%A0%E5%8C%85)
 
 ### [边做边学：从零开始制作一个矿石作物 Addon](https://fang.blog.miri.site/archives/980/)
-
-### [基岩版脚本API参考文档](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/)
 
 ### [【非官方】我的世界基岩版开发百科](https://wiki.mcbe-dev.net/)
 
