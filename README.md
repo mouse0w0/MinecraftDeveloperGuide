@@ -445,6 +445,10 @@
 - [官方文档](https://github.com/bdsx/bdsx/wiki)
 - [官方仓库](https://github.com/bdsx/bdsx)
 
+### Endstone
+- [官方文档](https://endstone.dev/latest/)
+- [官方仓库](https://github.com/EndstoneMC/endstone)
+
 ### PowerNukkitX
 - [官方主页](http://www.powernukkitx.cn/)
 - [官方文档](https://www.powernukkitx.com/doc/index.html)
@@ -480,6 +484,7 @@
 - [下载Minecraft官方资源包/行为包](https://aka.ms/resourcepacktemplate)
 - [基岩版着色器材质文件概述](https://github.com/NovaMods/nova-renderer/wiki/Bedrock-Shaders-Simple-Material-File-Walkthrough)
 - [【非官方】我的世界基岩版文档](https://bedrock.dev/zh)
+- [【非官方】Minecraft基岩版开发文档](https://mcbe-dev.net/)
 - [【非官方】下载全版本Minecraft官方资源包/行为包](https://bedrock.dev/packs)
 - [【非官方】MCBEID表](https://ca.projectxero.top/idlist/)
 
