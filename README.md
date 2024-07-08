@@ -418,7 +418,7 @@
 - [编写启动器 - Minecraft Wiki](https://zh.minecraft.wiki/w/%E6%95%99%E7%A8%8B/%E7%BC%96%E5%86%99%E5%90%AF%E5%8A%A8%E5%99%A8)
 - [KMCCC使用教程](https://www.mcbbs.net/thread-492606-1-1.html)
 - [JMCCC使用教程](https://www.mcbbs.net/thread-573154-1-1.html)
-- [rechalow的启动器开发教程](https://rechalow.github.io/lmaml)
+- [xphost008的启动器开发教程](https://xphost008.github.io/lmaml)
 
 ### 类库
 - [【C#】KMCCC](https://github.com/MineStudio/KMCCC)
