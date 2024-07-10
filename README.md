@@ -435,30 +435,32 @@
 
 由于Mojang停止提供PDB（Program database）所有基于官方服务端的插件加载器将会停止更新。[更多信息](https://github.com/LiteLDev/LeviLamina/blob/develop/README.zh.md#%E5%86%8D%E8%A7%81%E5%9F%BA%E5%B2%A9%E7%89%88%E5%88%9B%E4%BD%9C%E8%80%85)
 
-### LeviLamina (原LiteLoaderBDS)
+#### LeviLamina (原LiteLoaderBDS)
 - [官方主页](https://levilamina.liteldev.com/zh/)
 - [官方仓库](https://github.com/LiteLDev/LeviLamina)
 - [LegacyScriptEngine - 在LeviLamina上运行LLSE插件](https://lse.liteldev.com/)
 - [旧版官方仓库](https://github.com/LiteLDev/LiteLoaderBDSv2)
 
-### bdsx
+#### bdsx
 - [官方文档](https://github.com/bdsx/bdsx/wiki)
 - [官方仓库](https://github.com/bdsx/bdsx)
 
-### Endstone
+#### Endstone
 - [官方文档](https://endstone.dev/latest/)
 - [官方仓库](https://github.com/EndstoneMC/endstone)
 
-### PowerNukkitX
+### 第三方服务端
+
+#### PowerNukkitX
 - [官方主页](http://www.powernukkitx.cn/)
 - [官方文档](https://www.powernukkitx.com/doc/index.html)
 - [官方仓库](https://github.com/PowerNukkitX/PowerNukkitX)
 
-### Cloudburst Nukkit
+#### Cloudburst Nukkit
 - [官方文档](https://cloudburstmc.org/wiki/nukkit)
 - [官方仓库](https://github.com/CloudburstMC/Nukkit)
 
-### Dragonfly
+#### Dragonfly
 - [官方文档](https://github.com/df-mc/dragonfly/wiki)
 - [官方仓库](https://github.com/df-mc/dragonfly)
 
