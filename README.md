@@ -21,6 +21,7 @@
 - [Java版启动器](#java版启动器)
 - [基岩版服务端](#基岩版服务端)
 - [基岩版Addons](#基岩版addons)
+- [基岩版模组](#基岩版模组)
 - [网易基岩版](#网易基岩版)
 - [着色器包](#着色器包)
 - [过时资源](#过时资源)
@@ -487,6 +488,16 @@
 - [【非官方】Minecraft基岩版开发文档](https://mcbe-dev.net/)
 - [【非官方】下载全版本Minecraft官方资源包/行为包](https://bedrock.dev/packs)
 - [【非官方】MCBEID表](https://ca.projectxero.top/idlist/)
+
+## 基岩版模组
+
+### Horizon
+- [官方主页](https://icmods.mineprogramming.org/)
+- [官方文档](https://wiki.mineprogramming.org/)
+
+### Amethyst
+- [官方文档](https://amethystapi.github.io/Amethyst-Docs/)
+- [官方仓库](https://github.com/FrederoxDev/Amethyst/)
 
 ## 网易基岩版
 - [网易我的世界开发者官网](https://mc.163.com/dev/index.html)
