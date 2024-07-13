@@ -406,7 +406,7 @@
 
 ## 数据包
 ### 文档与教程
-- [Minecraft 原版模组入门教程](https://www.mcbbs.net/thread-784662-1-1.html)（[GitHub](https://zhangshenxing.github.io/VanillaModTutorial/)）
+- [Minecraft 原版模组入门教程](https://zhangshenxing.github.io/VanillaModTutorial/)
 - [数据包 - Minecraft Wiki](https://zh.minecraft.wiki/w/%E6%95%B0%E6%8D%AE%E5%8C%85)
 
 ### 工具
