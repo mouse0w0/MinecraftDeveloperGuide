@@ -28,7 +28,7 @@
 - [版权声明](#版权声明)
 
 ## 提问的方法
-当你遇到**使用搜索引擎、查阅相关文档、进行Debug（如果没有做过上述操作的话，请立刻去做）** 也无法解决的问题的时候，你可能会向他人求助。**当你提问时，请确保你准确提供了以下信息：**
+当你遇到**使用搜索引擎、查阅相关文档、进行Debug（如果没有做过上述操作的话，请立刻去做~~* 也无法解决的问题的时候，你可能会向他人求助。**当你提问时，请确保你准确提供了以下信息：**
 - 准确描述你的需求和实际问题情况。
 - 准确描述你所在的平台的信息。例如：        
   - Java 版本
@@ -157,7 +157,7 @@
 - ~~[【1.12.2+】FledgeXu的MDK离线包](https://v2mcdev.com/t/topic/249)（[Github](https://github.com/FledgeXu/ForgeGradleOffline/tags)）~~
 
 ### 简体中文资源
-> 有删除线的条目可能已有更优秀的资源或已过时，或存在误导、内容欠缺的问题，仅供参考。斜体为MCBBS失效链接。
+> 有删除线的条目可能已有更优秀的资源或已过时，或存在误导、内容欠缺的问题，仅供参考。
 
 - [【1.20】深入浅出高版本渲染系统 —— GuiComponent的消逝与GuiGraphics的新生](https://turou.fun/render-tutor/)
 - [【1.20】Polonium - 1.20 实体进阶教程](https://lych.top/polonium/)
@@ -167,12 +167,12 @@
 - [【1.18.2】基于Forge的Datagen教程](https://skyinr.github.io/DatagenBook/#/zh-cn/)
 - [【1.16.5】【Bilibili】Flandre芙兰的Forge模组开发视频教程](https://www.bilibili.com/video/BV1WM4y1K7D5)
 - [聊聊 Forge 工具链](https://izzel.io/2022/09/07/forge-toolchain-teardown/)
-- *[手把手Mixin+Forge开发示例，从开发环境配置到mod发布](https://www.mcbbs.net/thread-1386942-1-1.html)*
+- ~~手把手Mixin+Forge开发示例，从开发环境配置到mod发布](https://www.mcbbs.net/thread-1386942-1-1.html~~
 - [Cobalt - 渲染浅析文档](https://zomb-676.github.io/CobaltDocs)
 - [由实例上手快速开发多方块结构](https://turou.fun/multiblock-tutor/)
 - [再析世界生成：生物群系](http://yaossg.com/biome/index.html)
 - [聊聊生物和 AI](https://izzel.io/2021/12/19/living-things/)
-- *[Forge安装到导出详细入门教程\|各种报错解决方法](https://www.mcbbs.net/thread-1193768-1-3.html)*
+- ~~Forge安装到导出详细入门教程\|各种报错解决方法](https://www.mcbbs.net/thread-1193768-1-3.html~~
 - [从实例的角度出发浅谈TileEntitySpecialRenderer](https://turou.fun/legacy-render-tutor/)
 - [[举二反三深入模组开发 第二节] 彩虹桥法杖 + 建筑小助手 = ?](https://turou.fun/analogy/rainbow-gadgets/)
 - [[举二反三深入模组开发 第一节] 息壤 + 午餐盒 = ?](https://turou.fun/analogy/hexang-bento/)
@@ -183,11 +183,11 @@
 - [【全版本】 原版 / FML CoreMod 开发教程](https://xfl03.gitbook.io/coremodtutor/)（[码云](http://xfl03.gitee.io/coremodtutor/)）
 - [【1.13+】浅析1.13世界生成](https://yaossg.com/site/docs/1-13-worldgen)
 - [【全版本】雪崩式的灾难：严重滞后的世界生成](https://www.bilibili.com/read/cv545451/)
-- *[【1.7.10-1.12.2】EnumHelper的前世今生](https://www.mcbbs.net/thread-1054951-1-1.html)*
+- ~~【1.7.10-1.12.2】EnumHelper的前世今生](https://www.mcbbs.net/thread-1054951-1-1.html~~
 - [【1.7.10-1.12.2】简单网络通信包装类(SimpleNetworkWrapper)](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki/%E7%AE%80%E5%8D%95%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E5%8C%85%E8%A3%85%E7%B1%BB-SimpleNetworkWrapper)
-- *[【1.11.2】基于代码的简单方块/物品贴图渲染](http://www.mcbbs.net/thread-697765-1-1.html)*（[示例代码](https://github.com/rikka0w0/Material_Warehouse)）
+- ~~【1.11.2】基于代码的简单方块/物品贴图渲染](http://www.mcbbs.net/thread-697765-1-1.html~~（[示例代码](https://github.com/rikka0w0/Material_Warehouse)）
 - [【1.11.2】ChinaCraft2代码详解——大型模组开发笔记](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki)
-- *[【1.10.2+】1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html)*
+- ~~【1.10.2+】1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html~~
 - [Minecraft模组开发知乎专栏](https://zhuanlan.zhihu.com/c_200546589)
 - [ustc-zzzz的博客](https://blog.ustc-zzzz.net/)
 - [【1.8.9-1.7.2】风之工坊(当风过时的博客)](http://www.windworkshop.cn/?page_id=525)
@@ -251,7 +251,7 @@
 #### ForgeGradle
 - [FancyGradle - 1.12.2 开发环境修复插件](https://gitlab.com/gofancy/fancygradle/-/wikis/home)
 - [Gradle 使用教程及谈谈 ForgeGradle](https://www.mcbbs.net/thread-1129351-1-1.html)
-- *[ForgeGradle 开发之「砖」](https://www.mcbbs.net/thread-1107776-1-1.html)*
+- ~~ForgeGradle 开发之「砖」](https://www.mcbbs.net/thread-1107776-1-1.html~~
 - [ForgeGradle 中文文档](https://forgegradle-cn.readthedocs.io/zh/latest/)
 
 #### Mod Coder Pack
@@ -305,54 +305,54 @@
 很多问题都能在这里解决。
 
 ### 简体中文资源
-> 有删除线的条目可能已有更优秀的资源或已过时，或存在误导、内容欠缺的问题，仅供参考。斜体为MCBBS失效链接。
-- *[正确使用PluginManager#registerEvent的方式](https://www.mcbbs.net/thread-1472122-1-1.html)*
-- *[监听“玩家放置末影水晶”的方式](https://www.mcbbs.net/thread-1471726-1-1.html)*
-- *[监听“玩家使用盾牌成功格挡伤害”的方式](https://www.mcbbs.net/thread-1471663-1-1.html)*
-- *[NBT库获取ItemStack的NBT副本的意义](https://www.mcbbs.net/thread-1471572-1-1.html)*
-- *[调试小技巧——Bukkit中构建后自动打开服务端](https://www.mcbbs.net/thread-1456687-1-1.html)*
-- *[通过NMS序列化ItemStack 浅谈序列化复杂实体类](https://www.mcbbs.net/thread-1456449-1-1.html)*
+> 有删除线的条目可能已有更优秀的资源或已过时，或存在误导、内容欠缺的问题，仅供参考。
+- ~~正确使用PluginManager#registerEvent的方式](https://www.mcbbs.net/thread-1472122-1-1.html~~
+- ~~监听“玩家放置末影水晶”的方式](https://www.mcbbs.net/thread-1471726-1-1.html~~
+- ~~监听“玩家使用盾牌成功格挡伤害”的方式](https://www.mcbbs.net/thread-1471663-1-1.html~~
+- ~~NBT库获取ItemStack的NBT副本的意义](https://www.mcbbs.net/thread-1471572-1-1.html~~
+- ~~调试小技巧——Bukkit中构建后自动打开服务端](https://www.mcbbs.net/thread-1456687-1-1.html~~
+- ~~通过NMS序列化ItemStack 浅谈序列化复杂实体类](https://www.mcbbs.net/thread-1456449-1-1.html~~
 - [事件监听大典 : Bukkit API 文档中文翻译](https://william-shi233.gitbook.io/event-listeners/)
 - [图形学基础与MC插件开发 ~ 几乎完美的范围挖掘算法](https://www.iseason.top/mc-scope-mining/)
-- *[使用 PersistentDataContainer 快速添加自定义数据](https://www.mcbbs.net/thread-1248632-1-1.html)*
+- ~~使用 PersistentDataContainer 快速添加自定义数据](https://www.mcbbs.net/thread-1248632-1-1.html~~
 - [聊聊 PaperAPI 提供的自定义生物 AI 系统](https://my.minecraft.kim/tech/393/%E8%81%8A%E8%81%8A-paperapi-%E6%8F%90%E4%BE%9B%E7%9A%84%E8%87%AA%E5%AE%9A%E4%B9%89%E7%94%9F%E7%89%A9-ai-%E7%B3%BB%E7%BB%9F/)
-- *[关于 ProtocolLib 监听系统的使用与研究](https://www.mcbbs.net/thread-1248152-1-1.html)*
+- ~~关于 ProtocolLib 监听系统的使用与研究](https://www.mcbbs.net/thread-1248152-1-1.html~~
 - [Bukkit NMS 开发实践 —— 创建你自己的自定义实体](https://my.minecraft.kim/tech/260/bukkit-nms-%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5-%E5%88%9B%E5%BB%BA%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AE%9E%E4%BD%93%EF%BC%88%E9%80%82%E7%94%A8/)
 - [Bukkit编程杂谈：雷点\|模板\|思路\|设计](https://hamsteryds.github.io/noticements-in-bukkit/)
 - [信息的处理与呈现相关应用编程](https://hamsteryds.gitee.io/info-processing-in-bukkit/)
 - [生物运动&空间坐标的理论探索与应用编程](https://hamsteryds.gitee.io/kinematics-of-minecraft/)
-- *[玩转ProtocolLib数据包发包](https://www.mcbbs.net/thread-1123486-1-1.html)*
-- *[优雅地让命令完整支持TAB补全](https://www.mcbbs.net/thread-1075004-1-1.html)*
-- *[怎样写出一个1.12.2-1.15.2通用支持的插件](https://www.mcbbs.net/thread-1023107-1-1.html)*
+- ~~玩转ProtocolLib数据包发包](https://www.mcbbs.net/thread-1123486-1-1.html~~
+- ~~优雅地让命令完整支持TAB补全](https://www.mcbbs.net/thread-1075004-1-1.html~~
+- ~~怎样写出一个1.12.2-1.15.2通用支持的插件](https://www.mcbbs.net/thread-1023107-1-1.html~~
 - [如何编写一个可以保留注释的配置类](https://zhuanlan.zhihu.com/p/146322254)
-- *[使用IDEA快速调试插件](https://www.mcbbs.net/thread-1004767-1-1.html)*
-- *[创建高版本自定义实体，自定义方块原理与应用](https://www.mcbbs.net/thread-966358-1-1.html)*
+- ~~使用IDEA快速调试插件](https://www.mcbbs.net/thread-1004767-1-1.html~~
+- ~~创建高版本自定义实体，自定义方块原理与应用](https://www.mcbbs.net/thread-966358-1-1.html~~
 - [如何问玩家“吾与徐公孰美？”](https://izzel.io/2020/02/12/chat-with-future/)
 - [Scoreboard教程](https://www.jianshu.com/p/911edcaf5e79)
-- *[1.13+ 中 Forge 与 Bukkit 的通信](http://www.mcbbs.net/thread-873219-1-1.html)*
+- ~~1.13+ 中 Forge 与 Bukkit 的通信](http://www.mcbbs.net/thread-873219-1-1.html~~
 - [插件粒子特效教程](https://www.jianshu.com/p/cf267acfe719)
-- *[聊天组件API——自定义你的聊天消息](http://www.mcbbs.net/thread-812136-1-1.html)*
-- *[如何让插件命令支持Tab自动补全](http://www.mcbbs.net/thread-818199-1-1.html)*
-- *[自定义实体](http://www.mcbbs.net/thread-811096-1-1.html)*
-- *[插件使用MySQL数据库](http://www.mcbbs.net/thread-783267-1-1.html)*
-- *[ItemMeta 使用教程](http://www.mcbbs.net/thread-782974-1-1.html)*
-- *[Pathfinder 实体AI教程](http://www.mcbbs.net/thread-775757-1-1.html)*
-- *[如何给插件加上更新检查](http://www.mcbbs.net/thread-726821-1-1.html)*
+- ~~聊天组件API——自定义你的聊天消息](http://www.mcbbs.net/thread-812136-1-1.html~~
+- ~~如何让插件命令支持Tab自动补全](http://www.mcbbs.net/thread-818199-1-1.html~~
+- ~~自定义实体](http://www.mcbbs.net/thread-811096-1-1.html~~
+- ~~插件使用MySQL数据库](http://www.mcbbs.net/thread-783267-1-1.html~~
+- ~~ItemMeta 使用教程](http://www.mcbbs.net/thread-782974-1-1.html~~
+- ~~Pathfinder 实体AI教程](http://www.mcbbs.net/thread-775757-1-1.html~~
+- ~~如何给插件加上更新检查](http://www.mcbbs.net/thread-726821-1-1.html~~
 - [Forge/LiteLoader与Bukkit/Sponge之间的通信](https://izzel.io/2017/08/28/minecraft-plugin-message/)
-- *[HolographicDisplays API 汉化](http://www.mcbbs.net/thread-721009-1-1.html)*
-- *[如何利用Maven来管理你的插件](http://www.mcbbs.net/thread-711754-1-1.html)*
-- *[在插件通过发包(ProtocolLib)打开牌子界面(Sign GUI)](http://www.mcbbs.net/thread-706491-1-1.html)*
-- *[自定义交互式书本](http://www.mcbbs.net/thread-697788-1-1.html)*
-- *[如何给物品增加NBT数据](http://www.mcbbs.net/thread-697478-1-1.html)*
-- *[自定义物品模型[1.9+]](http://www.mcbbs.net/thread-694674-1-1.html)*
-- *[在使用NMS的同时支持多个版本](http://www.mcbbs.net/thread-694224-1-1.html)*
-- *[BukkitAPI 1.10->1.11改动介绍](http://www.mcbbs.net/thread-648659-1-1.html)*
-- *[如何在JavaIDE上调试你的插件](http://www.mcbbs.net/thread-627399-1-1.html)*
-- *[Bukkit Conversation API](http://www.mcbbs.net/thread-619632-1-1.html)*
-- *[Vault API 翻译](http://www.mcbbs.net/thread-615396-1-1.html)*
-- *[Placeholder 教程](http://www.mcbbs.net/thread-570703-1-1.html)*
-- *[ProtocolLib 教程](http://www.mcbbs.net/thread-568714-1-1.html)*
-- *[使用Metrics统计信息](http://www.mcbbs.net/thread-295815-1-1.html)*
+- ~~HolographicDisplays API 汉化](http://www.mcbbs.net/thread-721009-1-1.html~~
+- ~~如何利用Maven来管理你的插件](http://www.mcbbs.net/thread-711754-1-1.html~~
+- ~~在插件通过发包(ProtocolLib)打开牌子界面(Sign GUI)](http://www.mcbbs.net/thread-706491-1-1.html~~
+- ~~自定义交互式书本](http://www.mcbbs.net/thread-697788-1-1.html~~
+- ~~如何给物品增加NBT数据](http://www.mcbbs.net/thread-697478-1-1.html~~
+- ~~自定义物品模型[1.9+]](http://www.mcbbs.net/thread-694674-1-1.html~~
+- ~~在使用NMS的同时支持多个版本](http://www.mcbbs.net/thread-694224-1-1.html~~
+- ~~BukkitAPI 1.10->1.11改动介绍](http://www.mcbbs.net/thread-648659-1-1.html~~
+- ~~如何在JavaIDE上调试你的插件](http://www.mcbbs.net/thread-627399-1-1.html~~
+- ~~Bukkit Conversation API](http://www.mcbbs.net/thread-619632-1-1.html~~
+- ~~Vault API 翻译](http://www.mcbbs.net/thread-615396-1-1.html~~
+- ~~Placeholder 教程](http://www.mcbbs.net/thread-570703-1-1.html~~
+- ~~ProtocolLib 教程](http://www.mcbbs.net/thread-568714-1-1.html~~
+- ~~使用Metrics统计信息](http://www.mcbbs.net/thread-295815-1-1.html~~
 - ~~[Enchantment API 教程](http://www.mcbbs.net/thread-782859-1-1.html)~~
 - ~~[编辑，获取并使用木牌](http://www.mcbbs.net/thread-697373-1-1.html)~~
 - ~~(已于1.12弃用)Ebean数据库[(上)](http://www.mcbbs.net/thread-628118-1-1.html)[(下)](http://www.mcbbs.net/thread-636860-1-1.html)~~
