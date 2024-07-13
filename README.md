@@ -47,7 +47,7 @@
 
 ## 常用网站与资源
 
-### [我的世界中文论坛开发讨论板块](http://www.mcbbs.net/forum.php?mod=forumdisplay&fid=479)
+### ~~[我的世界中文论坛开发讨论板块](http://www.mcbbs.net/forum.php?mod=forumdisplay&fid=479)~~
 
 ### [Github](https://github.com/)
 全球最大的社交编程与代码托管网站，可以在这里查看许多模组和插件的源代码。
@@ -64,7 +64,7 @@
 ### [Wiki.vg](https://wiki.vg/Main_Page)
 我的世界反向工程与协议参考文档网站，包含各版本网络通信协议、数据格式、Mojang正版验证协议等参考文档。
 
-### [我的世界中文论坛开发教程索引贴](http://www.mcbbs.net/thread-54579-1-1.html)
+### ~~[我的世界中文论坛开发教程索引贴](http://www.mcbbs.net/thread-54579-1-1.html)~~
 
 ### [TeaCon模组开发茶会 —— 线上Minecraft模组开发大赛](https://www.teacon.cn/)
 
@@ -73,17 +73,17 @@
 ### 其他资源
 - [Curse Maven](https://www.cursemaven.com/)
 - [Minecraft实体运动研究与应用](http://lovexyn0827.space/mcdocs/docs/Minecraft%E5%AE%9E%E4%BD%93%E8%BF%90%E5%8A%A8%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%BA%94%E7%94%A8/Minecraft%E5%AE%9E%E4%BD%93%E8%BF%90%E5%8A%A8%E7%9B%B8%E5%85%B3%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%BA%94%E7%94%A8)
-- [基于Architectury的跨加载器模组开发指南](https://www.mcbbs.net/thread-1422703-1-1.html)（[备用链接](https://turou.gitbook.io/arch/)）
-- [Minecraft 服务端开发指北](https://www.mcbbs.net/thread-1276664-1-1.html)（[备用链接](https://izzel.io/2021/11/13/how-to-minecraft-server/)）
-- [Adventure 中文文档](https://www.mcbbs.net/thread-1294801-1-1.html)（[备用链接](https://adventure-docs.minecraft.kim/)/[Github](https://github.com/shaokeyibb/adventure-docs-zh_CN)）
-- [[协议] 教你如何从外部 Ping 通服务器](https://www.mcbbs.net/thread-1280861-1-1.html)（[备用链接](https://juejin.cn/post/7120946847312510984)）
-- [Java的模式匹配](https://www.mcbbs.net/thread-1207118-1-1.html)
-- [聊聊区块和 Ticket](https://www.mcbbs.net/thread-1000001-1-1.html)（[备用链接](https://izzel.io/2020/09/09/chunks-and-tickets/)）
-- [怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)
+- [基于Architectury的跨加载器模组开发指南]((https://turou.gitbook.io/arch/)
+- [Minecraft 服务端开发指北](https://izzel.io/2021/11/13/how-to-minecraft-server/)
+- [Adventure 中文文档](https://adventure-docs.minecraft.kim/)（[Github](https://github.com/shaokeyibb/adventure-docs-zh_CN)）
+- [[协议] 教你如何从外部 Ping 通服务器](https://juejin.cn/post/7120946847312510984)
+- ~~[Java的模式匹配](https://www.mcbbs.net/thread-1207118-1-1.html)~~
+- [聊聊区块和 Ticket](https://izzel.io/2020/09/09/chunks-and-tickets/)
+- ~~[怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)~~
 - [Mixin官方Wiki中文翻译](https://mouse0w0.github.io/categories/Mixin/)
-- [Minecraft开发资源Maven仓库国内镜像](http://www.mcbbs.net/thread-800729-1-1.html)（[备用链接](https://blog.lss233.com/lss233minecraft-mod/)）
-- [如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)
-- [[调试辅助]JRebel - 给你+1s\|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)
+- [Minecraft开发资源Maven仓库国内镜像](https://blog.lss233.com/lss233minecraft-mod/)
+- ~~[如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)~~
+- ~~[[调试辅助]JRebel - 给你+1s\|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)~~
 
 ### 国内开发交流社群
 - [Teacon模组开发茶会KOOK频道](https://kook.teacon.cn/)
@@ -152,7 +152,7 @@
 - [Forge官方下载](http://files.minecraftforge.net/)
 - [Minecraft Forge 构建开放环境网络代理配置教程](https://zekerzhayard.gitbook.io/minecraft-forge-gou-jian-kai-fa-huan-jing-wang-luo-dai-li-pei-zhi-jiao-cheng/)
 - [【1.7.10+】耗子的MDK离线包](https://github.com/mouse0w0/forge-mdk-offline)（[百度云盘 提取码：jmrv](https://pan.baidu.com/s/1dE0EJnz)）
-- [通过修改Hosts加速模组环境配置](https://www.mcbbs.net/thread-1148912-1-1.html)
+- ~~[通过修改Hosts加速模组环境配置](https://www.mcbbs.net/thread-1148912-1-1.html)~~
 - ~~[【1.14+】ForgeGradleCN — MDK配置新解决方案](https://www.mcbbs.net/thread-1076799-1-1.html)~~
 - ~~[【1.12.2+】FledgeXu的MDK离线包](https://v2mcdev.com/t/topic/249)（[Github](https://github.com/FledgeXu/ForgeGradleOffline/tags)）~~
 
