@@ -73,7 +73,7 @@
 ### 其他资源
 - [Curse Maven](https://www.cursemaven.com/)
 - [Minecraft实体运动研究与应用](http://lovexyn0827.space/mcdocs/docs/Minecraft%E5%AE%9E%E4%BD%93%E8%BF%90%E5%8A%A8%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%BA%94%E7%94%A8/Minecraft%E5%AE%9E%E4%BD%93%E8%BF%90%E5%8A%A8%E7%9B%B8%E5%85%B3%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%BA%94%E7%94%A8)
-- [基于Architectury的跨加载器模组开发指南]((https://turou.gitbook.io/arch/)
+- [基于Architectury的跨加载器模组开发指南](https://turou.gitbook.io/arch/)
 - [Minecraft 服务端开发指北](https://izzel.io/2021/11/13/how-to-minecraft-server/)
 - [Adventure 中文文档](https://adventure-docs.minecraft.kim/)（[Github](https://github.com/shaokeyibb/adventure-docs-zh_CN)）
 - [[协议] 教你如何从外部 Ping 通服务器](https://juejin.cn/post/7120946847312510984)
