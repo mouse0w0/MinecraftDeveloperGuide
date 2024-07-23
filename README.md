@@ -166,6 +166,7 @@
 - [【1.18】秦千久的模组开发教程](https://tt432.github.io/ModdingTutorial118)
 - [【1.18.2】基于Forge的Datagen教程](https://skyinr.github.io/DatagenBook/#/zh-cn/)
 - [【1.16.5】【Bilibili】Flandre芙兰的Forge模组开发视频教程](https://www.bilibili.com/video/BV1WM4y1K7D5)
+- [【1.16.1】星断肃昭的Forge模组开发视频教程](https://space.bilibili.com/3537121929332753/channel/collectiondetail?sid=3378523&ctype=0)（[抖音](https://www.douyin.com/video/7279377986187431202)/[西瓜视频](https://www.ixigua.com/home/2562275897255528/pseries/?preActiveKey=video&list_entrance=userdetail&wid_try=1)）
 - [聊聊 Forge 工具链](https://izzel.io/2022/09/07/forge-toolchain-teardown/)
 - ~~[手把手Mixin+Forge开发示例，从开发环境配置到mod发布](https://www.mcbbs.net/thread-1386942-1-1.html)~~
 - [Cobalt - 渲染浅析文档](https://zomb-676.github.io/CobaltDocs)
