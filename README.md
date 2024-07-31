@@ -431,7 +431,6 @@
 - [【Python】minecraft-launcher-lib](https://minecraft-launcher-lib.readthedocs.io/en/latest/index.html)
 
 ## 基岩版服务端
-> 目前本条目仍在建设中，欢迎各位前往相关[Issue](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/35)提交意见建议。
 
 ### [官方服务端](https://www.minecraft.net/en-us/download/server/bedrock)
 
@@ -505,7 +504,6 @@
 - [网易我的世界开发指南](https://mc.163.com/dev/guide.html)（[旧版本](https://mc.163.com/mcstudio/mc-dev/)）
 
 ## 着色器包
-> 目前本条目仍在建设中，欢迎各位前往相关[Issue](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/13)提交意见建议。
 
 ### [我的世界图形学社区文档](https://docs.minegraph.cn/home)
 
