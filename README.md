@@ -319,7 +319,7 @@
 - [聊聊 PaperAPI 提供的自定义生物 AI 系统](https://my.minecraft.kim/tech/393/%E8%81%8A%E8%81%8A-paperapi-%E6%8F%90%E4%BE%9B%E7%9A%84%E8%87%AA%E5%AE%9A%E4%B9%89%E7%94%9F%E7%89%A9-ai-%E7%B3%BB%E7%BB%9F/)
 - ~~[关于 ProtocolLib 监听系统的使用与研究](https://www.mcbbs.net/thread-1248152-1-1.html)~~
 - [Bukkit NMS 开发实践 —— 创建你自己的自定义实体](https://my.minecraft.kim/tech/260/bukkit-nms-%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5-%E5%88%9B%E5%BB%BA%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AE%9E%E4%BD%93%EF%BC%88%E9%80%82%E7%94%A8/)
-- [Bukkit编程杂谈：雷点\|模板\|思路\|设计](https://hamsteryds.github.io/noticements-in-bukkit/)
+- [Bukkit编程杂谈：雷点\|模板\|思路\|设计](https://icebear003.github.io/noticements-in-bukkit/)
 - [信息的处理与呈现相关应用编程](https://hamsteryds.gitee.io/info-processing-in-bukkit/)
 - [生物运动&空间坐标的理论探索与应用编程](https://hamsteryds.gitee.io/kinematics-of-minecraft/)
 - ~~[玩转ProtocolLib数据包发包](https://www.mcbbs.net/thread-1123486-1-1.html)~~
