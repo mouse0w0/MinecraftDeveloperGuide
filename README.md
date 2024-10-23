@@ -454,6 +454,7 @@
 - [官方主页](http://www.powernukkitx.cn/)
 - [官方文档](https://www.powernukkitx.com/doc/index.html)
 - [官方仓库](https://github.com/PowerNukkitX/PowerNukkitX)
+- [wulia697的PowerNukkitX快速入门](https://github.com/wuliao697/PowerNukkitXTutorial)
 
 ### Cloudburst Nukkit
 - [官方文档](https://cloudburstmc.org/wiki/nukkit)
