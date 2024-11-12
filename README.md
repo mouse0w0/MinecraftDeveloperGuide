@@ -437,9 +437,9 @@
 ### [官方服务端](https://www.minecraft.net/en-us/download/server/bedrock)
 
 ### LeviLamina (原LiteLoaderBDS)
-- [官方主页](https://levilamina.liteldev.com/zh/)
+- [官方主页](https://lamina.levimc.org/zh/)
 - [官方仓库](https://github.com/LiteLDev/LeviLamina)
-- [LegacyScriptEngine - 在LeviLamina上运行LLSE插件](https://lse.liteldev.com/)
+- [LegacyScriptEngine - 在LeviLamina上运行LLSE插件](https://legacy-script-engine.levimc.org/)
 - [旧版官方仓库](https://github.com/LiteLDev/LiteLoaderBDSv2)
 
 ### bdsx
