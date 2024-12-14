@@ -63,7 +63,9 @@
 ### 搜索引擎[百度](https://www.baidu.com)/[必应](https://www.bing.com)/[谷歌](https://www.google.com)
 有什么问题为什么不先百度一下呢？
 
-### [Wiki.vg](https://wiki.vg/Main_Page)
+### ~~[wiki.vg](https://wiki.vg/Main_Page)~~
+> wiki.vg已关闭，目前Minecraft Wiki正在合并相关内容，[点击此处访问临时页面](https://minecraft.wiki/w/Minecraft_Wiki:Projects/wiki.vg_merge)。
+
 我的世界反向工程与协议参考文档网站，包含各版本网络通信协议、数据格式、Mojang正版验证协议等参考文档。
 
 ### ~~[我的世界中文论坛开发教程索引贴](http://www.mcbbs.net/thread-54579-1-1.html)~~
