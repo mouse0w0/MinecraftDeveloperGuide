@@ -7,6 +7,10 @@
 
 **欢迎各位[在此](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/new?assignees=&labels=&projects=&template=request.yml)提交各类我的世界开发相关教程、资料、文档、类库。**
 
+**欢迎加入[我的世界开发讨论Q群：345538010](https://qm.qq.com/q/Ou895SBQEE)**
+
+发布定制或承接定制请加入[我的世界定制交流Q群：1047988033](https://qm.qq.com/q/Xs4LacqfOU)
+
 ## 目录
 - [提问的方法](#提问的方法)
 - [常用网站与资源](#常用网站与资源)
@@ -89,7 +93,6 @@
 
 ### 国内开发交流社群
 - [Teacon模组开发茶会KOOK频道](https://kook.teacon.cn/)
-- [耗子的Minecraft开发讨论Q群：345538010](https://jq.qq.com/?_wv=1027&k=5wTKLI7)
 - [Bukkit/Spigot插件开发交流Q群：914085636](https://jq.qq.com/?_wv=1027&k=FeUg8OUQ)
 - [Sponge插件开发交流Q群：613604130](https://jq.qq.com/?_wv=1027&k=52OlyJ7)
 
