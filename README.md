@@ -293,6 +293,9 @@
 
 ### [【1.20.4】kitUIN的NeoForge教程](https://arkdust-tutorials.kituin.fun/)
 
+### 简体中文资源
+- [【1.21.1】NeoForge 1.21.1 官方文档AI翻译](https://www.328377.xyz/)（[备用地址](https://nolebase-template-snowy.vercel.app/)）
+
 ## Bukkit/Spigot插件
 
 ### [tdiant的Bukkit插件开发教程](https://bdn.tdiant.net/)（[Github](https://github.com/tdiant/BukkitDevelopmentNote)）
