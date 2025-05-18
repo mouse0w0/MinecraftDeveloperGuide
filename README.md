@@ -299,6 +299,8 @@
 
 ### [Rarity的Bukkit插件开发教程](https://moran0710.github.io/PluginDiary/)（[Github](https://github.com/Andy-K-Sparklight/PluginDiary)）
 
+### [【Kotlin】插件设计与编程](https://bpd.skjsjhb.moe/)
+
 ### 官方教程
 - [新版本（现Spigot）](https://www.spigotmc.org/wiki/spigot/)
 - [旧版本（原Bukkit）](http://wiki.bukkit.org/Plugin_Tutorial)
