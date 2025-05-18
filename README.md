@@ -77,6 +77,7 @@
 ### [V2我的世界开发者论坛](https://www.v2mcdev.com/)
 
 ### 其他资源
+- [MCDReforged：基于 Python 的 Minecraft 服务端控制工具](https://mcdreforged.com/zh-CN)
 - [Curse Maven](https://www.cursemaven.com/)
 - [Minecraft实体运动研究与应用](http://lovexyn0827.space/mcdocs/docs/Minecraft%E5%AE%9E%E4%BD%93%E8%BF%90%E5%8A%A8%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%BA%94%E7%94%A8/Minecraft%E5%AE%9E%E4%BD%93%E8%BF%90%E5%8A%A8%E7%9B%B8%E5%85%B3%E7%A0%94%E7%A9%B6%E4%B8%8E%E5%BA%94%E7%94%A8)
 - [基于Architectury的跨加载器模组开发指南](https://turou.gitbook.io/arch/)
