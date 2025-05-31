@@ -504,6 +504,10 @@
 - [官方主页](https://icmods.mineprogramming.org/)
 - [官方文档](https://wiki.mineprogramming.org/)
 
+### Amethyst
+- [官方文档](https://amethystapi.github.io/Amethyst-Docs/)
+- [官方仓库](https://github.com/FrederoxDev/Amethyst/)
+
 ## 网易基岩版
 - [网易我的世界开发者官网](https://mc.163.com/dev/index.html)
 - [网易我的世界开发指南](https://mc.163.com/dev/guide.html)（[旧版本](https://mc.163.com/mcstudio/mc-dev/)）
@@ -550,10 +554,6 @@ Java开发的Minecraft基岩版服务端。
 ### bdsx
 - [官方文档](https://github.com/bdsx/bdsx/wiki)
 - [官方仓库](https://github.com/bdsx/bdsx)
-
-### Amethyst
-- [官方文档](https://amethystapi.github.io/Amethyst-Docs/)
-- [官方仓库](https://github.com/FrederoxDev/Amethyst/)
 
 </details>
 <!--过时开发资料-->
