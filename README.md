@@ -454,10 +454,6 @@
 - [LegacyScriptEngine - 在LeviLamina上运行LLSE插件](https://legacy-script-engine.levimc.org/)
 - [旧版官方仓库](https://github.com/LiteLDev/LiteLoaderBDSv2)
 
-### bdsx
-- [官方文档](https://github.com/bdsx/bdsx/wiki)
-- [官方仓库](https://github.com/bdsx/bdsx)
-
 ### Endstone
 - [官方文档](https://endstone.dev/latest/)
 - [官方仓库](https://github.com/EndstoneMC/endstone)
@@ -508,10 +504,6 @@
 - [官方主页](https://icmods.mineprogramming.org/)
 - [官方文档](https://wiki.mineprogramming.org/)
 
-### Amethyst
-- [官方文档](https://amethystapi.github.io/Amethyst-Docs/)
-- [官方仓库](https://github.com/FrederoxDev/Amethyst/)
-
 ## 网易基岩版
 - [网易我的世界开发者官网](https://mc.163.com/dev/index.html)
 - [网易我的世界开发指南](https://mc.163.com/dev/guide.html)（[旧版本](https://mc.163.com/mcstudio/mc-dev/)）
@@ -554,6 +546,14 @@ Java开发的Minecraft基岩版服务端。
 
 ### 简体中文资源
 - [新API的部分事物的讲解](http://www.mcbbs.net/thread-288333-1-1.html)
+
+### bdsx
+- [官方文档](https://github.com/bdsx/bdsx/wiki)
+- [官方仓库](https://github.com/bdsx/bdsx)
+
+### Amethyst
+- [官方文档](https://amethystapi.github.io/Amethyst-Docs/)
+- [官方仓库](https://github.com/FrederoxDev/Amethyst/)
 
 </details>
 <!--过时开发资料-->
