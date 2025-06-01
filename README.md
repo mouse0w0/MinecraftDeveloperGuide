@@ -551,6 +551,8 @@ Java开发的Minecraft基岩版服务端。
 ### 简体中文资源
 - [新API的部分事物的讲解](http://www.mcbbs.net/thread-288333-1-1.html)
 
+## 基岩版服务端
+
 ### bdsx
 - [官方文档](https://github.com/bdsx/bdsx/wiki)
 - [官方仓库](https://github.com/bdsx/bdsx)
