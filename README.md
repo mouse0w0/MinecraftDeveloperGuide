@@ -454,10 +454,6 @@
 - [LegacyScriptEngine - 在LeviLamina上运行LLSE插件](https://legacy-script-engine.levimc.org/)
 - [旧版官方仓库](https://github.com/LiteLDev/LiteLoaderBDSv2)
 
-### bdsx
-- [官方文档](https://github.com/bdsx/bdsx/wiki)
-- [官方仓库](https://github.com/bdsx/bdsx)
-
 ### Endstone
 - [官方文档](https://endstone.dev/latest/)
 - [官方仓库](https://github.com/EndstoneMC/endstone)
@@ -554,6 +550,12 @@ Java开发的Minecraft基岩版服务端。
 
 ### 简体中文资源
 - [新API的部分事物的讲解](http://www.mcbbs.net/thread-288333-1-1.html)
+
+## 基岩版服务端
+
+### bdsx
+- [官方文档](https://github.com/bdsx/bdsx/wiki)
+- [官方仓库](https://github.com/bdsx/bdsx)
 
 </details>
 <!--过时开发资料-->
