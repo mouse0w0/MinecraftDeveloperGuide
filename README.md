@@ -177,7 +177,7 @@
 - [聊聊 Forge 工具链](https://izzel.io/2022/09/07/forge-toolchain-teardown/)
 - ~~[手把手Mixin+Forge开发示例，从开发环境配置到mod发布](https://www.mcbbs.net/thread-1386942-1-1.html)~~
 - [Cobalt - 渲染浅析文档](https://zomb-676.github.io/CobaltDocs)
-- [由实例上手快速开发多方块结构](https://turou.fun/multiblock-tutor/)
+- [由实例上手快速开发多方块结构](https://turou.fun/minecraft/multiblock-tutor/)
 - [再析世界生成：生物群系](http://yaossg.com/biome/index.html)
 - [聊聊生物和 AI](https://izzel.io/2021/12/19/living-things/)
 - ~~[Forge安装到导出详细入门教程\|各种报错解决方法](https://www.mcbbs.net/thread-1193768-1-3.html)~~
