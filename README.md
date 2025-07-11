@@ -478,13 +478,15 @@
 
 ## 基岩版Addons
 
-### [我的世界：基岩版创作者文档](https://docs.microsoft.com/en-us/minecraft/creator/)
+### [我的世界基岩版创作者文档](https://docs.microsoft.com/en-us/minecraft/creator/)
 
-### [我的世界：基岩版脚本API参考文档](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/)
+### [我的世界基岩版脚本API参考文档](https://docs.microsoft.com/en-us/minecraft/creator/scriptapi/)
 
 ### [我的世界中文Wiki“附加包（Add-Ons）”页面](https://zh.minecraft.wiki/w/%E9%99%84%E5%8A%A0%E5%8C%85)
 
 ### [边做边学：从零开始制作一个矿石作物 Addon](https://fang.blog.miri.site/archives/980/)
+
+### [【VSCode扩展】我的世界基岩版调试器（Minecraft Bedrock Debugger）](https://marketplace.visualstudio.com/items?itemName=mojang-studios.minecraft-debugger)
 
 ### [【非官方】我的世界基岩版开发百科](https://wiki.mcbe-dev.net/)
 
