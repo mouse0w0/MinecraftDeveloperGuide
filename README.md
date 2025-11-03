@@ -451,7 +451,7 @@
 ### LeviLamina (原LiteLoaderBDS)
 - [官方主页](https://lamina.levimc.org/zh/)
 - [官方仓库](https://github.com/LiteLDev/LeviLamina)
-- [LegacyScriptEngine - 在LeviLamina上运行LLSE插件](http://lse.levimc.org/)
+- [LegacyScriptEngine - 在LeviLamina上运行LLSE插件](https://lse.levimc.org/)
 - [旧版官方仓库](https://github.com/LiteLDev/LiteLoaderBDSv2)
 
 ### Endstone
