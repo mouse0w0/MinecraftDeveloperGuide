@@ -494,7 +494,7 @@
 
 ### 其他资源
 - [下载Minecraft官方资源包/行为包](https://aka.ms/resourcepacktemplate)
-- [Minecraft官方数据包文档](https://github.com/Mojang/bedrock-protocol-docs)
+- [Minecraft官方网络协议文档](https://github.com/Mojang/bedrock-protocol-docs)
 - [基岩版着色器材质文件概述](https://github.com/NovaMods/nova-renderer/wiki/Bedrock-Shaders-Simple-Material-File-Walkthrough)
 - [【非官方】我的世界基岩版文档](https://bedrock.dev/zh)
 - [【非官方】Minecraft基岩版开发文档](https://mcbe-dev.net/)
