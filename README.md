@@ -451,7 +451,7 @@
 ### LeviLamina (原LiteLoaderBDS)
 - [官方主页](https://lamina.levimc.org/zh/)
 - [官方仓库](https://github.com/LiteLDev/LeviLamina)
-- [LegacyScriptEngine - 在LeviLamina上运行LLSE插件](https://legacy-script-engine.levimc.org/)
+- [LegacyScriptEngine - 在LeviLamina上运行LLSE插件](http://lse.levimc.org/)
 - [旧版官方仓库](https://github.com/LiteLDev/LiteLoaderBDSv2)
 
 ### Endstone
@@ -494,6 +494,7 @@
 
 ### 其他资源
 - [下载Minecraft官方资源包/行为包](https://aka.ms/resourcepacktemplate)
+- [Minecraft官方数据包文档](https://github.com/Mojang/bedrock-protocol-docs)
 - [基岩版着色器材质文件概述](https://github.com/NovaMods/nova-renderer/wiki/Bedrock-Shaders-Simple-Material-File-Walkthrough)
 - [【非官方】我的世界基岩版文档](https://bedrock.dev/zh)
 - [【非官方】Minecraft基岩版开发文档](https://mcbe-dev.net/)
