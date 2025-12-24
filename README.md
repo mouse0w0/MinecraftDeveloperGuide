@@ -70,7 +70,7 @@
 
 我的世界反向工程与协议参考文档网站，包含各版本网络通信协议、数据格式、Mojang正版验证协议等参考文档。
 
-### ~~[我的世界中文论坛开发教程索引贴](http://www.mcbbs.net/thread-54579-1-1.html)~~
+### [我的世界中文论坛开发教程索引贴](https://archives.mcbbs.co/read.php?tid=54579)
 
 ### [TeaCon模组开发茶会 —— 线上Minecraft模组开发大赛](https://www.teacon.cn/)
 
@@ -84,13 +84,13 @@
 - [Minecraft服务端开发指北](https://izzel.io/2021/11/13/how-to-minecraft-server/)
 - [Adventure中文文档](https://adventure-docs.minecraft.kim/)（[Github](https://github.com/shaokeyibb/adventure-docs-zh_CN)）
 - [[协议] 教你如何从外部Ping通服务器](https://juejin.cn/post/7120946847312510984)
-- ~~[Java的模式匹配](https://www.mcbbs.net/thread-1207118-1-1.html)~~
+- [Java的模式匹配](https://archives.mcbbs.co/read.php?tid=1207118)
 - [聊聊区块和Ticket](https://izzel.io/2020/09/09/chunks-and-tickets/)
-- ~~[怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)~~
+- [怎么看崩溃报告和Timings？](https://archives.mcbbs.co/read.php?tid=860103)
 - [Mixin官方Wiki中文翻译](https://mouse0w0.github.io/categories/Mixin/)
 - [Minecraft开发资源Maven仓库国内镜像](https://blog.lss233.com/lss233minecraft-mod/)
-- ~~[如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)~~
-- ~~[[调试辅助]JRebel - 给你+1s\|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)~~
+- [如何使用持续集成帮助开发](https://archives.mcbbs.co/read.php?tid=716920)
+- [[调试辅助]JRebel - 给你+1s\|再也不需要重启客户端加全局变量了](https://archives.mcbbs.co/read.php?tid=694119)
 
 ### 国内开发交流社群
 - [Teacon模组开发茶会KOOK频道](https://kook.teacon.cn/)
@@ -159,8 +159,8 @@
 - [Minecraft Forge 构建开放环境网络代理配置教程](https://zekerzhayard.gitbook.io/minecraft-forge-gou-jian-kai-fa-huan-jing-wang-luo-dai-li-pei-zhi-jiao-cheng/)
 - [【1.7.10+】耗子的MDK离线包](https://github.com/mouse0w0/forge-mdk-offline)（[百度云盘 提取码：jmrv](https://pan.baidu.com/s/1dE0EJnz)）
 - [【1.7.10】GTNewHorizons的1.7.10开发环境](https://github.com/GTNewHorizons/ExampleMod1.7.10)
-- ~~[通过修改Hosts加速模组环境配置](https://www.mcbbs.net/thread-1148912-1-1.html)~~
-- ~~[【1.14+】ForgeGradleCN — MDK配置新解决方案](https://www.mcbbs.net/thread-1076799-1-1.html)~~
+- [通过修改Hosts加速模组环境配置](https://archives.mcbbs.co/read.php?tid=1148912)
+- [【1.14+】ForgeGradleCN — MDK配置新解决方案](https://archives.mcbbs.co/read.php?tid=1076799)
 - ~~[【1.12.2+】FledgeXu的MDK离线包](https://v2mcdev.com/t/topic/249)（[Github](https://github.com/FledgeXu/ForgeGradleOffline/tags)）~~
 
 ### 简体中文资源
@@ -180,7 +180,7 @@
 - [由实例上手快速开发多方块结构](https://turou.fun/minecraft/multiblock-tutor/)
 - [再析世界生成：生物群系](http://yaossg.com/biome/index.html)
 - [聊聊生物和 AI](https://izzel.io/2021/12/19/living-things/)
-- ~~[Forge安装到导出详细入门教程\|各种报错解决方法](https://www.mcbbs.net/thread-1193768-1-3.html)~~
+- [Forge安装到导出详细入门教程\|各种报错解决方法](https://archives.mcbbs.co/read.php?tid=1193768)
 - [从实例的角度出发浅谈TileEntitySpecialRenderer](https://turou.fun/legacy-render-tutor/)
 - [[举二反三深入模组开发 第二节] 彩虹桥法杖 + 建筑小助手 = ?](https://turou.fun/analogy/rainbow-gadgets/)
 - [[举二反三深入模组开发 第一节] 息壤 + 午餐盒 = ?](https://turou.fun/analogy/hexang-bento/)
@@ -193,14 +193,14 @@
 - [【全版本】雪崩式的灾难：严重滞后的世界生成](https://www.bilibili.com/read/cv545451/)
 - [【1.7.10-1.12.2】EnumHelper的前世今生](https://zhuanlan.zhihu.com/p/144893811)
 - [【1.7.10-1.12.2】简单网络通信包装类(SimpleNetworkWrapper)](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki/%E7%AE%80%E5%8D%95%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E5%8C%85%E8%A3%85%E7%B1%BB-SimpleNetworkWrapper)
-- ~~[【1.11.2】基于代码的简单方块/物品贴图渲染](http://www.mcbbs.net/thread-697765-1-1.html)~~（[示例代码](https://github.com/rikka0w0/Material_Warehouse)）
+- [【1.11.2】基于代码的简单方块/物品贴图渲染](https://archives.mcbbs.co/read.php?tid=697765)（[示例代码](https://github.com/rikka0w0/Material_Warehouse)）
 - [【1.11.2】ChinaCraft2代码详解——大型模组开发笔记](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki)
-- ~~[【1.10.2+】1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html)~~
+- [【1.10.2+】1.10.2以上的方块与物品渲染](https://archives.mcbbs.co/read.php?tid=733132)
 - [Minecraft模组开发知乎专栏](https://zhuanlan.zhihu.com/c_200546589)
 - [ustc-zzzz的博客](https://blog.ustc-zzzz.net/)
 - [【1.8.9-1.7.2】风之工坊(当风过时的博客)](http://www.windworkshop.cn/?page_id=525)
-- ~~[【全版本】Coremod导论—从切比雪夫多项式说起](http://www.mcbbs.net/thread-822754-1-1.html)~~
-- ~~[【全版本】俩车的 Coremod 介绍](http://www.mcbbs.net/thread-849970-1-1.html)~~
+- [【全版本】Coremod导论—从切比雪夫多项式说起](https://archives.mcbbs.co/read.php?tid=822754)
+- [【全版本】俩车的 Coremod 介绍](https://archives.mcbbs.co/read.php?tid=849970)
 - ~~[【1.8.9】白玉楼之梦(szszss的博客)](http://blog.hakugyokurou.net/?page_id=126)~~
 - ~~[【1.7.10】261Day](https://www.261day.com/minecraft-forge%E6%95%99%E7%A8%8B/)~~
 
@@ -260,8 +260,8 @@
 
 #### ForgeGradle
 - [FancyGradle - 1.12.2 开发环境修复插件](https://gitlab.com/gofancy/fancygradle/-/wikis/home)
-- [Gradle 使用教程及谈谈 ForgeGradle](https://www.mcbbs.net/thread-1129351-1-1.html)
-- ~~[ForgeGradle 开发之「砖」](https://www.mcbbs.net/thread-1107776-1-1.html)~~
+- [Gradle 使用教程及谈谈 ForgeGradle](https://archives.mcbbs.co/read.php?tid=1129351)
+- [ForgeGradle 开发之「砖」](https://archives.mcbbs.co/read.php?tid=1107776)
 - [ForgeGradle 中文文档](https://forgegradle-cn.readthedocs.io/zh/latest/)
 
 #### Mod Coder Pack
@@ -321,15 +321,15 @@
 
 ### 简体中文资源
 > 有删除线的条目可能已有更优秀的资源，或已过时，或链接失效，或存在误导、内容欠缺的问题，仅供参考。
-- ~~[正确使用PluginManager#registerEvent的方式](https://www.mcbbs.net/thread-1472122-1-1.html)~~
-- ~~[监听“玩家放置末影水晶”的方式](https://www.mcbbs.net/thread-1471726-1-1.html)~~
-- ~~[监听“玩家使用盾牌成功格挡伤害”的方式](https://www.mcbbs.net/thread-1471663-1-1.html)~~
-- ~~[NBT库获取ItemStack的NBT副本的意义](https://www.mcbbs.net/thread-1471572-1-1.html)~~
-- ~~[调试小技巧——Bukkit中构建后自动打开服务端](https://www.mcbbs.net/thread-1456687-1-1.html)~~
-- ~~[通过NMS序列化ItemStack 浅谈序列化复杂实体类](https://www.mcbbs.net/thread-1456449-1-1.html)~~
+- [正确使用PluginManager#registerEvent的方式](https://archives.mcbbs.co/read.php?tid=1472122)
+- [监听“玩家放置末影水晶”的方式](https://archives.mcbbs.co/read.php?tid=1471726)
+- [监听“玩家使用盾牌成功格挡伤害”的方式](https://archives.mcbbs.co/read.php?tid=1471663)
+- [NBT库获取ItemStack的NBT副本的意义](https://archives.mcbbs.co/read.php?tid=1471572)
+- [调试小技巧——Bukkit中构建后自动打开服务端](https://archives.mcbbs.co/read.php?tid=1456687)
+- [通过NMS序列化ItemStack 浅谈序列化复杂实体类](https://archives.mcbbs.co/read.php?tid=1456449)
 - [事件监听大典 : Bukkit API 文档中文翻译](https://william-shi233.gitbook.io/event-listeners/)
 - [图形学基础与MC插件开发 ~ 几乎完美的范围挖掘算法](https://www.iseason.top/mc-scope-mining/)
-- ~~[使用 PersistentDataContainer 快速添加自定义数据](https://www.mcbbs.net/thread-1248632-1-1.html)~~
+- [使用 PersistentDataContainer 快速添加自定义数据](https://archives.mcbbs.co/read.php?tid=1248632)
 - [聊聊 PaperAPI 提供的自定义生物 AI 系统](https://my.minecraft.kim/tech/393/%E8%81%8A%E8%81%8A-paperapi-%E6%8F%90%E4%BE%9B%E7%9A%84%E8%87%AA%E5%AE%9A%E4%B9%89%E7%94%9F%E7%89%A9-ai-%E7%B3%BB%E7%BB%9F/)
 - ~~[关于 ProtocolLib 监听系统的使用与研究](https://www.mcbbs.net/thread-1248152-1-1.html)~~
 - [Bukkit NMS 开发实践 —— 创建你自己的自定义实体](https://my.minecraft.kim/tech/260/bukkit-nms-%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5-%E5%88%9B%E5%BB%BA%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AE%9E%E4%BD%93%EF%BC%88%E9%80%82%E7%94%A8/)
