@@ -70,7 +70,7 @@
 
 我的世界反向工程与协议参考文档网站，包含各版本网络通信协议、数据格式、Mojang正版验证协议等参考文档。
 
-### ~~[我的世界中文论坛开发教程索引贴](http://www.mcbbs.net/thread-54579-1-1.html)~~
+### [我的世界中文论坛开发教程索引贴](https://archives.mcbbs.co/read.php?tid=54579)
 
 ### [TeaCon模组开发茶会 —— 线上Minecraft模组开发大赛](https://www.teacon.cn/)
 
@@ -84,13 +84,13 @@
 - [Minecraft服务端开发指北](https://izzel.io/2021/11/13/how-to-minecraft-server/)
 - [Adventure中文文档](https://adventure-docs.minecraft.kim/)（[Github](https://github.com/shaokeyibb/adventure-docs-zh_CN)）
 - [[协议] 教你如何从外部Ping通服务器](https://juejin.cn/post/7120946847312510984)
-- ~~[Java的模式匹配](https://www.mcbbs.net/thread-1207118-1-1.html)~~
+- [Java的模式匹配](https://archives.mcbbs.co/read.php?tid=1207118)
 - [聊聊区块和Ticket](https://izzel.io/2020/09/09/chunks-and-tickets/)
-- ~~[怎么看崩溃报告和Timings？](http://www.mcbbs.net/thread-860103-1-1.html)~~
+- [怎么看崩溃报告和Timings？](https://archives.mcbbs.co/read.php?tid=860103)
 - [Mixin官方Wiki中文翻译](https://mouse0w0.github.io/categories/Mixin/)
 - [Minecraft开发资源Maven仓库国内镜像](https://blog.lss233.com/lss233minecraft-mod/)
-- ~~[如何使用持续集成帮助开发](http://www.mcbbs.net/thread-716920-1-1.html)~~
-- ~~[[调试辅助]JRebel - 给你+1s\|再也不需要重启客户端加全局变量了](http://www.mcbbs.net/thread-694119-1-1.html)~~
+- [如何使用持续集成帮助开发](https://archives.mcbbs.co/read.php?tid=716920)
+- [[调试辅助]JRebel - 给你+1s\|再也不需要重启客户端加全局变量了](https://archives.mcbbs.co/read.php?tid=694119)
 
 ### 国内开发交流社群
 - [Teacon模组开发茶会KOOK频道](https://kook.teacon.cn/)
@@ -159,8 +159,8 @@
 - [Minecraft Forge 构建开放环境网络代理配置教程](https://zekerzhayard.gitbook.io/minecraft-forge-gou-jian-kai-fa-huan-jing-wang-luo-dai-li-pei-zhi-jiao-cheng/)
 - [【1.7.10+】耗子的MDK离线包](https://github.com/mouse0w0/forge-mdk-offline)（[百度云盘 提取码：jmrv](https://pan.baidu.com/s/1dE0EJnz)）
 - [【1.7.10】GTNewHorizons的1.7.10开发环境](https://github.com/GTNewHorizons/ExampleMod1.7.10)
-- ~~[通过修改Hosts加速模组环境配置](https://www.mcbbs.net/thread-1148912-1-1.html)~~
-- ~~[【1.14+】ForgeGradleCN — MDK配置新解决方案](https://www.mcbbs.net/thread-1076799-1-1.html)~~
+- [通过修改Hosts加速模组环境配置](https://archives.mcbbs.co/read.php?tid=1148912)
+- [【1.14+】ForgeGradleCN — MDK配置新解决方案](https://archives.mcbbs.co/read.php?tid=1076799)
 - ~~[【1.12.2+】FledgeXu的MDK离线包](https://v2mcdev.com/t/topic/249)（[Github](https://github.com/FledgeXu/ForgeGradleOffline/tags)）~~
 
 ### 简体中文资源
@@ -180,7 +180,7 @@
 - [由实例上手快速开发多方块结构](https://turou.fun/minecraft/multiblock-tutor/)
 - [再析世界生成：生物群系](http://yaossg.com/biome/index.html)
 - [聊聊生物和 AI](https://izzel.io/2021/12/19/living-things/)
-- ~~[Forge安装到导出详细入门教程\|各种报错解决方法](https://www.mcbbs.net/thread-1193768-1-3.html)~~
+- [Forge安装到导出详细入门教程\|各种报错解决方法](https://archives.mcbbs.co/read.php?tid=1193768)
 - [从实例的角度出发浅谈TileEntitySpecialRenderer](https://turou.fun/legacy-render-tutor/)
 - [[举二反三深入模组开发 第二节] 彩虹桥法杖 + 建筑小助手 = ?](https://turou.fun/analogy/rainbow-gadgets/)
 - [[举二反三深入模组开发 第一节] 息壤 + 午餐盒 = ?](https://turou.fun/analogy/hexang-bento/)
@@ -193,14 +193,14 @@
 - [【全版本】雪崩式的灾难：严重滞后的世界生成](https://www.bilibili.com/read/cv545451/)
 - [【1.7.10-1.12.2】EnumHelper的前世今生](https://zhuanlan.zhihu.com/p/144893811)
 - [【1.7.10-1.12.2】简单网络通信包装类(SimpleNetworkWrapper)](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki/%E7%AE%80%E5%8D%95%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E5%8C%85%E8%A3%85%E7%B1%BB-SimpleNetworkWrapper)
-- ~~[【1.11.2】基于代码的简单方块/物品贴图渲染](http://www.mcbbs.net/thread-697765-1-1.html)~~（[示例代码](https://github.com/rikka0w0/Material_Warehouse)）
+- [【1.11.2】基于代码的简单方块/物品贴图渲染](https://archives.mcbbs.co/read.php?tid=697765)（[示例代码](https://github.com/rikka0w0/Material_Warehouse)）
 - [【1.11.2】ChinaCraft2代码详解——大型模组开发笔记](https://github.com/UnknownStudio/ChinaCraft2CodeExplanation/wiki)
-- ~~[【1.10.2+】1.10.2以上的方块与物品渲染](http://www.mcbbs.net/thread-733132-1-1.html)~~
+- [【1.10.2+】1.10.2以上的方块与物品渲染](https://archives.mcbbs.co/read.php?tid=733132)
 - [Minecraft模组开发知乎专栏](https://zhuanlan.zhihu.com/c_200546589)
 - [ustc-zzzz的博客](https://blog.ustc-zzzz.net/)
 - [【1.8.9-1.7.2】风之工坊(当风过时的博客)](http://www.windworkshop.cn/?page_id=525)
-- ~~[【全版本】Coremod导论—从切比雪夫多项式说起](http://www.mcbbs.net/thread-822754-1-1.html)~~
-- ~~[【全版本】俩车的 Coremod 介绍](http://www.mcbbs.net/thread-849970-1-1.html)~~
+- [【全版本】Coremod导论—从切比雪夫多项式说起](https://archives.mcbbs.co/read.php?tid=822754)
+- [【全版本】俩车的 Coremod 介绍](https://archives.mcbbs.co/read.php?tid=849970)
 - ~~[【1.8.9】白玉楼之梦(szszss的博客)](http://blog.hakugyokurou.net/?page_id=126)~~
 - ~~[【1.7.10】261Day](https://www.261day.com/minecraft-forge%E6%95%99%E7%A8%8B/)~~
 
@@ -260,8 +260,8 @@
 
 #### ForgeGradle
 - [FancyGradle - 1.12.2 开发环境修复插件](https://gitlab.com/gofancy/fancygradle/-/wikis/home)
-- [Gradle 使用教程及谈谈 ForgeGradle](https://www.mcbbs.net/thread-1129351-1-1.html)
-- ~~[ForgeGradle 开发之「砖」](https://www.mcbbs.net/thread-1107776-1-1.html)~~
+- [Gradle 使用教程及谈谈 ForgeGradle](https://archives.mcbbs.co/read.php?tid=1129351)
+- [ForgeGradle 开发之「砖」](https://archives.mcbbs.co/read.php?tid=1107776)
 - [ForgeGradle 中文文档](https://forgegradle-cn.readthedocs.io/zh/latest/)
 
 #### Mod Coder Pack
@@ -321,59 +321,59 @@
 
 ### 简体中文资源
 > 有删除线的条目可能已有更优秀的资源，或已过时，或链接失效，或存在误导、内容欠缺的问题，仅供参考。
-- ~~[正确使用PluginManager#registerEvent的方式](https://www.mcbbs.net/thread-1472122-1-1.html)~~
-- ~~[监听“玩家放置末影水晶”的方式](https://www.mcbbs.net/thread-1471726-1-1.html)~~
-- ~~[监听“玩家使用盾牌成功格挡伤害”的方式](https://www.mcbbs.net/thread-1471663-1-1.html)~~
-- ~~[NBT库获取ItemStack的NBT副本的意义](https://www.mcbbs.net/thread-1471572-1-1.html)~~
-- ~~[调试小技巧——Bukkit中构建后自动打开服务端](https://www.mcbbs.net/thread-1456687-1-1.html)~~
-- ~~[通过NMS序列化ItemStack 浅谈序列化复杂实体类](https://www.mcbbs.net/thread-1456449-1-1.html)~~
+- [正确使用PluginManager#registerEvent的方式](https://archives.mcbbs.co/read.php?tid=1472122)
+- [监听“玩家放置末影水晶”的方式](https://archives.mcbbs.co/read.php?tid=1471726)
+- [监听“玩家使用盾牌成功格挡伤害”的方式](https://archives.mcbbs.co/read.php?tid=1471663)
+- [NBT库获取ItemStack的NBT副本的意义](https://archives.mcbbs.co/read.php?tid=1471572)
+- [调试小技巧——Bukkit中构建后自动打开服务端](https://archives.mcbbs.co/read.php?tid=1456687)
+- [通过NMS序列化ItemStack 浅谈序列化复杂实体类](https://archives.mcbbs.co/read.php?tid=1456449)
 - [事件监听大典 : Bukkit API 文档中文翻译](https://william-shi233.gitbook.io/event-listeners/)
 - [图形学基础与MC插件开发 ~ 几乎完美的范围挖掘算法](https://www.iseason.top/mc-scope-mining/)
-- ~~[使用 PersistentDataContainer 快速添加自定义数据](https://www.mcbbs.net/thread-1248632-1-1.html)~~
+- [使用 PersistentDataContainer 快速添加自定义数据](https://archives.mcbbs.co/read.php?tid=1248632)
 - [聊聊 PaperAPI 提供的自定义生物 AI 系统](https://my.minecraft.kim/tech/393/%E8%81%8A%E8%81%8A-paperapi-%E6%8F%90%E4%BE%9B%E7%9A%84%E8%87%AA%E5%AE%9A%E4%B9%89%E7%94%9F%E7%89%A9-ai-%E7%B3%BB%E7%BB%9F/)
-- ~~[关于 ProtocolLib 监听系统的使用与研究](https://www.mcbbs.net/thread-1248152-1-1.html)~~
+- [关于 ProtocolLib 监听系统的使用与研究](https://archives.mcbbs.co/read.php?tid=1248152)
 - [Bukkit NMS 开发实践 —— 创建你自己的自定义实体](https://my.minecraft.kim/tech/260/bukkit-nms-%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5-%E5%88%9B%E5%BB%BA%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AE%9E%E4%BD%93%EF%BC%88%E9%80%82%E7%94%A8/)
 - [Bukkit编程杂谈：雷点\|模板\|思路\|设计](https://icebear003.github.io/noticements-in-bukkit/)
 - [信息的处理与呈现相关应用编程](https://hamsteryds.gitee.io/info-processing-in-bukkit/)
 - [生物运动&空间坐标的理论探索与应用编程](https://hamsteryds.gitee.io/kinematics-of-minecraft/)
-- ~~[玩转ProtocolLib数据包发包](https://www.mcbbs.net/thread-1123486-1-1.html)~~
-- ~~[优雅地让命令完整支持TAB补全](https://www.mcbbs.net/thread-1075004-1-1.html)~~
-- ~~[怎样写出一个1.12.2-1.15.2通用支持的插件](https://www.mcbbs.net/thread-1023107-1-1.html)~~
+- [玩转ProtocolLib数据包发包](https://archives.mcbbs.co/read.php?tid=1123486)
+- [优雅地让命令完整支持TAB补全](https://archives.mcbbs.co/read.php?tid=1075004)
+- [怎样写出一个1.12.2-1.15.2通用支持的插件](https://archives.mcbbs.co/read.php?tid=1023107)
 - [如何编写一个可以保留注释的配置类](https://zhuanlan.zhihu.com/p/146322254)
-- ~~[使用IDEA快速调试插件](https://www.mcbbs.net/thread-1004767-1-1.html)~~
-- ~~[创建高版本自定义实体，自定义方块原理与应用](https://www.mcbbs.net/thread-966358-1-1.html)~~
+- [使用IDEA快速调试插件](https://archives.mcbbs.co/read.php?tid=1004767)
+- [创建高版本自定义实体，自定义方块原理与应用](https://archives.mcbbs.co/read.php?tid=966358)
 - [如何问玩家“吾与徐公孰美？”](https://izzel.io/2020/02/12/chat-with-future/)
 - [Scoreboard教程](https://www.jianshu.com/p/911edcaf5e79)
-- ~~[1.13+ 中 Forge 与 Bukkit 的通信](http://www.mcbbs.net/thread-873219-1-1.html)~~
+- [1.13+ 中 Forge 与 Bukkit 的通信](https://archives.mcbbs.co/read.php?tid=873219)
 - [插件粒子特效教程](https://www.jianshu.com/p/cf267acfe719)
-- ~~[聊天组件API——自定义你的聊天消息](http://www.mcbbs.net/thread-812136-1-1.html)~~
-- ~~[如何让插件命令支持Tab自动补全](http://www.mcbbs.net/thread-818199-1-1.html)~~
-- ~~[自定义实体](http://www.mcbbs.net/thread-811096-1-1.html)~~
-- ~~[插件使用MySQL数据库](http://www.mcbbs.net/thread-783267-1-1.html)~~
-- ~~[ItemMeta 使用教程](http://www.mcbbs.net/thread-782974-1-1.html)~~
-- ~~[Pathfinder 实体AI教程](http://www.mcbbs.net/thread-775757-1-1.html)~~
-- ~~[如何给插件加上更新检查](http://www.mcbbs.net/thread-726821-1-1.html)~~
+- [聊天组件API——自定义你的聊天消息](https://archives.mcbbs.co/read.php?tid=812136)
+- [如何让插件命令支持Tab自动补全](https://archives.mcbbs.co/read.php?tid=818199)
+- [自定义实体](https://archives.mcbbs.co/read.php?tid=811096)
+- [插件使用MySQL数据库](https://archives.mcbbs.co/read.php?tid=783267)
+- [ItemMeta 使用教程](https://archives.mcbbs.co/read.php?tid=782974)
+- [Pathfinder 实体AI教程](https://archives.mcbbs.co/read.php?tid=775757)
+- [如何给插件加上更新检查](https://archives.mcbbs.co/read.php?tid=726821)
 - [Forge/LiteLoader与Bukkit/Sponge之间的通信](https://izzel.io/2017/08/28/minecraft-plugin-message/)
-- ~~[HolographicDisplays API 汉化](http://www.mcbbs.net/thread-721009-1-1.html)~~
-- ~~[如何利用Maven来管理你的插件](http://www.mcbbs.net/thread-711754-1-1.html)~~
-- ~~[在插件通过发包(ProtocolLib)打开牌子界面(Sign GUI)](http://www.mcbbs.net/thread-706491-1-1.html)~~
-- ~~[自定义交互式书本](http://www.mcbbs.net/thread-697788-1-1.html)~~
-- ~~[如何给物品增加NBT数据](http://www.mcbbs.net/thread-697478-1-1.html)~~
-- ~~[自定义物品模型[1.9+]](http://www.mcbbs.net/thread-694674-1-1.html)~~
-- ~~[在使用NMS的同时支持多个版本](http://www.mcbbs.net/thread-694224-1-1.html)~~
-- ~~[BukkitAPI 1.10->1.11改动介绍](http://www.mcbbs.net/thread-648659-1-1.html)~~
-- ~~[如何在JavaIDE上调试你的插件](http://www.mcbbs.net/thread-627399-1-1.html)~~
-- ~~[Bukkit Conversation API](http://www.mcbbs.net/thread-619632-1-1.html)~~
-- ~~[Vault API 翻译](http://www.mcbbs.net/thread-615396-1-1.html)~~
-- ~~[Placeholder 教程](http://www.mcbbs.net/thread-570703-1-1.html)~~
-- ~~[ProtocolLib 教程](http://www.mcbbs.net/thread-568714-1-1.html)~~
-- ~~[使用Metrics统计信息](http://www.mcbbs.net/thread-295815-1-1.html)~~
-- ~~[Enchantment API 教程](http://www.mcbbs.net/thread-782859-1-1.html)~~
-- ~~[编辑，获取并使用木牌](http://www.mcbbs.net/thread-697373-1-1.html)~~
-- ~~(已于1.12弃用)Ebean数据库[(上)](http://www.mcbbs.net/thread-628118-1-1.html)[(下)](http://www.mcbbs.net/thread-636860-1-1.html)~~
-- ~~[wyt的Bukkit插件开发教程](http://www.mcbbs.net/thread-614388-1-1.html)~~
-- ~~[Day's Bukkit插件开发教程](http://www.mcbbs.net/thread-439856-1-1.html)~~
-- ~~[810587921的插件开发教程](http://www.mcbbs.net/thread-283190-1-1.html)~~
+- [HolographicDisplays API 汉化](https://archives.mcbbs.co/read.php?tid=721009)
+- [如何利用Maven来管理你的插件](https://archives.mcbbs.co/read.php?tid=711754)
+- [在插件通过发包(ProtocolLib)打开牌子界面(Sign GUI)](https://archives.mcbbs.co/read.php?tid=706491)
+- [自定义交互式书本](https://archives.mcbbs.co/read.php?tid=697788)
+- [如何给物品增加NBT数据](https://archives.mcbbs.co/read.php?tid=697478)
+- [自定义物品模型[1.9+]](https://archives.mcbbs.co/read.php?tid=694674)
+ - [在使用NMS的同时支持多个版本](https://archives.mcbbs.co/read.php?tid=694224)
+ - [BukkitAPI 1.10->1.11改动介绍](https://archives.mcbbs.co/read.php?tid=648659)
+ - [如何在JavaIDE上调试你的插件](https://archives.mcbbs.co/read.php?tid=627399)
+ - [Bukkit Conversation API](https://archives.mcbbs.co/read.php?tid=619632)
+ - [Vault API 翻译](https://archives.mcbbs.co/read.php?tid=615396)
+ - [Placeholder 教程](https://archives.mcbbs.co/read.php?tid=570703)
+ - [ProtocolLib 教程](https://archives.mcbbs.co/read.php?tid=568714)
+ - [使用Metrics统计信息](https://archives.mcbbs.co/read.php?tid=295815)
+ - [Enchantment API 教程](https://archives.mcbbs.co/read.php?tid=782859)
+ - [编辑，获取并使用木牌](https://archives.mcbbs.co/read.php?tid=697373)
+ - (已于1.12弃用)Ebean数据库[(上)](https://archives.mcbbs.co/read.php?tid=628118)[(下)](https://archives.mcbbs.co/read.php?tid=636860)
+ - [wyt的Bukkit插件开发教程](https://archives.mcbbs.co/read.php?tid=614388)
+ - [Day's Bukkit插件开发教程](https://archives.mcbbs.co/read.php?tid=439856)
+ - [810587921的插件开发教程](https://archives.mcbbs.co/read.php?tid=283190)
 
 ## Fabric模组
 
@@ -389,12 +389,12 @@
 > 有删除线的条目可能已有更优秀的资源，或已过时，或链接失效，或存在误导、内容欠缺的问题，仅供参考。
 - [【1.20.1】【Bilibili】Flandre芙兰的Fabric模组开发视频教程](https://www.bilibili.com/video/BV1Kj411f7Zt)
 - [Linkie 映射表查询](https://linkie.shedaniel.me/mappings)
-- ~~[在自己的Mod里添加线缆网络！](https://www.mcbbs.net/thread-1385476-1-1.html)~~
-- ~~[FabricLoomCN-加速你的 fabric 模组依赖拉取以及环境搭建](https://www.mcbbs.net/thread-1239261-1-1.html)~~
+ - [在自己的Mod里添加线缆网络！](https://archives.mcbbs.co/read.php?tid=1385476)
+ - [FabricLoomCN-加速你的 fabric 模组依赖拉取以及环境搭建](https://archives.mcbbs.co/read.php?tid=1239261)
 - [由现象到本质的Minecraft源码注入艺术](https://turou.fun/minecraft/mixin-tutor/)
-- ~~[用EventLib简化fabric mod开发](https://www.mcbbs.net/thread-1030076-1-1.html)~~
-- ~~[Leader——中文社区的一份Minecraft Fabric教程](https://www.mcbbs.net/thread-964580-1-1.html)~~
-- ~~[Fabric开发文档中文翻译](https://www.mcbbs.net/thread-904854-1-1.html)~~
+ - [用EventLib简化fabric mod开发](https://archives.mcbbs.co/read.php?tid=1030076)
+ - [Leader——中文社区的一份Minecraft Fabric教程](https://archives.mcbbs.co/read.php?tid=964580)
+ - [Fabric开发文档中文翻译](https://archives.mcbbs.co/read.php?tid=904854)
 
 ## BungeeCord插件
 
@@ -434,7 +434,7 @@
 - [编写启动器 - Minecraft Wiki](https://zh.minecraft.wiki/w/%E6%95%99%E7%A8%8B/%E7%BC%96%E5%86%99%E5%90%AF%E5%8A%A8%E5%99%A8)
 - [xphost008的启动器开发教程](https://xphost008.github.io/lmaml)
 - [JMCCC使用教程](https://github.com/yushijinhun/jmccc.tutorial/blob/master/tutorial-2.4.md)
-- ~~[KMCCC使用教程](https://www.mcbbs.net/thread-492606-1-1.html)~~
+ - [KMCCC使用教程](https://archives.mcbbs.co/read.php?tid=492606)
 
 ### 类库
 - [【C#】KMCCC](https://github.com/MineStudio/KMCCC)
@@ -537,22 +537,22 @@
 
 ### [官方网站](http://www.liteloader.com/)
 
-### [zzzz的LiteMod开发引导(简体中文)](http://www.mcbbs.net/thread-659755-1-1.html)
+### [zzzz的LiteMod开发引导(简体中文)](https://archives.mcbbs.co/read.php?tid=659755)
 
 ### [官方源码仓库](http://develop.liteloader.com/public)
 
 ## Nukkit插件
 Java开发的Minecraft基岩版服务端。
-### [Nukkit插件中文开发教程](http://www.mcbbs.net/thread-552265-1-1.html)
+### [Nukkit插件中文开发教程](https://archives.mcbbs.co/read.php?tid=552265)
 
 ### [Nukkit官方论坛插件开发讨论板块](https://forums.nukkit.io/forums/plugin-development.7/)
 
 ## PocketMine插件
 
-### [PocketMine插件开发中文教程](http://www.mcbbs.net/thread-410243-1-1.html)
+### [PocketMine插件开发中文教程](https://archives.mcbbs.co/read.php?tid=410243)
 
 ### 简体中文资源
-- [新API的部分事物的讲解](http://www.mcbbs.net/thread-288333-1-1.html)
+- [新API的部分事物的讲解](https://archives.mcbbs.co/read.php?tid=288333)
 
 ## 基岩版服务端
 
