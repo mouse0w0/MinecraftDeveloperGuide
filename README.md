@@ -421,6 +421,7 @@
 
 ## 数据包
 ### 文档与教程
+- [香草图书馆](https://cr-019.github.io/datapack-index/)（[国内镜像](https://vanillalibrary.mcfpp.top/datapack-index/)）
 - [Minecraft 原版模组入门教程](https://zhangshenxing.github.io/VanillaModTutorial/)
 - [数据包 - Minecraft Wiki](https://zh.minecraft.wiki/w/%E6%95%B0%E6%8D%AE%E5%8C%85)
 
