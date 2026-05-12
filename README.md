@@ -276,15 +276,20 @@
 - [RetroMCP（1.5.2及以前版本）](https://github.com/MCPHackers/RetroMCP-Java)
 - ~~[MCPBot Data Exports](http://export.mcpbot.bspk.rs/)~~
 
-#### Parchment
-> Minecraft 1.16.5+ 第三方反混淆表
-- [入门指南](https://parchmentmc.org/docs/getting-started)
-- [Github](https://github.com/ParchmentMC/Parchment)
-
 #### Forge Javadoc
 > 本JavaDoc由第三方提供，不能保证其时效性及有效性，以实际开发环境为准。
 - [【1.12+】ForgeJavaDocs-NG](https://github.com/Nekoyue/ForgeJavaDocs-NG)
 - [【1.7.10-1.12.2】ForgeJavaDocs](https://skmedix.github.io/ForgeJavaDocs/)
+
+#### CleanroomMC
+> Minecraft Forge 1.12.2 分支
+- [Wiki](https://cleanroommc.com/zh/wiki/)
+- [开发模板](https://github.com/CleanroomMC/ForgeDevEnv)
+
+#### Parchment
+> Minecraft 1.16.5+ 第三方反混淆表
+- [入门指南](https://parchmentmc.org/docs/getting-started)
+- [Github](https://github.com/ParchmentMC/Parchment)
 
 ## NeoForge模组
 > 目前本条目仍在建设中，欢迎各位前往相关[Issue](https://github.com/mouse0w0/MinecraftDeveloperGuide/issues/60)提交意见建议。
