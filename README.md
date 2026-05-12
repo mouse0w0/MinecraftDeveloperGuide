@@ -284,6 +284,7 @@
 
 #### CleanroomMC
 > Minecraft Forge 1.12.2 分支
+- [主页](https://cleanroommc.com/zh/)
 - [Wiki](https://cleanroommc.com/zh/wiki/)
 - [开发模板](https://github.com/CleanroomMC/CleanroomModTemplate)
 
