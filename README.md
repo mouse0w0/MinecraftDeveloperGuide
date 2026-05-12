@@ -231,7 +231,7 @@
 - [【1.7.10】EMX的教程](https://emxtutorials.wordpress.com/)
 - ~~[附属模组开发工作空间设置](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/modification-development/2358564-how-do-i-use-another-mod-as-a-dependency-for-my)~~
 
-### 模组迁移指南（英语）
+### 模组迁移入门指南（英语）
 - [1.20.5/6 -> 1.21 模组迁移指南](https://gist.github.com/ChampionAsh5357/d895a7b1a34341e19c80870720f9880f)
 - [1.20.4 -> 1.20.5 模组迁移指南](https://gist.github.com/ChampionAsh5357/53b04132e292aa12638d339abfabf955)
 - [1.19.4 -> 1.20 模组迁移指南](https://gist.github.com/ChampionAsh5357/cf818acc53ffea6f4387fe28c2977d56)
@@ -297,6 +297,8 @@
 ### [官方网站](https://neoforged.net/)
 
 ### [官方文档](https://docs.neoforged.net/)
+
+### [【1.14+】模组迁移入门指南（英语）](https://github.com/neoforged/.github/tree/main/primers)
 
 ### [【1.20.4】Flandre芙兰的NeoForge教程](https://fuwari-ald.pages.dev/archive/category/Minecraft1_20_4_NeoForge_Tutorial/)（[Bilibili视频](https://www.bilibili.com/video/BV1hv421y7fe)/[源代码](https://github.com/Flandre923/NeoForgeTutorialmod-Minecraft1.20.4)）
 
