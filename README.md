@@ -157,9 +157,9 @@
 ### MDK（Minecraft开发工具包）
 - [Forge官方下载](http://files.minecraftforge.net/)
 - [【1.12.2】Cleanroom维护的1.12.2开发模板](https://github.com/CleanroomMC/ForgeDevEnv)
+- [【1.7.10】GTNewHorizons的1.7.10开发模板](https://github.com/GTNewHorizons/ExampleMod1.7.10)
 - [Minecraft Forge 构建开放环境网络代理配置教程](https://zekerzhayard.gitbook.io/minecraft-forge-gou-jian-kai-fa-huan-jing-wang-luo-dai-li-pei-zhi-jiao-cheng/)
 - [【1.7.10+】耗子的MDK离线包](https://github.com/mouse0w0/forge-mdk-offline)（[百度云盘 提取码：jmrv](https://pan.baidu.com/s/1dE0EJnz)）
-- [【1.7.10】GTNewHorizons的1.7.10开发环境](https://github.com/GTNewHorizons/ExampleMod1.7.10)
 - [通过修改Hosts加速模组环境配置](https://archives.mcbbs.co/read.php?tid=1148912)
 - [【1.14+】ForgeGradleCN — MDK配置新解决方案](https://archives.mcbbs.co/read.php?tid=1076799)
 - ~~[【1.12.2+】FledgeXu的MDK离线包](https://v2mcdev.com/t/topic/249)（[Github](https://github.com/FledgeXu/ForgeGradleOffline/tags)）~~
