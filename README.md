@@ -156,6 +156,7 @@
 
 ### MDK（Minecraft开发工具包）
 - [Forge官方下载](http://files.minecraftforge.net/)
+- [【1.12.2】Cleanroom维护的1.12.2开发模板](https://github.com/CleanroomMC/ForgeDevEnv)
 - [Minecraft Forge 构建开放环境网络代理配置教程](https://zekerzhayard.gitbook.io/minecraft-forge-gou-jian-kai-fa-huan-jing-wang-luo-dai-li-pei-zhi-jiao-cheng/)
 - [【1.7.10+】耗子的MDK离线包](https://github.com/mouse0w0/forge-mdk-offline)（[百度云盘 提取码：jmrv](https://pan.baidu.com/s/1dE0EJnz)）
 - [【1.7.10】GTNewHorizons的1.7.10开发环境](https://github.com/GTNewHorizons/ExampleMod1.7.10)
@@ -284,7 +285,7 @@
 #### CleanroomMC
 > Minecraft Forge 1.12.2 分支
 - [Wiki](https://cleanroommc.com/zh/wiki/)
-- [开发模板](https://github.com/CleanroomMC/ForgeDevEnv)
+- [开发模板](https://github.com/CleanroomMC/CleanroomModTemplate)
 
 #### Parchment
 > Minecraft 1.16.5+ 第三方反混淆表
