@@ -582,6 +582,13 @@ Java开发的Minecraft基岩版服务端。
 
 ## 统计信息
 
-### Stargazers over time
-[![Stargazers over time](https://starchart.cc/mouse0w0/MinecraftDeveloperGuide.svg)](https://starchart.cc/mouse0w0/MinecraftDeveloperGuide)
+### Star History
+
+<a href="https://www.star-history.com/?repos=mouse0w0%2FMinecraftDeveloperGuide&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=mouse0w0/MinecraftDeveloperGuide&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=mouse0w0/MinecraftDeveloperGuide&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=mouse0w0/MinecraftDeveloperGuide&type=date&legend=top-left" />
+ </picture>
+</a>
 
